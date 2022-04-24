@@ -1,0 +1,61 @@
+\t (00:00:00) allegro 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Oct 09 05:42:34 2019
+\t (00:00:00)         Host=KIRSCHMACKEAA35 User=kirsch Pid=5960 CPUs=2
+\t (00:00:00) CmdLine= allegro.exe -s builder.scr.txt
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 29310
+\i (00:00:03) replay builder.scr.txt 
+\i (00:00:03) skill 'load "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_2923041/AllegroV17_2/AllegroV17_2/builder.ile" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'changeWorkingDir "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_2923041/AllegroV17_2/AllegroV17_2" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_2923041/AllegroV17_2/AllegroV17_2/CON4-B474X618RZT.xml" ' 
+\t (00:00:03) Reading Footprint XML
+\t (00:00:03) Creating padstacks
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 1
+\i (00:00:04) trapsize 1
+\i (00:00:04) trapsize 1
+\i (00:00:04) trapsize 556
+\i (00:00:04) trapsize 55592
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (2 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Starting new design...
+\i (00:00:05) trapsize 35593
+\i (00:00:05) trapsize 36169
+\i (00:00:05) trapsize 35593
+\i (00:00:05) trapsize 55592
+\i (00:00:05) trapsize 55592
+\t (00:00:05) Unknown pad shape type "diamond"
+\t (00:00:05) Opening Design "CON4-B474X618RZT.dra"
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 1
+\i (00:00:05) trapsize 1
+\i (00:00:06) trapsize 1
+\i (00:00:06) trapsize 55592
+\i (00:00:06) trapsize 15755
+\t (00:00:06) Creating TextBlocks
+\t (00:00:06) Creating Shapes on Package layers
+   (00:00:06) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 453.0)
+\t (00:00:06) Creating Pins
+\t (00:00:06) Creating Vias
+\t (00:00:06) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_2923041/AllegroV17_2/AllegroV17_2/con4-b474x618rzt.psm'.
+\t (00:00:06) Starting Create symbol...
+\t (00:00:06) Symbol Created
+\i (00:00:06) trapsize 2838
+   (00:00:06) Loading cmds.cxt 
+   (00:00:06) Loading skillExt.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:07) trapsize 2676
+\i (00:00:07) trapsize 2719
+\i (00:00:07) trapsize 2761
+\i (00:00:07) trapsize 2719
+\i (00:00:07) trapsize 2838
+\d (00:00:07) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_2923041/AllegroV17_2/AllegroV17_2/CON4-B474X618RZT.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) exit 
+\t (00:00:08)     Journal end - Wed Oct 09 05:42:41 2019

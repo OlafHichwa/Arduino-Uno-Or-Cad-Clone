@@ -1,0 +1,151 @@
+\t (00:00:00) allegro 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Oct 09 05:58:38 2019
+\t (00:00:00)         Host=KIRSCHMACKEAA35 User=kirsch Pid=5744 CPUs=2
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\kirsch\Documents\OrCAD\ArduinoUNO\CAD\Parts\Footprints\zzzSource\PJ-002AH\CUI_PJ-002AH.dra
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\i (00:00:02) fillin yes 
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged CUI_PJ-002AH
+\d (00:00:02) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/PJ-002AH/CUI_PJ-002AH.dra
+\i (00:00:03) trapsize 2632
+\i (00:00:03) trapsize 2699
+\i (00:00:03) trapsize 2770
+\i (00:00:03) trapsize 2699
+\i (00:00:03) trapsize 2545
+\i (00:00:03) trapsize 2585
+\i (00:00:04) trapsize 3073
+\i (00:00:04) generaledit 
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -0.9285 -2.4562
+\i (00:00:05) trapsize 1537
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -0.9285 -2.4562
+\i (00:00:06) trapsize 768
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -0.9284 -2.4561
+\i (00:00:06) trapsize 384
+\i (00:00:10) pick grid -3.0948 1.1394
+\t (00:00:10) last pick:  -2.5400 0.0000
+\i (00:00:15) color192 
+\i (00:00:15) generaledit 
+\i (00:00:18) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
+\i (00:00:20) QtSignal CVDColorTable CVDColorButton1:0 clicked
+\i (00:00:21) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 11 0
+\i (00:00:21) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 11 0
+\i (00:00:21) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:22) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 11 0
+\i (00:00:22) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 11 0
+\i (00:00:22) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:24) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:00:25) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:00:41) padeditlib 
+\i (00:00:50) fillin "T_L100_225_450_M450_225"
+\i (00:05:40) fillin "T_L100_250_500_M500_250"
+\i (00:07:44) fillin "menu_ok"
+\i (00:07:44) generaledit 
+\i (00:07:46) pick grid -3.5558 4.0433
+\t (00:07:46) last pick:  -2.5400 5.0800
+\i (00:07:46) prepopup -3.5558 4.0433
+\i (00:07:47) pick grid -4.1243 4.0126
+\t (00:07:47) last pick:  -5.0800 5.0800
+\i (00:07:48) zoom out 1 
+\i (00:07:48) setwindow pcb
+\i (00:07:48) zoom out -3.2946 3.7053
+\i (00:07:48) trapsize 768
+\i (00:07:49) zoom in 1 
+\i (00:07:49) setwindow pcb
+\i (00:07:49) zoom in -3.3253 3.9204
+\i (00:07:49) trapsize 384
+\i (00:07:52) pick grid -1.7427 3.9666
+\t (00:07:52) last pick:  -2.5400 5.0800
+\i (00:07:55) zoom out 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom out -2.7260 3.7822
+\i (00:07:55) trapsize 768
+\i (00:07:56) roam start
+\i (00:07:56) roam x -48
+\i (00:07:56) roam y -64
+\i (00:07:56) roam x -64
+\i (00:07:56) roam y -96
+\i (00:07:57) roam x -80
+\i (00:07:57) roam y -112
+\i (00:07:57) roam end
+\i (00:07:58) prepopup -2.0194 -5.3449
+\i (00:07:59) pop dyn_option_select @:@Delete 
+\i (00:07:59) delete 
+\i (00:07:59) generaledit 
+\i (00:08:06) drag_start grid -0.8824 6.7321
+\i (00:08:06) move 
+\t (00:08:06) last pick:  -0.6900 6.1303
+\t (00:08:06) Pick new location for the element(s).
+\i (00:08:07) drag_stop grid -3.8633 1.9996
+\i (00:08:07) generaledit 
+\i (00:08:10) pick grid -7.5201 8.3608
+\t (00:08:10) last pick:  -7.6200 7.6200
+\i (00:08:10) undo 
+\i (00:08:10) trapsize 768
+\i (00:08:10) generaledit 
+\i (00:08:11) pick grid -5.5841 6.5477
+\t (00:08:11) last pick:  -5.0800 7.6200
+\i (00:08:15) prepopup -0.7902 6.9164
+\i (00:08:18) pop dyn_option_select '@:@Text edit' 
+\i (00:08:18) text edit 
+\i (00:08:21) setwindow form.textedit
+\i (00:08:21) FORM textedit str J* 
+\i (00:08:21) FORM textedit done  
+\i (00:08:21) setwindow pcb
+\i (00:08:21) pick 0.0000 0.0000
+\t (00:08:21) Pick text to edit.
+\i (00:08:21) setwindow pcb
+\i (00:08:21) generaledit 
+\i (00:08:23) pick grid -2.0502 6.8857
+\t (00:08:23) last pick:  -2.5400 7.6200
+\i (00:08:24) prepopup -2.0502 6.8857
+\i (00:08:26) pop dyn_option_select '@:@Text edit' 
+\i (00:08:26) text edit 
+\i (00:08:29) setwindow form.textedit
+\i (00:08:29) FORM textedit str J* 
+\i (00:08:29) FORM textedit done  
+\i (00:08:29) setwindow pcb
+\i (00:08:29) pick 0.0000 0.0000
+\t (00:08:29) Pick text to edit.
+\i (00:08:29) setwindow pcb
+\i (00:08:29) generaledit 
+\i (00:08:30) pick grid -4.0784 6.1789
+\t (00:08:30) last pick:  -5.0800 5.0800
+\i (00:08:33) save 
+\i (00:08:36) fillin yes 
+\t (00:08:36) Symbol 'cui_pj-002ah.psm' created.
+\i (00:08:36) generaledit 
+\i (00:08:37) pick grid -5.5841 5.8716
+\t (00:08:37) last pick:  -5.0800 5.0800
+\i (00:09:47) pick grid -10.7775 6.5784
+\t (00:09:47) last pick:  -10.1600 7.6200
+\i (00:09:50) pick grid -12.7443 7.8998
+\t (00:09:50) last pick:  -12.7000 7.6200
+\i (00:24:29) step pkg map 
+\i (00:24:38) setwindow form.pkgmap3d
+\i (00:24:38) FORM pkgmap3d namefilter_stp CUI* 
+\i (00:24:42) FORM pkgmap3d namefilter_stp CU* 
+\i (00:24:48) FORM pkgmap3d namefilter_stp * 
+\i (00:24:53) FORM pkgmap3d namefilter_stp *PJ* 
+\i (00:24:57) FORM pkgmap3d namefilter_stp * 
+\i (00:25:27) FORM pkgmap3d namefilter_stp PJ* 
+\i (00:25:30) FORM pkgmap3d namefilter_stp * 
+\i (00:25:37) FORM pkgmap3d done  
+\i (00:25:37) setwindow pcb
+\i (00:25:37) generaledit 
+\i (00:25:38) pick grid -3.1872 7.3774
+\t (00:25:38) last pick:  -2.5400 7.6200
+\i (00:25:40) save 
+\i (00:25:42) fillin yes 
+\t (00:25:42) Symbol 'cui_pj-002ah.psm' created.
+\i (00:25:42) generaledit 
+\i (00:25:42) pick grid 17.6171 5.9945
+\t (00:25:42) last pick:  17.7800 5.0800
+\i (00:25:44) exit 
+\t (00:25:44)     Journal end - Wed Oct 09 06:24:22 2019

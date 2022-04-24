@@ -1,0 +1,181 @@
+
+(EDIF
+  (rename BKP2125HS600_45_T "BKP2125HS600-T")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2019 10 08 04 04 42)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename BKP2125HS600_45_T "BKP2125HS600-T")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename BKP2125HS600_45_T "BKP2125HS600-T")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "FB")
+          (property (rename VALUE "Value") (string "BKP2125HS600-T"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -30000 -15000) (pt 30000 15000)))
+            (portImplementation
+              (name &2)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 30000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 30000 0)
+                    (pt 10000 0)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &1)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -30000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -30000 0)
+                    (pt -10000 0)
+                  )
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -30015 20003))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -30039 -30027))
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -15000 -5000) (pt -5000 -15000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -5000 -15000) (pt 15000 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 15000 5000) (pt 5000 15000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 5000 15000) (pt -15000 -5000)))
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "BEADC2112X105N"))
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "BKP2125HS600-T"))
+            )
+            (property
+              (rename Digi_Key_Purchase_URL "Digi_Key_Purchase_URL")
+              (string
+              (stringDisplay "https://www.digikey.com/product-detail/en/taiyo-yuden/BKP2125HS600-T/587-1932-1-ND/1465402?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"))
+            )
+            (property
+              (rename Digi_Key_Part_Number "Digi_Key_Part_Number")
+              (string
+              (stringDisplay "587-1932-1-ND"))
+            )
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "Taiyo Yuden"))
+            )
+            (property
+              (rename Package "Package")
+              (string
+              (stringDisplay "2125 Taiyo Yuden"))
+            )
+            (property
+              (rename Description "Description")
+              (string
+              (stringDisplay "
+Ind Chip Bead Multi-Layer 60Ohm 25PCT 100MHz Ferrite 3A 0805 T/R
+"))
+            )
+          )
+        )
+      )
+    )
+  )
+)

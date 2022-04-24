@@ -1,0 +1,53 @@
+\t (00:00:02) allegro 17.2 S061 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Sun Jan 19 18:31:59 2020
+\t (00:00:02)         Host=KIRSCHMACKE030A User=kirschmackey Pid=8940 CPUs=2
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\kirschmackey\Documents\OrCAD\ArduinoUNO174\CAD\Parts\Footprints\MH_120.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged MH_120
+\d (00:00:02) Design opened: C:/Users/kirschmackey/Documents/OrCAD/ArduinoUNO174/CAD/Parts/Footprints/MH_120.dra
+\i (00:00:02) trapsize 80
+\i (00:00:02) trapsize 82
+\i (00:00:02) trapsize 80
+\i (00:00:02) trapsize 67
+\i (00:00:02) trapsize 69
+\i (00:00:02) trapsize 70
+\i (00:00:02) trapsize 70
+\i (00:00:03) generaledit 
+\i (00:00:06) pick grid 24.8 98.9
+\t (00:00:06) last pick:  0.0 100.0
+\i (00:00:07) prepopup 24.8 98.9
+\i (00:00:08) pop dyn_option_select @:@Move 
+\i (00:00:08) move 
+\t (00:00:08) last pick:  0.0 100.0
+\t (00:00:08) last pick:  0.0 100.0
+\t (00:00:08) Element has no origin, using pick.
+\t (00:00:08) Pick new location for the element(s).
+\i (00:00:09) pick grid 250.4 24.6
+\t (00:00:09) last pick:  300.0 0.0
+\i (00:00:09) generaledit 
+\i (00:00:09) prepopup 362.5 62.4
+\i (00:00:10) pick grid 303.7 58.2
+\t (00:00:10) last pick:  300.0 100.0
+\i (00:00:12) pick grid 314.9 -4.8
+\t (00:00:12) last pick:  300.0 0.0
+\i (00:00:12) prepopup 314.9 -4.8
+\i (00:00:13) pop dyn_option_select @:@Delete 
+\i (00:00:13) delete 
+\i (00:00:13) generaledit 
+\i (00:00:13) pick grid 344.3 52.6
+\t (00:00:13) last pick:  300.0 100.0
+\i (00:00:14) 3d 
+\i (00:00:15) generaledit 
+\i (00:00:19) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:00:20) pick grid 438.2 42.8
+\t (00:00:20) last pick:  400.0 0.0
+\i (00:00:20) save 
+\i (00:00:22) fillin yes 
+\t (00:00:22) Symbol 'mh_120.psm' created.
+\i (00:00:22) generaledit 
+\i (00:00:22) pick grid 967.9 -84.7
+\t (00:00:22) last pick:  1000.0 -100.0
+\i (00:00:24) exit 
+\t (00:00:25)     Journal end - Sun Jan 19 18:32:22 2020

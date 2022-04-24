@@ -1,0 +1,31 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *Model_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space0.
+NOTE: Replacing illegal character * with X in *D1.
+NOTE: Replacing illegal character * with X in *D2.
+NOTE: Replacing illegal character * with X in *D1.
+NOTE: Replacing illegal character * with X in *D2.
+done.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+NOTE: Ignoring unsupported element POINT on line 1962.
+NOTE: Ignoring unsupported element POINT on line 1982.
+NOTE: Ignoring unsupported element POINT on line 2002.
+NOTE: Ignoring unsupported element POINT on line 2282.
+NOTE: Ignoring unsupported element POINT on line 2302.
+NOTE: Ignoring unsupported element POINT on line 2322.
+Layer conversion file: C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/ImportedDesignFiles/ArduinoUno_l.cnv
+DXF file: C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/ImportedDesignFiles/ArduinoUno.dxf
+BRD file: C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/#Taaaaek10000.tmp
+Update existing design?: YES
+Use default text?: YES
+DXF units: MILLIMETERS
+Design units: MILS
+Design precision: 2
+dxf2a complete.

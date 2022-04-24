@@ -1,0 +1,4 @@
+skill load "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_2923041/AllegroV17_2/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_2923041/AllegroV17_2/AllegroV17_2" 
+skill LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_2923041/AllegroV17_2/AllegroV17_2/CON4-B474X618RZT.xml" 
+exit 

@@ -1,0 +1,223 @@
+\t (00:01:17) allegro 17.2 S059 Windows SPB 64-bit Edition
+\t (00:01:17)     Journal start - Thu Sep 26 06:35:30 2019
+\t (00:01:17)         Host=KIRSCHMACKED2C1 User=kirsch Pid=7820 CPUs=2
+\t (00:01:17) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:01:17) 
+\d (00:01:17) Design opened: Z:/GoogleDrive_LearnOrCAD/PCB_Training/ArduinoUNO/CAD/Parts/Footprints/ATMEGA328-PU/DIP28.dra
+\i (00:01:17) trapsize 21476
+\i (00:01:18) generaledit 
+\i (00:01:19) zoom in 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in -5.6221 7.8771
+\i (00:01:19) trapsize 10738
+\i (00:01:19) zoom in 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in -17.6485 7.4477
+\i (00:01:19) trapsize 5369
+\i (00:01:19) zoom in 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in -24.3059 7.2330
+\i (00:01:19) trapsize 2684
+\i (00:01:21) zoom in 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom in -6.0516 12.7630
+\i (00:01:21) trapsize 1342
+\i (00:01:24) pick grid -8.6018 18.7761
+\t (00:01:24) last pick:  -7.6200 17.7800
+\i (00:01:28) padeditdb 
+\i (00:01:30) setwindow form.mini
+\i (00:01:30) FORM mini padlist T_L81_132_264_M264_132 
+\i (00:01:32) FORM mini pad_stack_edit  
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in -4.6019 14.4273
+\i (00:02:34) trapsize 671
+\i (00:02:35) zoom in 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom in -4.6019 14.4273
+\i (00:02:35) trapsize 336
+\i (00:02:36) zoom out 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom out -4.6018 14.4273
+\i (00:02:36) trapsize 671
+\i (00:02:36) zoom out 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom out -4.6020 14.4273
+\i (00:02:36) trapsize 1342
+\i (00:02:37) prepopup -10.1587 17.7292
+\i (00:02:38) done 
+\i (00:02:38) generaledit 
+\i (00:02:38) pick grid -9.2460 17.4876
+\t (00:02:38) last pick:  -10.1600 17.7800
+\i (00:02:41) trapsize 1312
+\i (00:02:43) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:02:45) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:02:46) zoom out 1 
+\i (00:02:46) setwindow pcb
+\i (00:02:46) zoom out 8.3384 17.9576
+\i (00:02:46) trapsize 2624
+\i (00:02:47) zoom out 1 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) zoom out 11.0468 11.9233
+\i (00:02:47) trapsize 5247
+\i (00:02:48) zoom in 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom in -7.3707 -7.0713
+\i (00:02:48) trapsize 2624
+\i (00:02:51) copy 
+\t (00:02:51) Select the element(s) to copy.
+\i (00:02:53) pick grid -2.5051 -18.3527
+\t (00:02:53) last pick:  -2.5400 -17.7800
+\i (00:02:54) pick grid 12.1869 -16.3588
+\t (00:02:54) last pick:  12.7000 -15.2400
+\i (00:02:54) prepopup 23.2584 -10.7443
+\i (00:02:55) done 
+\i (00:02:56) generaledit 
+\i (00:03:00) zoom out 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom out 6.4150 -17.1459
+\i (00:03:00) trapsize 5247
+\i (00:03:01) zoom in 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom in 8.3708 6.2565
+\i (00:03:01) trapsize 2624
+\i (00:03:14) zoom out 1 
+\i (00:03:14) setwindow pcb
+\i (00:03:14) zoom out 7.3070 20.2139
+\i (00:03:14) trapsize 5247
+\i (00:03:16) zoom in 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom in 8.3708 1.8489
+\i (00:03:16) trapsize 2624
+\i (00:03:17) roam start
+\i (00:03:17) roam y -48
+\i (00:03:17) roam y -96
+\i (00:03:18) roam y -80
+\i (00:03:18) roam end
+\i (00:03:24) change 
+\i (00:03:32) setwindow form.mini
+\i (00:03:32) FORM mini line_width 0.1270 
+\i (00:03:34) setwindow pcb
+\i (00:03:34) pick grid 18.1686 15.0316
+\t (00:03:34) last pick:  17.7800 15.2400
+\w (00:03:34) WARNING(SPMHGE-523): Line already matches option panel settings.
+\i (00:03:38) setwindow form.mini
+\i (00:03:38) FORM mini apply_subclass YES 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) pick grid 18.2736 16.7107
+\t (00:03:39) last pick:  17.7800 17.7800
+\t (00:03:39) No DRC errors detected.
+\t (00:03:39) Changed 1 items out of 1 items found.
+\i (00:03:40) prepopup 24.8850 17.9175
+\i (00:03:40) done 
+\i (00:03:41) generaledit 
+\i (00:03:41) pick grid 24.9375 20.0689
+\t (00:03:41) last pick:  25.4000 20.3200
+\i (00:03:42) zoom out 1 
+\i (00:03:42) setwindow pcb
+\i (00:03:42) zoom out 16.9618 22.5875
+\i (00:03:42) trapsize 5247
+\i (00:03:44) move 
+\t (00:03:44) Select element(s) to move.
+\i (00:03:45) pick grid 12.8833 16.6058
+\t (00:03:45) last pick:  12.7000 17.7800
+\t (00:03:45) last pick:  12.7000 17.7800
+\t (00:03:45) Element has no origin, using pick.
+\t (00:03:45) Pick new location for the element(s).
+\i (00:03:47) pick grid -3.8026 15.1366
+\t (00:03:47) last pick:  -2.5400 15.2400
+\i (00:03:48) prepopup 14.0377 18.3898
+\i (00:03:48) done 
+\i (00:03:48) generaledit 
+\i (00:03:49) pick grid 9.3153 24.2666
+\t (00:03:49) last pick:  10.1600 25.4000
+\i (00:03:56) label refdes 
+\t (00:03:56) Pick text location.
+\i (00:04:04) setwindow form.mini
+\i (00:04:04) FORM mini subclass SILKSCREEN_TOP 
+\i (00:04:09) FORM mini class PACKAGE GEOMETRY 
+\i (00:04:14) FORM mini class REF DES 
+\i (00:04:26) setwindow pcb
+\i (00:04:26) pick grid -1.9136 21.4331
+\t (00:04:26) last pick:  -2.5400 20.3200
+\t (00:04:26) Refdes of this subclass is already defined, change subclass.
+\i (00:04:29) zoom in 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom in -6.6361 20.4887
+\i (00:04:29) trapsize 2624
+\i (00:04:29) zoom in 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom in -14.0488 20.4887
+\i (00:04:29) trapsize 1312
+\i (00:04:45) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:04:47) pick grid -1.2195 21.6431
+\t (00:04:47) last pick:  0.0000 22.8600
+\t (00:04:47) Refdes of this subclass is already defined, change subclass.
+\i (00:05:03) prepopup 9.9306 20.3050
+\i (00:05:04) done 
+\i (00:05:04) generaledit 
+\i (00:05:05) pick grid 7.4382 19.5967
+\t (00:05:05) last pick:  7.6200 20.3200
+\i (00:05:07) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
+\i (00:05:10) color192 
+\i (00:05:10) generaledit 
+\i (00:05:13) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "Ref des"
+\i (00:05:17) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 7 0
+\i (00:05:17) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:05:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:19) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:05:20) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:05:20) zoom out 1 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom out -1.7443 13.0115
+\i (00:05:20) trapsize 2624
+\i (00:05:25) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:05:27) zoom in 1 
+\i (00:05:27) setwindow pcb
+\i (00:05:27) zoom in -2.2285 11.6997
+\i (00:05:27) trapsize 1312
+\i (00:05:28) roam start
+\i (00:05:28) roam y 64
+\i (00:05:28) roam x 16
+\i (00:05:28) roam y 96
+\i (00:05:28) roam y 96
+\i (00:05:28) roam end
+\i (00:05:28) zoom out 1 
+\i (00:05:28) setwindow pcb
+\i (00:05:28) zoom out -0.3133 6.6624
+\i (00:05:28) trapsize 2624
+\i (00:05:29) zoom out 1 
+\i (00:05:29) setwindow pcb
+\i (00:05:29) zoom out 0.7624 6.6624
+\i (00:05:29) trapsize 5247
+\i (00:05:30) zoom in 1 
+\i (00:05:30) setwindow pcb
+\i (00:05:30) zoom in -11.4635 -2.4677
+\i (00:05:30) trapsize 2624
+\i (00:05:32) pick grid -13.9964 16.7894
+\t (00:05:32) last pick:  -15.2400 17.7800
+\i (00:05:34) prmed 
+\i (00:05:35) setwindow form.prmedit
+\i (00:05:35) FORM prmedit text  
+\i (00:05:36) FORM prmedit text_setup_button  
+\i (00:05:46) setwindow form.textblock
+\i (00:05:46) FORM textblock 3 photoplot_width 0.1270 
+\i (00:05:50) FORM textblock done  
+\i (00:05:51) setwindow form.prmedit
+\i (00:05:51) FORM prmedit apply  
+\i (00:05:51) setwindow pcb
+\i (00:05:51) trapsize 2688
+\i (00:05:52) trapsize 2624
+\i (00:05:52) setwindow form.prmedit
+\i (00:05:52) FORM prmedit done  
+\i (00:05:53) setwindow pcb
+\i (00:05:53) generaledit 
+\i (00:05:53) pick grid -11.4254 6.4001
+\t (00:05:53) last pick:  -10.1600 7.6200
+\i (00:05:55) save 
+\i (00:05:57) fillin yes 
+\t (00:05:58) Symbol 'dip28.psm' created.
+\i (00:05:58) generaledit 
+\i (00:06:05) exit 
+\t (00:06:06)     Journal end - Thu Sep 26 06:40:20 2019

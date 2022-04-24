@@ -1,0 +1,153 @@
+\t (00:00:00) allegro 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Tue Oct 08 02:33:07 2019
+\t (00:00:00)         Host=KIRSCHMACKEAA35 User=kirsch Pid=4720 CPUs=2
+\t (00:00:00) CmdLine= allegro.exe -s builder.scr.txt
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 29310
+\i (00:00:04) replay builder.scr.txt 
+\i (00:00:04) skill 'load "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_LP298533DBVR/AllegroV17_2/AllegroV17_2/builder.ile" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'changeWorkingDir "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_LP298533DBVR/AllegroV17_2/AllegroV17_2" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_LP298533DBVR/AllegroV17_2/AllegroV17_2/DBV5-L.xml" ' 
+\t (00:00:04) Reading Footprint XML
+\t (00:00:04) Creating padstacks
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 1
+\i (00:00:04) trapsize 1
+\i (00:00:04) trapsize 1
+\i (00:00:04) trapsize 1164
+\i (00:00:04) trapsize 116438
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (2 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "DBV5-L.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 1
+\i (00:00:05) trapsize 1
+\i (00:00:05) trapsize 1
+\i (00:00:05) trapsize 116438
+\i (00:00:05) trapsize 29096
+\t (00:00:05) Creating TextBlocks
+\t (00:00:05) Creating Shapes on Package layers
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 57.0)
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_LP298533DBVR/AllegroV17_2/AllegroV17_2/dbv5-l.psm'.
+\t (00:00:05) Starting Create symbol...
+\t (00:00:05) Symbol Created
+\i (00:00:05) trapsize 1756
+   (00:00:05) Loading cmds.cxt 
+   (00:00:05) Loading skillExt.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 1290
+\i (00:00:05) trapsize 1317
+\i (00:00:06) trapsize 1351
+\i (00:00:06) trapsize 1317
+\i (00:00:06) trapsize 1756
+\d (00:00:06) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_LP298533DBVR/AllegroV17_2/AllegroV17_2/DBV5-L.dra
+\t (00:00:06) Symbol Saved
+   (00:00:06) t
+\i (00:00:06) scriptmode +i +n 
+\i (00:00:06) step pkg map 
+\i (00:00:06) setwindow form.pkgmap3d 
+\i (00:00:06) FORM pkgmap3d stplist DBV5-L.step 
+\i (00:00:07) FORM pkgmap3d rotation_x 0 
+\i (00:00:07) FORM pkgmap3d save_current 
+\i (00:00:07) FORM pkgmap3d done 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) save 
+\i (00:00:07) fillin yes 
+\t (00:00:07) Symbol 'dbv5-l.psm' created.
+\i (00:00:07) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_LP298533DBVR/AllegroV17_2/AllegroV17_2/DBV5-M.xml" ' 
+\t (00:00:07) Reading Footprint XML
+\t (00:00:07) Creating padstacks
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 14510
+\i (00:00:07) trapsize 14887
+\i (00:00:08) trapsize 14510
+\i (00:00:08) trapsize 29096
+\i (00:00:08) trapsize 29096
+\t (00:00:08) Opening Design "DBV5-M.dra"
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 1
+\i (00:00:08) trapsize 1
+\i (00:00:08) trapsize 1
+\i (00:00:08) trapsize 29096
+\i (00:00:08) trapsize 29096
+\t (00:00:08) Creating TextBlocks
+\t (00:00:08) Creating Shapes on Package layers
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 57.0)
+\t (00:00:08) Creating Pins
+\t (00:00:08) Creating Vias
+\t (00:00:08) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_LP298533DBVR/AllegroV17_2/AllegroV17_2/dbv5-m.psm'.
+\t (00:00:08) Starting Create symbol...
+\t (00:00:08) Symbol Created
+\i (00:00:08) trapsize 1893
+\t (00:00:09) Opening existing design...
+\i (00:00:09) trapsize 1893
+\i (00:00:09) trapsize 1942
+\i (00:00:09) trapsize 1893
+\i (00:00:09) trapsize 1893
+\d (00:00:09) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_LP298533DBVR/AllegroV17_2/AllegroV17_2/DBV5-M.dra
+\t (00:00:09) Symbol Saved
+   (00:00:09) t
+\i (00:00:09) scriptmode +i +n 
+\i (00:00:09) step pkg map 
+\i (00:00:09) setwindow form.pkgmap3d 
+\i (00:00:09) FORM pkgmap3d stplist DBV5-M.step 
+\i (00:00:10) FORM pkgmap3d rotation_x 0 
+\i (00:00:10) FORM pkgmap3d save_current 
+\i (00:00:10) FORM pkgmap3d done 
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) save 
+\i (00:00:10) fillin yes 
+\t (00:00:10) Symbol 'dbv5-m.psm' created.
+\i (00:00:10) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_LP298533DBVR/AllegroV17_2/AllegroV17_2/DBV5.xml" ' 
+\t (00:00:10) Reading Footprint XML
+\t (00:00:10) Creating padstacks
+\t (00:00:10) Starting new design...
+\i (00:00:10) trapsize 14525
+\i (00:00:10) trapsize 14902
+\i (00:00:10) trapsize 14525
+\i (00:00:11) trapsize 29096
+\i (00:00:11) trapsize 29096
+\t (00:00:11) Opening Design "DBV5.dra"
+\t (00:00:11) Starting new design...
+\i (00:00:11) trapsize 1
+\i (00:00:11) trapsize 1
+\i (00:00:12) trapsize 1
+\i (00:00:12) trapsize 29096
+\i (00:00:12) trapsize 29096
+\t (00:00:12) Creating TextBlocks
+\t (00:00:12) Creating Shapes on Package layers
+   (00:00:12) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 57.0)
+\t (00:00:12) Creating Pins
+\t (00:00:12) Creating Vias
+\t (00:00:12) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_LP298533DBVR/AllegroV17_2/AllegroV17_2/dbv5.psm'.
+\t (00:00:12) Starting Create symbol...
+\t (00:00:12) Symbol Created
+\i (00:00:12) trapsize 1811
+\t (00:00:12) Opening existing design...
+\i (00:00:12) trapsize 1811
+\i (00:00:12) trapsize 1858
+\i (00:00:12) trapsize 1811
+\i (00:00:13) trapsize 1811
+\d (00:00:13) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_LP298533DBVR/AllegroV17_2/AllegroV17_2/DBV5.dra
+\t (00:00:13) Symbol Saved
+   (00:00:13) t
+\i (00:00:13) scriptmode +i +n 
+\i (00:00:13) step pkg map 
+\i (00:00:13) setwindow form.pkgmap3d 
+\i (00:00:13) FORM pkgmap3d stplist DBV5.step 
+\i (00:00:13) FORM pkgmap3d rotation_x 0 
+\i (00:00:13) FORM pkgmap3d save_current 
+\i (00:00:13) FORM pkgmap3d done 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) save 
+\i (00:00:14) fillin yes 
+\t (00:00:14) Symbol 'dbv5.psm' created.
+\i (00:00:14) exit 
+\t (00:00:14)     Journal end - Tue Oct 08 02:33:21 2019

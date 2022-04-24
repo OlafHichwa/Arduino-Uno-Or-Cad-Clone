@@ -1,0 +1,690 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001Apr-24-2022 at 13:01:17 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ARDUINOUNO';
+ POST_TIME='Dec  6 2021 01:15:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_CC0805N_22PF_C0805C220K5GACTU':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52907@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52907@discrete.\cap np.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52907@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_CC0805N_1UF_C0805C105K3PACTU':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52243@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52243@discrete.\cap np.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52243@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_CC0805N_1UF_C0805C105K3PACTU':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52047@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52047@discrete.\cap np.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52047@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_CC0805N_2.2UF_C0805C225K4RACTU':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52223@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52223@discrete.\cap np.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52223@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_CC0805N_100NF_C0805C104K3RACTU':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53171@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53171@discrete.\cap np.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53171@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_CC0805N_22PF_C0805C220K5GACTU':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53455@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53455@discrete.\cap np.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53455@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_CC0805N_22PF_C0805C220K5GACTU':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS51923@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins51923@discrete.\cap np.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins51923@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_CC0805N_100NF_C0805C104K3RACTU':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52027@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52027@discrete.\cap np.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52027@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_CC0805N_100NF_C0805C104K3RACTU':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53415@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53415@discrete.\cap np.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53415@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_CC0805N_100NF_C0805C104K3RACTU':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52439@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52439@discrete.\cap np.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52439@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_CC0805N_22PF_C0805C220K5GACTU':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52363@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52363@discrete.\cap np.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52363@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_CC0805N_100NF_C0805C104K3RACTU':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53371@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53371@discrete.\cap np.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53371@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_CC0805N_100NF_C0805C104K3RACTU':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52459@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52459@discrete.\cap np.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52459@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_CC0805N_100NF_C0805C104K3RACTU':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52591@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52591@discrete.\cap np.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52591@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_U2-K_100UF_EDH107M025A9HAA':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52987@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52987@discrete.\cap.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52987@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_U2-K_100UF_EDH107M025A9HAA':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52163@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52163@discrete.\cap.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52163@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_CC0805N_100NF_C0805C104K3RACTU':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52307@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52307@discrete.\cap np.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52307@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_CC0805N_100NF_C0805C104K3RACTU':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53635@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53635@discrete.\cap np.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53635@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE SCHOTTKY_SD0805_DIODE SCHOTTKY_SD0805S040S0R5':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52867@DISCRETE.DIODE SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52867@discrete.\diode schottky.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52867@discrete.\diode schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE_SMA_DIODE_':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52751@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52751@discrete.\diode.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52751@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LED_0805_ORANGE_TXLED_5988130107F':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53191@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53191@discrete.\led.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53191@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_LED_0805_ORANGE_RXLED_5988130107F':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53351@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53351@discrete.\led.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53351@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'DIODE SCHOTTKY_SD0805_DIODE SCHOTTKY_SD0805S040S0R5':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS51987@DISCRETE.DIODE SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins51987@discrete.\diode schottky.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins51987@discrete.\diode schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'LED_LEDC2012X70N_PWR LED_5988170107F':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53295@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53295@discrete.\led.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53295@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER 4_1_HEADERV_4POS_2X2_JUMPER':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS51883@ARDUINO_UNO.HEADER 4_1.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins51883@arduino_uno.\header 4_1.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins51883@arduino_uno.\header 4_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'HEADER 8_0_CONN8_FH_HEADER 8':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52099@ARDUINO_UNO.HEADER 8_0.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52099@arduino_uno.\header 8_0.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52099@arduino_uno.\header 8_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER 8_CONN8_FH_POWER':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS51943@CONNECTOR.HEADER 8.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins51943@connector.\header 8.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins51943@connector.\header 8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER 6_0_HDRV6POS254_2X3_ICSP1':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52671@ARDUINO_UNO.HEADER 6_0.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52671@arduino_uno.\header 6_0.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52671@arduino_uno.\header 6_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CONN JACK PWR_CUI_PJ-002AH_+12V DC':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52283@CONNECTOR.CONN JACK PWR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52283@connector.\conn jack pwr.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52283@connector.\conn jack pwr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'HEADER 4_3_CON4-B474X618RZT_USB_B':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53259@ARDUINO_UNO.HEADER 4_3.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53259@arduino_uno.\header 4_3.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53259@arduino_uno.\header 4_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'HEADER 5_2_DBV5_3.3V LP2985':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53315@ARDUINO_UNO.HEADER 5_2.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53315@arduino_uno.\header 5_2.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53315@arduino_uno.\header 5_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'HEADER 10_0_CONN10_FH_HEADER 10':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52771@ARDUINO_UNO.HEADER 10_0.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52771@arduino_uno.\header 10_0.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52771@arduino_uno.\header 10_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'HEADER 6_0_HDRV6POS254_2X3_ICSP':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52403@ARDUINO_UNO.HEADER 6_0.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52403@arduino_uno.\header 6_0.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52403@arduino_uno.\header 6_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'HEADER 6_1_CONN6_FH_HEADER 6':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52515@ARDUINO_UNO.HEADER 6_1.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52515@arduino_uno.\header 6_1.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52515@arduino_uno.\header 6_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'BEAD_BEADC2112X105N_BEAD':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52651@DISCRETE.BEAD.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52651@discrete.\bead.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52651@discrete.\bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'BEAD_BEADC2112X105N_BEAD':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52143@DISCRETE.BEAD.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52143@discrete.\bead.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52143@discrete.\bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_IND_2016_2.2UH':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53475@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53475@discrete.\inductor.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53475@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'BEAD_BEADC2112X105N_BEAD':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52887@DISCRETE.BEAD.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52887@discrete.\bead.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52887@discrete.\bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'BEAD_BEADC2112X105N_BEAD':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52631@DISCRETE.BEAD.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52631@discrete.\bead.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52631@discrete.\bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH1 'M_HOLE_MH_120_M_HOLE':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52327@MYLIBRARY.M_HOLE.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52327@mylibrary.\m_hole.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52327@mylibrary.\m_hole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH2 'M_HOLE_MH_120_M_HOLE':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52479@MYLIBRARY.M_HOLE.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52479@mylibrary.\m_hole.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52479@mylibrary.\m_hole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH3 'M_HOLE_MH_120_M_HOLE':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52851@MYLIBRARY.M_HOLE.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52851@mylibrary.\m_hole.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52851@mylibrary.\m_hole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH4 'M_HOLE_MH_120_M_HOLE':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53211@MYLIBRARY.M_HOLE.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53211@mylibrary.\m_hole.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53211@mylibrary.\m_hole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'MOSFET N_1_SOT-23_MOSFET N':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52727@ARDUINO_UNO.MOSFET N_1.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52727@arduino_uno.\mosfet n_1.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52727@arduino_uno.\mosfet n_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_STA_RMCF0805_10K':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52495@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52495@discrete.\resistor.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52495@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR_STA_RMCF0805_10K':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53435@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53435@discrete.\resistor.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53435@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR_STA_RMCF0805_1MEG_RMCF0805JT1M00':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52551@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52551@discrete.\resistor.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52551@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RESISTOR_STA_RMCF0805_10K':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52263@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52263@discrete.\resistor.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52263@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RESISTOR_STA_RMCF0805_10K':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52203@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52203@discrete.\resistor.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52203@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'RESISTOR_STA_RMCF0805_1K':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52707@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52707@discrete.\resistor.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52707@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_STA_RMCF0805_1MEG_RMCF0805JT1M00':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52007@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52007@discrete.\resistor.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52007@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_STA_RMCF0805_1K':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53151@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53151@discrete.\resistor.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53151@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_STA_RMCF0805_22OHM':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52067@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52067@discrete.\resistor.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52067@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_STA_RMCF0805_22OHM':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52611@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52611@discrete.\resistor.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52611@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_STA_RMCF0805_1K':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52571@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52571@discrete.\resistor.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52571@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_STA_RMCF0805_1K':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52947@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52947@discrete.\resistor.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52947@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_STA_RMCF0805_1K':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52383@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52383@discrete.\resistor.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52383@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_STA_RMCF0805_1K':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52967@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52967@discrete.\resistor.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52967@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RV1 'VARISTOR_VARISTOR_0805_VARISTOR':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52343@DISCRETE.VARISTOR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52343@discrete.\varistor.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52343@discrete.\varistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RV2 'VARISTOR_VARISTOR_0805_VARISTOR':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52927@DISCRETE.VARISTOR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52927@discrete.\varistor.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52927@discrete.\varistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW DPST_SW4_1825910-B_SW DPST':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52823@DISCRETE.SW DPST.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52823@discrete.\sw dpst.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52823@discrete.\sw dpst.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'ATMEGA16U2-MUR_7_32A_ATMEGA16U2-MUR_ATMEGA16U2-MUR':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53495@ARDUINO_UNO.ATMEGA16U2-MUR_7.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53495@arduino_uno.\atmega16u2-mur_7.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53495@arduino_uno.\atmega16u2-mur_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'LM7805/TO_1_DCY4_LM7805/TO_':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53391@ARDUINO_UNO.LM7805/TO_1.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53391@arduino_uno.\lm7805/to_1.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53391@arduino_uno.\lm7805/to_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'ATMEGA328P-PN_4_DIPDIL28_ATMEGA328P-PN_ATMEGA328P-PN':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53027@ARDUINO_UNO.ATMEGA328P-PN_4.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53027@arduino_uno.\atmega328p-pn_4.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53027@arduino_uno.\atmega328p-pn_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'LM321/TO_0_MF05A_LM321/TO':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53227@ARDUINO_UNO.LM321/TO_0.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53227@arduino_uno.\lm321/to_0.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53227@arduino_uno.\lm321/to_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'ATMEGA16U2-MUR_32M1-A_ATMEGA16U2-MUR':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS54835@ARDUINO_UNO_REV4.ATMEGA16U2-MUR.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins54835@arduino_uno_rev4.\atmega16u2-mur.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins54835@arduino_uno_rev4.\atmega16u2-mur.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_XTAL500X320X130N_16 MHZ':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS52183@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins52183@discrete.\crystal.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins52183@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'CRYSTAL_XTAL500X320X130N_16 MHZ':;
+
+SECTION_NUMBER 1
+ '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53007@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@arduinouno.schematic1(sch_1):ins53007@discrete.\crystal.normal\(chips)',
+ P_PATH='@arduinouno.schematic1(sch_1):page1_ins53007@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

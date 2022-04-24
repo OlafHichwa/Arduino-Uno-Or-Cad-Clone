@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : DBV5-M.dra                                    )
+(    Software Version : 17.2059                                       )
+(    Date/Time        : Tue Oct 08 02:33:16 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_LP298533DBVR/AllegroV17_2/AllegroV17_2
+    Name      = dbv5-m.psm
+    User      = kirsch
+    Machine   = KIRSCHMACKEAA35
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

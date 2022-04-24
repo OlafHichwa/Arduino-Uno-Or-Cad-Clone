@@ -1,0 +1,36 @@
+skill load "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_RMCF0805JT1M00/AllegroV17_2/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_RMCF0805JT1M00/AllegroV17_2/AllegroV17_2" 
+skill LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_RMCF0805JT1M00/AllegroV17_2/AllegroV17_2/STA_RMCF0805-L.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist STA_RMCF0805-L.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_RMCF0805JT1M00/AllegroV17_2/AllegroV17_2/STA_RMCF0805-M.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist STA_RMCF0805-M.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_RMCF0805JT1M00/AllegroV17_2/AllegroV17_2/STA_RMCF0805.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist STA_RMCF0805.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 

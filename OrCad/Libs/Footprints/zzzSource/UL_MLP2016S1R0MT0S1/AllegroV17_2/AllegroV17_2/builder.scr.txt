@@ -1,0 +1,36 @@
+skill load "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_MLP2016S1R0MT0S1/AllegroV17_2/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_MLP2016S1R0MT0S1/AllegroV17_2/AllegroV17_2" 
+skill LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_MLP2016S1R0MT0S1/AllegroV17_2/AllegroV17_2/IND_2016-L.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist IND_2016-L.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_MLP2016S1R0MT0S1/AllegroV17_2/AllegroV17_2/IND_2016-M.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist IND_2016-M.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_MLP2016S1R0MT0S1/AllegroV17_2/AllegroV17_2/IND_2016.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist IND_2016.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 

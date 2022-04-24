@@ -1,0 +1,70 @@
+\t (00:00:12) allegro 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:12)     Journal start - Mon Oct 07 00:05:12 2019
+\t (00:00:12)         Host=KIRSCHMACKEAA35 User=kirsch Pid=3112 CPUs=2
+\t (00:00:12) CmdLine= allegro.exe -s builder.scr.txt
+\t (00:00:12) 
+   (00:00:12) Loading axlcore.cxt 
+\t (00:00:13) Starting new design...
+\i (00:00:14) trapsize 29310
+\i (00:00:14) replay builder.scr.txt 
+\i (00:00:14) skill 'load "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA328PU/builder.ile" ' 
+   (00:00:14) t
+\i (00:00:14) skill 'changeWorkingDir "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA328PU" ' 
+   (00:00:14) t
+\i (00:00:14) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA328PU/28P3.xml" ' 
+\t (00:00:14) Reading Footprint XML
+\t (00:00:14) Creating padstacks
+\t (00:00:14) Starting new design...
+\i (00:00:14) trapsize 1
+\i (00:00:14) trapsize 1
+\i (00:00:14) trapsize 1
+\i (00:00:14) trapsize 1192
+\i (00:00:14) trapsize 119215
+\t (00:00:14) Performing DRC...
+\t (00:00:14) Multithreaded DRC update (2 threads).
+\t (00:00:14) No DRC errors detected.
+\t (00:00:14) Starting new design...
+\i (00:00:14) trapsize 101156
+\i (00:00:14) trapsize 104686
+\i (00:00:15) trapsize 101156
+\i (00:00:15) trapsize 119215
+\i (00:00:15) trapsize 119215
+\t (00:00:15) Opening Design "28P3.dra"
+\t (00:00:15) Starting new design...
+\i (00:00:15) trapsize 1
+\i (00:00:15) trapsize 1
+\i (00:00:15) trapsize 1
+\i (00:00:15) trapsize 119215
+\i (00:00:15) trapsize 34681
+\t (00:00:15) Creating TextBlocks
+\t (00:00:15) Creating Shapes on Package layers
+   (00:00:15) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 180.0)
+\t (00:00:15) Creating Pins
+\t (00:00:15) Creating Vias
+\t (00:00:15) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA328PU/28p3.psm'.
+\t (00:00:15) Starting Create symbol...
+\t (00:00:16) Symbol Created
+\i (00:00:16) trapsize 10032
+   (00:00:16) Loading cmds.cxt 
+   (00:00:16) Loading skillExt.cxt 
+\t (00:00:16) Opening existing design...
+\i (00:00:16) trapsize 10032
+\i (00:00:16) trapsize 10382
+\i (00:00:16) trapsize 10032
+\i (00:00:16) trapsize 10032
+\d (00:00:16) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA328PU/28P3.dra
+\t (00:00:16) Symbol Saved
+   (00:00:16) t
+\i (00:00:16) scriptmode +i +n 
+\i (00:00:16) step pkg map 
+\i (00:00:17) setwindow form.pkgmap3d 
+\i (00:00:17) FORM pkgmap3d stplist 28P3.step 
+\i (00:00:17) FORM pkgmap3d rotation_x 0 
+\i (00:00:17) FORM pkgmap3d save_current 
+\i (00:00:17) FORM pkgmap3d done 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) save 
+\i (00:00:17) fillin yes 
+\t (00:00:17) Symbol '28p3.psm' created.
+\i (00:00:17) exit 
+\t (00:00:18)     Journal end - Mon Oct 07 00:05:18 2019

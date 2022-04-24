@@ -1,0 +1,62 @@
+\t (00:00:02) allegro 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Tue Oct 08 01:30:51 2019
+\t (00:00:02)         Host=KIRSCHMACKEAA35 User=kirsch Pid=6332 CPUs=2
+\t (00:00:02) CmdLine= allegro.exe -s builder.scr.txt
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Starting new design...
+\i (00:00:05) trapsize 29310
+\i (00:00:05) replay builder.scr.txt 
+\i (00:00:05) skill 'load "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_18259106/AllegroV17_2/AllegroV17_2/builder.ile" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'changeWorkingDir "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_18259106/AllegroV17_2/AllegroV17_2" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_18259106/AllegroV17_2/AllegroV17_2/SW4_1825910-B.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 1
+\i (00:00:06) trapsize 1
+\i (00:00:06) trapsize 1
+\i (00:00:06) trapsize 1164
+\i (00:00:06) trapsize 116438
+\t (00:00:06) Performing DRC...
+\t (00:00:06) Multithreaded DRC update (2 threads).
+\t (00:00:06) No DRC errors detected.
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 101156
+\i (00:00:06) trapsize 104686
+\i (00:00:06) trapsize 101156
+\i (00:00:07) trapsize 116438
+\i (00:00:07) trapsize 116438
+\t (00:00:07) Opening Design "SW4_1825910-B.dra"
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 1
+\i (00:00:07) trapsize 1
+\i (00:00:07) trapsize 1
+\i (00:00:07) trapsize 116438
+\i (00:00:07) trapsize 26474
+\t (00:00:07) Creating TextBlocks
+\t (00:00:07) Creating Shapes on Package layers
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 196.0)
+   (00:00:07) *WARNING* (axlLayerCreateNonConductor): No match for class name - ("PACKAGE_GEOMETRY/Copy Right")
+   (00:00:07) *WARNING* (axlDBCreateText): No match for class name - "PACKAGE_GEOMETRY/Copy Right"
+\t (00:00:07) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_18259106/AllegroV17_2/AllegroV17_2/sw4_1825910-b.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:08) Symbol Created
+\i (00:00:08) trapsize 2096
+   (00:00:08) Loading cmds.cxt 
+   (00:00:08) Loading skillExt.cxt 
+\t (00:00:08) Opening existing design...
+\i (00:00:08) trapsize 1540
+\i (00:00:08) trapsize 1572
+\i (00:00:08) trapsize 1613
+\i (00:00:08) trapsize 1572
+\i (00:00:08) trapsize 2096
+\d (00:00:08) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_18259106/AllegroV17_2/AllegroV17_2/SW4_1825910-B.dra
+\t (00:00:08) Symbol Saved
+   (00:00:08) t
+\i (00:00:08) exit 
+\t (00:00:09)     Journal end - Tue Oct 08 01:30:58 2019

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SOT-23.dra                                    )
+(    Software Version : 17.2059                                       )
+(    Date/Time        : Tue Oct 08 03:30:48 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/SOT_23/AllegroV17_2/AllegroV17_2
+    Name      = sot-23.psm
+    User      = kirsch
+    Machine   = KIRSCHMACKEAA35
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

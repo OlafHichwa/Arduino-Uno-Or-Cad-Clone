@@ -1,0 +1,14 @@
+skill load "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_SD0805S040S0R5/AllegroV17_2/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_SD0805S040S0R5/AllegroV17_2/AllegroV17_2" 
+skill LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_SD0805S040S0R5/AllegroV17_2/AllegroV17_2/SD0805.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist SD0805.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 

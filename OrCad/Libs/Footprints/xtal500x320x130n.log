@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : XTAL500X320X130N.dra                          )
+(    Software Version : 17.2059                                       )
+(    Date/Time        : Tue Oct 08 02:55:03 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints
+    Name      = xtal500x320x130n.psm
+    User      = kirsch
+    Machine   = KIRSCHMACKEAA35
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

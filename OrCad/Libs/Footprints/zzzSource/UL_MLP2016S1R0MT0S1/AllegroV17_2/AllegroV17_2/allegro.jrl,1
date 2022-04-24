@@ -1,0 +1,162 @@
+\t (00:00:01) allegro 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Oct 08 03:19:10 2019
+\t (00:00:01)         Host=KIRSCHMACKEAA35 User=kirsch Pid=3968 CPUs=2
+\t (00:00:01) CmdLine= allegro.exe -s builder.scr.txt
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 29310
+\i (00:00:04) replay builder.scr.txt 
+\i (00:00:04) skill 'load "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_MLP2016S1R0MT0S1/AllegroV17_2/AllegroV17_2/builder.ile" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'changeWorkingDir "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_MLP2016S1R0MT0S1/AllegroV17_2/AllegroV17_2" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_MLP2016S1R0MT0S1/AllegroV17_2/AllegroV17_2/IND_2016-L.xml" ' 
+\t (00:00:04) Reading Footprint XML
+\t (00:00:04) Creating padstacks
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 1
+\i (00:00:04) trapsize 1
+\i (00:00:04) trapsize 1
+\i (00:00:04) trapsize 1164
+\i (00:00:04) trapsize 116438
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (2 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "IND_2016-L.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:05) trapsize 1
+\i (00:00:05) trapsize 1
+\i (00:00:05) trapsize 1
+\i (00:00:05) trapsize 116438
+\i (00:00:05) trapsize 27287
+\t (00:00:05) Creating TextBlocks
+\t (00:00:05) Creating Shapes on Package layers
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 33.4646)
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 33.4646)
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 33.4646)
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 33.4646)
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_MLP2016S1R0MT0S1/AllegroV17_2/AllegroV17_2/ind_2016-l.psm'.
+\t (00:00:05) Starting Create symbol...
+\t (00:00:05) Symbol Created
+\i (00:00:05) trapsize 744
+   (00:00:05) Loading cmds.cxt 
+   (00:00:05) Loading skillExt.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 546
+\i (00:00:05) trapsize 558
+\i (00:00:05) trapsize 572
+\i (00:00:06) trapsize 558
+\i (00:00:06) trapsize 744
+\d (00:00:06) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_MLP2016S1R0MT0S1/AllegroV17_2/AllegroV17_2/IND_2016-L.dra
+\t (00:00:06) Symbol Saved
+   (00:00:06) t
+\i (00:00:06) scriptmode +i +n 
+\i (00:00:06) step pkg map 
+\i (00:00:06) setwindow form.pkgmap3d 
+\i (00:00:06) FORM pkgmap3d stplist IND_2016-L.step 
+\i (00:00:06) FORM pkgmap3d rotation_x 0 
+\i (00:00:06) FORM pkgmap3d save_current 
+\i (00:00:06) FORM pkgmap3d done 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) save 
+\i (00:00:06) fillin yes 
+\t (00:00:07) Symbol 'ind_2016-l.psm' created.
+\i (00:00:07) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_MLP2016S1R0MT0S1/AllegroV17_2/AllegroV17_2/IND_2016-M.xml" ' 
+\t (00:00:07) Reading Footprint XML
+\t (00:00:07) Creating padstacks
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 14123
+\i (00:00:07) trapsize 14490
+\i (00:00:07) trapsize 14123
+\i (00:00:07) trapsize 27287
+\i (00:00:07) trapsize 27287
+\t (00:00:07) Opening Design "IND_2016-M.dra"
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 1
+\i (00:00:07) trapsize 1
+\i (00:00:08) trapsize 1
+\i (00:00:08) trapsize 27287
+\i (00:00:08) trapsize 27533
+\t (00:00:08) Creating TextBlocks
+\t (00:00:08) Creating Shapes on Package layers
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 33.4646)
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 33.4646)
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 33.4646)
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 33.4646)
+\t (00:00:08) Creating Pins
+\t (00:00:08) Creating Vias
+\t (00:00:08) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_MLP2016S1R0MT0S1/AllegroV17_2/AllegroV17_2/ind_2016-m.psm'.
+\t (00:00:08) Starting Create symbol...
+\t (00:00:08) Symbol Created
+\i (00:00:08) trapsize 733
+\t (00:00:08) Opening existing design...
+\i (00:00:08) trapsize 733
+\i (00:00:08) trapsize 752
+\i (00:00:08) trapsize 733
+\i (00:00:09) trapsize 733
+\d (00:00:09) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_MLP2016S1R0MT0S1/AllegroV17_2/AllegroV17_2/IND_2016-M.dra
+\t (00:00:09) Symbol Saved
+   (00:00:09) t
+\i (00:00:09) scriptmode +i +n 
+\i (00:00:09) step pkg map 
+\i (00:00:09) setwindow form.pkgmap3d 
+\i (00:00:09) FORM pkgmap3d stplist IND_2016-M.step 
+\i (00:00:09) FORM pkgmap3d rotation_x 0 
+\i (00:00:09) FORM pkgmap3d save_current 
+\i (00:00:09) FORM pkgmap3d done 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) save 
+\i (00:00:09) fillin yes 
+\t (00:00:09) Symbol 'ind_2016-m.psm' created.
+\i (00:00:09) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_MLP2016S1R0MT0S1/AllegroV17_2/AllegroV17_2/IND_2016.xml" ' 
+\t (00:00:09) Reading Footprint XML
+\t (00:00:09) Creating padstacks
+\t (00:00:09) Starting new design...
+\i (00:00:10) trapsize 14123
+\i (00:00:10) trapsize 14490
+\i (00:00:10) trapsize 14123
+\i (00:00:10) trapsize 27533
+\i (00:00:10) trapsize 27533
+\t (00:00:10) Opening Design "IND_2016.dra"
+\t (00:00:10) Starting new design...
+\i (00:00:10) trapsize 1
+\i (00:00:10) trapsize 1
+\i (00:00:10) trapsize 1
+\i (00:00:10) trapsize 27533
+\i (00:00:10) trapsize 27396
+\t (00:00:10) Creating TextBlocks
+\t (00:00:10) Creating Shapes on Package layers
+   (00:00:10) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 33.4646)
+   (00:00:10) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 33.4646)
+   (00:00:10) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 33.4646)
+   (00:00:10) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 33.4646)
+\t (00:00:10) Creating Pins
+\t (00:00:11) Creating Vias
+\t (00:00:11) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_MLP2016S1R0MT0S1/AllegroV17_2/AllegroV17_2/ind_2016.psm'.
+\t (00:00:11) Starting Create symbol...
+\t (00:00:11) Symbol Created
+\i (00:00:11) trapsize 637
+\t (00:00:11) Opening existing design...
+\i (00:00:11) trapsize 637
+\i (00:00:11) trapsize 653
+\i (00:00:11) trapsize 637
+\i (00:00:11) trapsize 637
+\d (00:00:11) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/UL_MLP2016S1R0MT0S1/AllegroV17_2/AllegroV17_2/IND_2016.dra
+\t (00:00:11) Symbol Saved
+   (00:00:11) t
+\i (00:00:11) scriptmode +i +n 
+\i (00:00:11) step pkg map 
+\i (00:00:11) setwindow form.pkgmap3d 
+\i (00:00:11) FORM pkgmap3d stplist IND_2016.step 
+\i (00:00:12) FORM pkgmap3d rotation_x 0 
+\i (00:00:12) FORM pkgmap3d save_current 
+\i (00:00:12) FORM pkgmap3d done 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) save 
+\i (00:00:12) fillin yes 
+\t (00:00:12) Symbol 'ind_2016.psm' created.
+\i (00:00:12) exit 
+\t (00:00:13)     Journal end - Tue Oct 08 03:19:22 2019

@@ -1,0 +1,172 @@
+\t (00:00:03) allegro 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Sep 26 06:46:52 2019
+\t (00:00:03)         Host=KIRSCHMACKED2C1 User=kirsch Pid=8996 CPUs=2
+\t (00:00:03) CmdLine= allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+   (00:00:03) 
+   (00:00:03) 
+   (00:00:03) 
+   (00:00:03) [allegro]
+   (00:00:03) ^
+   (00:00:03) SYNTAX ERROR found at line 1 column 1 of file ./allegro.ini
+   (00:00:03) *Error* lineread/read: syntax error encountered in input
+   (00:00:03) *Error* load: error while loading file - "./allegro.ini" at line 1
+\t (00:00:05) Starting new design...
+\i (00:00:06) trapsize 29310
+\i (00:00:06) replay builder.scr.txt 
+\i (00:00:06) skill 'load "Z:/GoogleDrive_LearnOrCAD/PCB_Training/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2AU/AllegroV17_2/AllegroV17_2/builder.ile" ' 
+   (00:00:06) t
+\i (00:00:06) skill 'changeWorkingDir "Z:/GoogleDrive_LearnOrCAD/PCB_Training/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2AU/AllegroV17_2/AllegroV17_2" ' 
+   (00:00:06) t
+\i (00:00:06) skill 'LB_createFootprint "Z:/GoogleDrive_LearnOrCAD/PCB_Training/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2AU/AllegroV17_2/AllegroV17_2/32A-M.xml" ' 
+\t (00:00:06) Reading Footprint XML
+\t (00:00:06) Creating padstacks
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 1
+\i (00:00:06) trapsize 1
+\i (00:00:07) trapsize 1
+\i (00:00:07) trapsize 1254
+\i (00:00:07) trapsize 125369
+\t (00:00:07) Performing DRC...
+\t (00:00:07) Multithreaded DRC update (2 threads).
+\t (00:00:07) No DRC errors detected.
+\t (00:00:07) Opening Design "32A-M.dra"
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 67873
+\i (00:00:07) trapsize 69444
+\i (00:00:07) trapsize 67873
+\i (00:00:08) trapsize 125369
+\i (00:00:08) trapsize 125369
+\i (00:00:08) trapsize 32235
+\t (00:00:08) Creating TextBlocks
+\t (00:00:08) Creating Shapes on Package layers
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 47.0)
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 47.0)
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 47.0)
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 47.0)
+\t (00:00:08) Creating Pins
+\t (00:00:08) Creating Vias
+\t (00:00:08) Creating package symbol 'Z:/GoogleDrive_LearnOrCAD/PCB_Training/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2AU/AllegroV17_2/AllegroV17_2/32a-m.psm'.
+\t (00:00:08) Starting Create symbol...
+\t (00:00:08) Symbol Created
+\i (00:00:08) trapsize 3525
+   (00:00:09) Loading cmds.cxt 
+   (00:00:09) Loading skillExt.cxt 
+\t (00:00:09) Opening existing design...
+\i (00:00:09) trapsize 3748
+\i (00:00:09) trapsize 3840
+\i (00:00:09) trapsize 3748
+\i (00:00:10) trapsize 3748
+\d (00:00:10) Design opened: Z:/GoogleDrive_LearnOrCAD/PCB_Training/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2AU/AllegroV17_2/AllegroV17_2/32A-M.dra
+\t (00:00:10) Symbol Saved
+   (00:00:10) t
+\i (00:00:10) scriptmode +i +n 
+\i (00:00:10) step pkg map 
+\i (00:00:10) setwindow form.pkgmap3d 
+\i (00:00:10) FORM pkgmap3d stplist 32A-M.step 
+\i (00:00:11) FORM pkgmap3d rotation_x 0 
+\i (00:00:11) FORM pkgmap3d save_current 
+\i (00:00:11) FORM pkgmap3d done 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) save 
+\i (00:00:11) fillin yes 
+\t (00:00:11) Symbol '32a-m.psm' created.
+\i (00:00:12) skill 'LB_createFootprint "Z:/GoogleDrive_LearnOrCAD/PCB_Training/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2AU/AllegroV17_2/AllegroV17_2/32A-L.xml" ' 
+\t (00:00:12) Reading Footprint XML
+\t (00:00:12) Creating padstacks
+\t (00:00:12) Starting new design...
+\i (00:00:12) trapsize 15419
+\i (00:00:12) trapsize 15799
+\i (00:00:12) trapsize 15419
+\i (00:00:12) trapsize 30609
+\i (00:00:12) trapsize 30609
+\t (00:00:13) Opening Design "32A-L.dra"
+\t (00:00:13) Starting new design...
+\i (00:00:13) trapsize 15419
+\i (00:00:13) trapsize 15799
+\i (00:00:13) trapsize 15419
+\i (00:00:14) trapsize 30609
+\i (00:00:14) trapsize 30609
+\i (00:00:14) trapsize 30553
+\t (00:00:14) Creating TextBlocks
+\t (00:00:14) Creating Shapes on Package layers
+   (00:00:14) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 47.0)
+   (00:00:14) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 47.0)
+   (00:00:14) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 47.0)
+   (00:00:14) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 47.0)
+\t (00:00:14) Creating Pins
+\t (00:00:14) Creating Vias
+\t (00:00:14) Creating package symbol 'Z:/GoogleDrive_LearnOrCAD/PCB_Training/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2AU/AllegroV17_2/AllegroV17_2/32a-l.psm'.
+\t (00:00:14) Starting Create symbol...
+\t (00:00:14) Symbol Created
+\i (00:00:14) trapsize 2913
+\t (00:00:14) Opening existing design...
+\i (00:00:15) trapsize 2913
+\i (00:00:15) trapsize 2985
+\i (00:00:15) trapsize 2913
+\i (00:00:15) trapsize 2913
+\d (00:00:15) Design opened: Z:/GoogleDrive_LearnOrCAD/PCB_Training/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2AU/AllegroV17_2/AllegroV17_2/32A-L.dra
+\t (00:00:15) Symbol Saved
+   (00:00:15) t
+\i (00:00:15) scriptmode +i +n 
+\i (00:00:15) step pkg map 
+\i (00:00:16) setwindow form.pkgmap3d 
+\i (00:00:16) FORM pkgmap3d stplist 32A-L.step 
+\i (00:00:16) FORM pkgmap3d rotation_x 0 
+\i (00:00:16) FORM pkgmap3d save_current 
+\i (00:00:16) FORM pkgmap3d done 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) save 
+\i (00:00:16) fillin yes 
+\t (00:00:17) Symbol '32a-l.psm' created.
+\i (00:00:17) skill 'LB_createFootprint "Z:/GoogleDrive_LearnOrCAD/PCB_Training/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2AU/AllegroV17_2/AllegroV17_2/32A.xml" ' 
+\t (00:00:17) Reading Footprint XML
+\t (00:00:17) Creating padstacks
+\t (00:00:17) Starting new design...
+\i (00:00:17) trapsize 15320
+\i (00:00:17) trapsize 15697
+\i (00:00:18) trapsize 15320
+\i (00:00:18) trapsize 30553
+\i (00:00:18) trapsize 30553
+\t (00:00:18) Opening Design "32A.dra"
+\t (00:00:18) Starting new design...
+\i (00:00:18) trapsize 15320
+\i (00:00:18) trapsize 15697
+\i (00:00:19) trapsize 15320
+\i (00:00:19) trapsize 30553
+\i (00:00:19) trapsize 30553
+\i (00:00:19) trapsize 30581
+\t (00:00:19) Creating TextBlocks
+\t (00:00:19) Creating Shapes on Package layers
+   (00:00:19) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 47.0)
+   (00:00:19) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 47.0)
+   (00:00:19) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 47.0)
+   (00:00:19) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 47.0)
+\t (00:00:19) Creating Pins
+\t (00:00:19) Creating Vias
+\t (00:00:19) Creating package symbol 'Z:/GoogleDrive_LearnOrCAD/PCB_Training/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2AU/AllegroV17_2/AllegroV17_2/32a.psm'.
+\t (00:00:19) Starting Create symbol...
+\t (00:00:20) Symbol Created
+\i (00:00:20) trapsize 3095
+\t (00:00:20) Opening existing design...
+\i (00:00:20) trapsize 3095
+\i (00:00:20) trapsize 3172
+\i (00:00:21) trapsize 3095
+\i (00:00:21) trapsize 3095
+\d (00:00:21) Design opened: Z:/GoogleDrive_LearnOrCAD/PCB_Training/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2AU/AllegroV17_2/AllegroV17_2/32A.dra
+\t (00:00:21) Symbol Saved
+   (00:00:21) t
+\i (00:00:21) scriptmode +i +n 
+\i (00:00:21) step pkg map 
+\i (00:00:21) setwindow form.pkgmap3d 
+\i (00:00:21) FORM pkgmap3d stplist 32A.step 
+\i (00:00:22) FORM pkgmap3d rotation_x 0 
+\i (00:00:22) FORM pkgmap3d save_current 
+\i (00:00:22) FORM pkgmap3d done 
+\i (00:00:22) setwindow pcb 
+\i (00:00:22) save 
+\i (00:00:22) fillin yes 
+\t (00:00:22) Symbol '32a.psm' created.
+\i (00:00:22) exit 
+\t (00:00:24)     Journal end - Thu Sep 26 06:47:13 2019

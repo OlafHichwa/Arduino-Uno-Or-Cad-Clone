@@ -1,0 +1,32 @@
+\t (00:00:00) padstack_editor 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Oct 09 05:26:46 2019
+\t (00:00:00)         Host=KIRSCHMACKEAA35 User=kirsch Pid=844 CPUs=2
+\t (00:00:00) CmdLine= padstack_editor -mpssession kirsch -file C:/Users/kirsch/AppData/Local/Temp/#Taaaaew03656.tmp -pname EX60Y60D40P-1 -data C:/Users/kirsch/AppData/Local/Temp/#Taaaaey03656.tmp
+\t (00:00:00) 
+\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:00:08) QtSignal GuidedTabsParent NewPads currentRowChanged 1
+\d (00:00:08) QtSignal GuidedTabsParent NewPads itemSelectionChanged Square
+\d (00:00:08) QtSignal GuidedTabsParent NewPads itemClicked Square
+\d (00:00:09) QtFillin Yes
+\d (00:00:15) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:25) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Thermal Pad"
+\d (00:00:25) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Thermal Pad" 0 3
+\d (00:00:31) QtSignal GuidedDesignLayersTab PadShape CurrentIndexChanged Square
+\d (00:00:32) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Thermal Pad" 0 3
+\d (00:00:32) QtSignal GuidedDesignLayersTab LayersTable customContextMenuRequest 0 "Thermal Pad"
+\d (00:00:33) QtFillin Copy|0
+\d (00:00:33) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Thermal Pad" 0 +
+\d (00:00:33) QtSignal "Anti Pad"
+\d (00:00:33) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Thermal Pad" 1 +
+\d (00:00:33) QtSignal "Thermal Pad" 0 "Anti Pad" 1 "Anti Pad"
+\d (00:00:34) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Thermal Pad" 1 +
+\d (00:00:34) QtSignal "Thermal Pad" 2 "Thermal Pad" 0 "Anti Pad" 1 "Anti Pad" 2 "Anti Pad"
+\d (00:00:34) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Anti Pad" 2 4
+\d (00:00:34) QtSignal GuidedDesignLayersTab LayersTable customContextMenuRequest 2 "Anti Pad"
+\d (00:00:35) QtFillin Paste|1
+\d (00:00:36) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:42) QtSignal MainWindow SaveAs triggered
+\d (00:00:52) QtFillin EX60Y60D40P-SQUARE.pad
+\d (00:00:59) QtSignal MainWindow UpdateToDesign triggered
+\d (00:01:04) QtSignal MainWindow Exit triggered
+\t (00:01:05)     Journal end - Wed Oct 09 05:27:50 2019

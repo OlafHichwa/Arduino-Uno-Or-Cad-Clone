@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : STA_RMCF0805-L.dra                            )
+(    Software Version : 17.2059                                       )
+(    Date/Time        : Tue Oct 08 01:08:54 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_RMCF0805JT1M00/AllegroV17_2/AllegroV17_2
+    Name      = sta_rmcf0805-l.psm
+    User      = kirsch
+    Machine   = KIRSCHMACKEAA35
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

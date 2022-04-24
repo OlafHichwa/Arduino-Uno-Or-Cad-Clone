@@ -1,0 +1,162 @@
+\t (00:00:01) allegro 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Oct 08 01:08:41 2019
+\t (00:00:01)         Host=KIRSCHMACKEAA35 User=kirsch Pid=6564 CPUs=2
+\t (00:00:01) CmdLine= allegro.exe -s builder.scr.txt
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:12) Starting new design...
+\i (00:00:13) trapsize 29310
+\i (00:00:13) replay builder.scr.txt 
+\i (00:00:13) skill 'load "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_RMCF0805JT1M00/AllegroV17_2/AllegroV17_2/builder.ile" ' 
+   (00:00:13) t
+\i (00:00:13) skill 'changeWorkingDir "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_RMCF0805JT1M00/AllegroV17_2/AllegroV17_2" ' 
+   (00:00:13) t
+\i (00:00:13) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_RMCF0805JT1M00/AllegroV17_2/AllegroV17_2/STA_RMCF0805-L.xml" ' 
+\t (00:00:13) Reading Footprint XML
+\t (00:00:13) Creating padstacks
+\t (00:00:13) Starting new design...
+\i (00:00:13) trapsize 1
+\i (00:00:13) trapsize 1
+\i (00:00:14) trapsize 1
+\i (00:00:14) trapsize 1164
+\i (00:00:14) trapsize 116438
+\t (00:00:14) Performing DRC...
+\t (00:00:14) Multithreaded DRC update (2 threads).
+\t (00:00:14) No DRC errors detected.
+\t (00:00:14) Opening Design "STA_RMCF0805-L.dra"
+\t (00:00:14) Starting new design...
+\i (00:00:14) trapsize 1
+\i (00:00:14) trapsize 1
+\i (00:00:14) trapsize 1
+\i (00:00:14) trapsize 116438
+\i (00:00:14) trapsize 27281
+\t (00:00:14) Creating TextBlocks
+\t (00:00:14) Creating Shapes on Package layers
+   (00:00:14) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+   (00:00:14) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+   (00:00:14) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+   (00:00:14) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+\t (00:00:14) Creating Pins
+\t (00:00:14) Creating Vias
+\t (00:00:14) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_RMCF0805JT1M00/AllegroV17_2/AllegroV17_2/sta_rmcf0805-l.psm'.
+\t (00:00:14) Starting Create symbol...
+\t (00:00:14) Symbol Created
+\i (00:00:14) trapsize 763
+   (00:00:14) Loading cmds.cxt 
+   (00:00:14) Loading skillExt.cxt 
+\t (00:00:14) Opening existing design...
+\i (00:00:15) trapsize 561
+\i (00:00:15) trapsize 573
+\i (00:00:15) trapsize 587
+\i (00:00:15) trapsize 573
+\i (00:00:15) trapsize 763
+\d (00:00:15) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_RMCF0805JT1M00/AllegroV17_2/AllegroV17_2/STA_RMCF0805-L.dra
+\t (00:00:15) Symbol Saved
+   (00:00:15) t
+\i (00:00:15) scriptmode +i +n 
+\i (00:00:15) step pkg map 
+\i (00:00:15) setwindow form.pkgmap3d 
+\i (00:00:15) FORM pkgmap3d stplist STA_RMCF0805-L.step 
+\i (00:00:15) FORM pkgmap3d rotation_x 0 
+\i (00:00:15) FORM pkgmap3d save_current 
+\i (00:00:15) FORM pkgmap3d done 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) save 
+\i (00:00:15) fillin yes 
+\t (00:00:16) Symbol 'sta_rmcf0805-l.psm' created.
+\i (00:00:16) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_RMCF0805JT1M00/AllegroV17_2/AllegroV17_2/STA_RMCF0805-M.xml" ' 
+\t (00:00:16) Reading Footprint XML
+\t (00:00:16) Creating padstacks
+\t (00:00:16) Starting new design...
+\i (00:00:16) trapsize 14048
+\i (00:00:16) trapsize 14413
+\i (00:00:16) trapsize 14048
+\i (00:00:16) trapsize 27281
+\i (00:00:16) trapsize 27281
+\t (00:00:16) Opening Design "STA_RMCF0805-M.dra"
+\t (00:00:16) Starting new design...
+\i (00:00:16) trapsize 1
+\i (00:00:16) trapsize 1
+\i (00:00:17) trapsize 1
+\i (00:00:17) trapsize 27281
+\i (00:00:17) trapsize 27527
+\t (00:00:17) Creating TextBlocks
+\t (00:00:17) Creating Shapes on Package layers
+   (00:00:17) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+   (00:00:17) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+   (00:00:17) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+   (00:00:17) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+\t (00:00:17) Creating Pins
+\t (00:00:17) Creating Vias
+\t (00:00:17) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_RMCF0805JT1M00/AllegroV17_2/AllegroV17_2/sta_rmcf0805-m.psm'.
+\t (00:00:17) Starting Create symbol...
+\t (00:00:17) Symbol Created
+\i (00:00:17) trapsize 686
+\t (00:00:17) Opening existing design...
+\i (00:00:17) trapsize 686
+\i (00:00:17) trapsize 704
+\i (00:00:17) trapsize 686
+\i (00:00:17) trapsize 686
+\d (00:00:17) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_RMCF0805JT1M00/AllegroV17_2/AllegroV17_2/STA_RMCF0805-M.dra
+\t (00:00:17) Symbol Saved
+   (00:00:17) t
+\i (00:00:18) scriptmode +i +n 
+\i (00:00:18) step pkg map 
+\i (00:00:18) setwindow form.pkgmap3d 
+\i (00:00:18) FORM pkgmap3d stplist STA_RMCF0805-M.step 
+\i (00:00:18) FORM pkgmap3d rotation_x 0 
+\i (00:00:18) FORM pkgmap3d save_current 
+\i (00:00:18) FORM pkgmap3d done 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) save 
+\i (00:00:18) fillin yes 
+\t (00:00:18) Symbol 'sta_rmcf0805-m.psm' created.
+\i (00:00:18) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_RMCF0805JT1M00/AllegroV17_2/AllegroV17_2/STA_RMCF0805.xml" ' 
+\t (00:00:18) Reading Footprint XML
+\t (00:00:18) Creating padstacks
+\t (00:00:18) Starting new design...
+\i (00:00:18) trapsize 14048
+\i (00:00:18) trapsize 14413
+\i (00:00:19) trapsize 14048
+\i (00:00:19) trapsize 27527
+\i (00:00:19) trapsize 27527
+\t (00:00:19) Opening Design "STA_RMCF0805.dra"
+\t (00:00:19) Starting new design...
+\i (00:00:19) trapsize 1
+\i (00:00:19) trapsize 1
+\i (00:00:19) trapsize 1
+\i (00:00:19) trapsize 27527
+\i (00:00:19) trapsize 27390
+\t (00:00:19) Creating TextBlocks
+\t (00:00:19) Creating Shapes on Package layers
+   (00:00:19) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+   (00:00:19) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+   (00:00:19) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+   (00:00:19) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+\t (00:00:19) Creating Pins
+\t (00:00:19) Creating Vias
+\t (00:00:19) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_RMCF0805JT1M00/AllegroV17_2/AllegroV17_2/sta_rmcf0805.psm'.
+\t (00:00:19) Starting Create symbol...
+\t (00:00:20) Symbol Created
+\i (00:00:20) trapsize 611
+\t (00:00:20) Opening existing design...
+\i (00:00:20) trapsize 611
+\i (00:00:20) trapsize 626
+\i (00:00:20) trapsize 611
+\i (00:00:20) trapsize 611
+\d (00:00:20) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_RMCF0805JT1M00/AllegroV17_2/AllegroV17_2/STA_RMCF0805.dra
+\t (00:00:20) Symbol Saved
+   (00:00:20) t
+\i (00:00:20) scriptmode +i +n 
+\i (00:00:20) step pkg map 
+\i (00:00:20) setwindow form.pkgmap3d 
+\i (00:00:20) FORM pkgmap3d stplist STA_RMCF0805.step 
+\i (00:00:21) FORM pkgmap3d rotation_x 0 
+\i (00:00:21) FORM pkgmap3d save_current 
+\i (00:00:21) FORM pkgmap3d done 
+\i (00:00:21) setwindow pcb 
+\i (00:00:21) save 
+\i (00:00:21) fillin yes 
+\t (00:00:21) Symbol 'sta_rmcf0805.psm' created.
+\i (00:00:21) exit 
+\t (00:00:22)     Journal end - Tue Oct 08 01:09:01 2019

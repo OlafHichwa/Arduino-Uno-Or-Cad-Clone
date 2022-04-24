@@ -1,0 +1,105 @@
+\t (00:00:01) allegro 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Oct 08 04:05:20 2019
+\t (00:00:01)         Host=KIRSCHMACKEAA35 User=kirsch Pid=6348 CPUs=2
+\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\kirsch\Documents\OrCAD\ArduinoUNO\CAD\Parts\Footprints\zzzSource\HEADER_6POS_254P\AllegroV17_2\AllegroV17_2\CONN6_640456-6.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged CONN6_640456-6
+\d (00:00:03) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/HEADER_6POS_254P/AllegroV17_2/AllegroV17_2/CONN6_640456-6.dra
+\i (00:00:04) trapsize 2571
+\i (00:00:04) trapsize 2642
+\i (00:00:04) trapsize 2571
+\i (00:00:04) trapsize 2371
+\i (00:00:04) trapsize 2421
+\i (00:00:04) trapsize 3084
+\i (00:00:04) generaledit 
+\i (00:00:06) 3d 
+\i (00:00:07) generaledit 
+\i (00:00:08) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:00:09) pick grid -286.740 232.229
+\t (00:00:09) last pick:  -300.000 200.000
+\i (00:00:12) step pkg map 
+\i (00:00:26) setwindow form.pkgmap3d
+\i (00:00:26) FORM pkgmap3d stplist HEADER6.step 
+\i (00:00:34) FORM pkgmap3d rotation_x 90 
+\i (00:00:55) FORM pkgmap3d stplist HEADER10.step 
+\i (00:01:01) FORM pkgmap3d stplist HEADER_10POS_254P.stp 
+\i (00:01:03) FORM pkgmap3d stplist HEADER_8POS_254P.stp 
+\i (00:01:09) FORM pkgmap3d done  
+\i (00:01:09) setwindow pcb
+\i (00:01:09) generaledit 
+\i (00:03:55) pick grid -267.621 224.211
+\t (00:03:55) last pick:  -300.000 200.000
+\i (00:03:59) step pkg map 
+\i (00:04:06) setwindow form.pkgmap3d
+\i (00:04:06) FORM pkgmap3d stplist HEADER_6POS_254P.STEP 
+\i (00:04:12) FORM pkgmap3d rotation_x 90 
+\i (00:04:18) FORM pkgmap3d view_orientation Front 
+\i (00:04:21) FORM pkgmap3d arrow_up  
+\i (00:04:21) FORM pkgmap3d arrow_up  
+\i (00:04:21) FORM pkgmap3d arrow_up  
+\i (00:04:21) FORM pkgmap3d arrow_up  
+\i (00:04:22) FORM pkgmap3d arrow_up  
+\i (00:04:22) FORM pkgmap3d arrow_up  
+\i (00:04:22) FORM pkgmap3d arrow_up  
+\i (00:04:22) FORM pkgmap3d arrow_up  
+\i (00:04:22) FORM pkgmap3d arrow_up  
+\i (00:04:22) FORM pkgmap3d arrow_up  
+\i (00:04:23) FORM pkgmap3d arrow_up  
+\i (00:04:23) FORM pkgmap3d arrow_up  
+\i (00:04:23) FORM pkgmap3d arrow_up  
+\i (00:04:23) FORM pkgmap3d arrow_up  
+\i (00:04:23) FORM pkgmap3d arrow_up  
+\i (00:04:24) FORM pkgmap3d arrow_up  
+\i (00:04:24) FORM pkgmap3d arrow_up  
+\i (00:04:24) FORM pkgmap3d arrow_up  
+\i (00:04:24) FORM pkgmap3d arrow_up  
+\i (00:04:25) FORM pkgmap3d arrow_up  
+\i (00:04:25) FORM pkgmap3d arrow_up  
+\i (00:04:25) FORM pkgmap3d arrow_up  
+\i (00:04:25) FORM pkgmap3d arrow_up  
+\i (00:04:25) FORM pkgmap3d arrow_up  
+\i (00:04:26) FORM pkgmap3d arrow_up  
+\i (00:04:26) FORM pkgmap3d arrow_up  
+\i (00:04:26) FORM pkgmap3d arrow_up  
+\i (00:04:26) FORM pkgmap3d arrow_up  
+\i (00:04:26) FORM pkgmap3d arrow_up  
+\i (00:04:27) FORM pkgmap3d arrow_up  
+\i (00:04:27) FORM pkgmap3d arrow_up  
+\i (00:04:27) FORM pkgmap3d arrow_up  
+\i (00:04:27) FORM pkgmap3d arrow_up  
+\i (00:04:28) FORM pkgmap3d arrow_up  
+\i (00:04:28) FORM pkgmap3d arrow_up  
+\i (00:04:33) FORM pkgmap3d arrow_up  
+\i (00:04:33) FORM pkgmap3d arrow_up  
+\i (00:04:33) FORM pkgmap3d arrow_up  
+\i (00:04:33) FORM pkgmap3d arrow_up  
+\i (00:04:34) FORM pkgmap3d arrow_up  
+\i (00:04:34) FORM pkgmap3d arrow_up  
+\i (00:04:34) FORM pkgmap3d arrow_up  
+\i (00:04:34) FORM pkgmap3d arrow_up  
+\i (00:04:34) FORM pkgmap3d arrow_up  
+\i (00:04:35) FORM pkgmap3d arrow_up  
+\i (00:04:35) FORM pkgmap3d arrow_up  
+\i (00:04:35) FORM pkgmap3d arrow_up  
+\i (00:04:35) FORM pkgmap3d arrow_up  
+\i (00:04:35) FORM pkgmap3d arrow_up  
+\i (00:04:36) FORM pkgmap3d arrow_up  
+\i (00:04:36) FORM pkgmap3d arrow_up  
+\i (00:04:38) FORM pkgmap3d arrow_down  
+\i (00:04:38) FORM pkgmap3d arrow_down  
+\i (00:04:41) FORM pkgmap3d view_orientation Front Left 
+\i (00:04:46) FORM pkgmap3d save_current  
+\i (00:04:47) FORM pkgmap3d done  
+\i (00:04:47) setwindow pcb
+\i (00:04:47) generaledit 
+\i (00:04:49) 3d 
+\i (00:04:50) generaledit 
+\i (00:04:55) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:04:56) save 
+\i (00:04:58) fillin yes 
+\t (00:04:58) Symbol 'conn6_640456-6.psm' created.
+\i (00:04:59) generaledit 
+\i (00:05:04) exit 
+\t (00:05:05)     Journal end - Tue Oct 08 04:10:24 2019

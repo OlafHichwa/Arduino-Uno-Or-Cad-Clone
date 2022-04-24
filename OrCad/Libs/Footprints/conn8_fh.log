@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CONN8_FH.dra                                  )
+(    Software Version : 17.2059                                       )
+(    Date/Time        : Wed Oct 09 09:08:21 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints
+    Name      = conn8_fh.psm
+    User      = kirsch
+    Machine   = KIRSCHMACKEAA35
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

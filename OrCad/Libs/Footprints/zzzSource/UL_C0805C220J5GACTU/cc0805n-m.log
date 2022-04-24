@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CC0805N-M.dra                                 )
+(    Software Version : 17.2059                                       )
+(    Date/Time        : Fri Sep 27 09:30:27 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = Z:/GoogleDrive_LearnOrCAD/PCB_Training/ArduinoUNO/CAD/Parts/Footprints/UL_C0805C220J5GACTU/AllegroV17_2/AllegroV17_2
+    Name      = cc0805n-m.psm
+    User      = kirsch
+    Machine   = KIRSCHMACKED2C1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

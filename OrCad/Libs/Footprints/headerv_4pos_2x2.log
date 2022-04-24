@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : HEADERV_4POS_2X2.dra                          )
+(    Software Version : 17.2059                                       )
+(    Date/Time        : Wed Oct 09 07:04:49 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/HEADERV_4POS_2X2/AllegroV17_2/AllegroV17_2
+    Name      = headerv_4pos_2x2.psm
+    User      = kirsch
+    Machine   = KIRSCHMACKEAA35
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

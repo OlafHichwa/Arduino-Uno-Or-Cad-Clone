@@ -1,0 +1,12 @@
+#This is the Layer Conversion File used for
+#importing DXF data into Allegro/APD.
+
+#CLASS!            SUBCLASS!                 DXF_LAYER!
+
+MANUFACTURING!
+                   0!                        0!
+                   Taglio!                   Taglio!
+                   Incisione!                Incisione!
+                   Defpoints!                Defpoints!
+
+#END

@@ -1,0 +1,12 @@
+\t (00:00:00) padstack_editor 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Oct 09 08:13:25 2019
+\t (00:00:00)         Host=KIRSCHMACKEAA35 User=kirsch Pid=7132 CPUs=2
+\t (00:00:00) CmdLine= padstack_editor -mpssession kirsch -file C:/Users/kirsch/AppData/Local/Temp/#Taaaaaj06324.tmp -pname RX124Y69P5D0T-1 -data C:/Users/kirsch/AppData/Local/Temp/#Taaaaal06324.tmp
+\t (00:00:00) 
+\d (00:00:01) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:23) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:24) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:27) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:28) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\t (00:00:31)     Journal end - Wed Oct 09 08:13:56 2019

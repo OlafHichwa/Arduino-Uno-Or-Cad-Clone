@@ -1,0 +1,393 @@
+\t (00:00:02) allegro 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Oct 07 00:12:10 2019
+\t (00:00:02)         Host=KIRSCHMACKEAA35 User=kirsch Pid=4940 CPUs=2
+\t (00:00:02) CmdLine= allegro.exe -s builder.scr.txt
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 29310
+\i (00:00:05) replay builder.scr.txt 
+\i (00:00:05) skill 'load "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2MUR/AllegroV17_2/AllegroV17_2/builder.ile" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'changeWorkingDir "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2MUR/AllegroV17_2/AllegroV17_2" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2MUR/AllegroV17_2/AllegroV17_2/32M1-A-L.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 1
+\i (00:00:05) trapsize 1
+\i (00:00:06) trapsize 1
+\i (00:00:06) trapsize 1192
+\i (00:00:06) trapsize 119215
+\t (00:00:06) Performing DRC...
+\t (00:00:06) Multithreaded DRC update (2 threads).
+\t (00:00:06) No DRC errors detected.
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 101156
+\i (00:00:06) trapsize 104686
+\i (00:00:06) trapsize 101156
+\i (00:00:06) trapsize 119215
+\i (00:00:06) trapsize 119215
+\t (00:00:06) Opening Design "32M1-A-L.dra"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 1
+\i (00:00:06) trapsize 1
+\i (00:00:06) trapsize 1
+\i (00:00:06) trapsize 119215
+\i (00:00:06) trapsize 30700
+\t (00:00:06) Creating TextBlocks
+\t (00:00:06) Creating Shapes on Package layers
+   (00:00:06) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:06) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:06) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:07) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\t (00:00:07) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2MUR/AllegroV17_2/AllegroV17_2/32m1-a-l.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 2053
+   (00:00:07) Loading cmds.cxt 
+   (00:00:07) Loading skillExt.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 2053
+\i (00:00:07) trapsize 2125
+\i (00:00:07) trapsize 2053
+\i (00:00:07) trapsize 2053
+\d (00:00:07) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2MUR/AllegroV17_2/AllegroV17_2/32M1-A-L.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:08) scriptmode +i +n 
+\i (00:00:08) step pkg map 
+\i (00:00:08) setwindow form.pkgmap3d 
+\i (00:00:08) FORM pkgmap3d stplist 32M1-A-L.step 
+\i (00:00:08) FORM pkgmap3d rotation_x 0 
+\i (00:00:08) FORM pkgmap3d save_current 
+\i (00:00:08) FORM pkgmap3d done 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) save 
+\i (00:00:08) fillin yes 
+\t (00:00:08) Symbol '32m1-a-l.psm' created.
+\i (00:00:09) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2MUR/AllegroV17_2/AllegroV17_2/32M1-A-M.xml" ' 
+\t (00:00:09) Reading Footprint XML
+\t (00:00:09) Creating padstacks
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 20612
+\i (00:00:09) trapsize 21332
+\i (00:00:09) trapsize 20612
+\i (00:00:09) trapsize 30700
+\i (00:00:09) trapsize 30700
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 1
+\i (00:00:09) trapsize 1
+\i (00:00:09) trapsize 1
+\i (00:00:09) trapsize 30700
+\t (00:00:09) Opening Design "32M1-A-M.dra"
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 1
+\i (00:00:09) trapsize 1
+\i (00:00:10) trapsize 1
+\i (00:00:10) trapsize 30700
+\i (00:00:10) trapsize 30784
+\t (00:00:10) Creating TextBlocks
+\t (00:00:10) Creating Shapes on Package layers
+   (00:00:10) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:10) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:10) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:10) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:10) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:10) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:10) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:10) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:10) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\t (00:00:10) Creating Pins
+\t (00:00:10) Creating Vias
+\t (00:00:10) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2MUR/AllegroV17_2/AllegroV17_2/32m1-a-m.psm'.
+\t (00:00:10) Starting Create symbol...
+\t (00:00:10) Symbol Created
+\i (00:00:10) trapsize 2271
+\t (00:00:10) Opening existing design...
+\i (00:00:11) trapsize 2271
+\i (00:00:11) trapsize 2350
+\i (00:00:11) trapsize 2271
+\i (00:00:11) trapsize 2271
+\d (00:00:11) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2MUR/AllegroV17_2/AllegroV17_2/32M1-A-M.dra
+\t (00:00:11) Symbol Saved
+   (00:00:11) t
+\i (00:00:11) scriptmode +i +n 
+\i (00:00:11) step pkg map 
+\i (00:00:11) setwindow form.pkgmap3d 
+\i (00:00:11) FORM pkgmap3d stplist 32M1-A-M.step 
+\i (00:00:11) FORM pkgmap3d rotation_x 0 
+\i (00:00:11) FORM pkgmap3d save_current 
+\i (00:00:11) FORM pkgmap3d done 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) save 
+\i (00:00:11) fillin yes 
+\t (00:00:12) Symbol '32m1-a-m.psm' created.
+\i (00:00:12) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2MUR/AllegroV17_2/AllegroV17_2/32M1-A.xml" ' 
+\t (00:00:12) Reading Footprint XML
+\t (00:00:12) Creating padstacks
+\t (00:00:12) Starting new design...
+\i (00:00:12) trapsize 20651
+\i (00:00:12) trapsize 21371
+\i (00:00:12) trapsize 20651
+\i (00:00:12) trapsize 30784
+\i (00:00:12) trapsize 30784
+\t (00:00:12) Starting new design...
+\i (00:00:12) trapsize 1
+\i (00:00:12) trapsize 1
+\i (00:00:12) trapsize 1
+\i (00:00:12) trapsize 30784
+\t (00:00:12) Opening Design "32M1-A.dra"
+\t (00:00:12) Starting new design...
+\i (00:00:13) trapsize 1
+\i (00:00:13) trapsize 1
+\i (00:00:13) trapsize 1
+\i (00:00:13) trapsize 30784
+\i (00:00:13) trapsize 30742
+\t (00:00:13) Creating TextBlocks
+\t (00:00:13) Creating Shapes on Package layers
+   (00:00:13) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:13) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:13) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:13) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:13) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:13) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:13) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:13) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:13) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\t (00:00:13) Creating Pins
+\t (00:00:13) Creating Vias
+\t (00:00:13) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2MUR/AllegroV17_2/AllegroV17_2/32m1-a.psm'.
+\t (00:00:13) Starting Create symbol...
+\t (00:00:13) Symbol Created
+\i (00:00:13) trapsize 1927
+\t (00:00:13) Opening existing design...
+\i (00:00:13) trapsize 1927
+\i (00:00:13) trapsize 1994
+\i (00:00:14) trapsize 1927
+\i (00:00:14) trapsize 1927
+\d (00:00:14) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_ATMEGA16U2MUR/AllegroV17_2/AllegroV17_2/32M1-A.dra
+\t (00:00:14) Symbol Saved
+   (00:00:14) t
+\i (00:00:14) scriptmode +i +n 
+\i (00:00:14) step pkg map 
+\i (00:00:14) setwindow form.pkgmap3d 
+\i (00:00:14) FORM pkgmap3d stplist 32M1-A.step 
+\i (00:00:14) FORM pkgmap3d rotation_x 0 
+\i (00:00:14) FORM pkgmap3d save_current 
+\i (00:00:14) FORM pkgmap3d done 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) save 
+\i (00:00:14) fillin yes 
+\t (00:00:15) Symbol '32m1-a.psm' created.
+\i (00:00:15) exit 
+\t (00:00:15)     Journal end - Mon Oct 07 00:12:23 2019

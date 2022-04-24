@@ -1,0 +1,68 @@
+\t (00:42:16) allegro 17.2 S061 Windows SPB 64-bit Edition
+\t (00:42:16)     Journal start - Sun Jan 19 18:34:10 2020
+\t (00:42:16)         Host=KIRSCHMACKE030A User=kirschmackey Pid=12172 CPUs=2
+\t (00:42:16) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:42:16) 
+\d (00:42:16) Design opened: C:/Users/kirschmackey/Documents/OrCAD/ArduinoUNO174/CAD/Parts/Footprints/MH_120.dra
+\i (00:42:16) generaledit 
+\i (00:42:20) 3d 
+\i (00:42:21) generaledit 
+\i (00:42:23) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:42:25) drag_start grid 33.3 93.0
+\i (00:42:26) drag_stop 430.5 2.5
+\i (00:42:27) pick grid -70.4 141.2
+\t (00:42:27) last pick:  -100.0 100.0
+\i (00:42:28) move 
+\t (00:42:28) Select element(s) to move.
+\i (00:42:29) pick grid -10.5 85.7
+\t (00:42:29) last pick:  0.0 100.0
+\t (00:42:29) last pick:  0.0 0.0
+\t (00:42:29) Pick new location for the element(s).
+\i (00:42:31) pick grid 550.3 -104.1
+\t (00:42:31) last pick:  600.0 -100.0
+\i (00:42:33) prepopup 193.9 49.2
+\i (00:42:34) oops 
+\t (00:42:34) last pick:  0.0 0.0
+\i (00:42:35) prepopup 139.9 47.8
+\i (00:42:38) pick grid 147.2 46.3
+\t (00:42:38) last pick:  100.0 0.0
+\i (00:42:40) pick grid -38.3 94.5
+\t (00:42:40) last pick:  0.0 100.0
+\t (00:42:40) last pick:  0.0 100.0
+\t (00:42:40) Element has no origin, using pick.
+\t (00:42:40) Pick new location for the element(s).
+\i (00:42:40) prepopup -241.3 82.8
+\i (00:42:42) done 
+\i (00:42:42) generaledit 
+\i (00:42:43) pick grid -20.8 84.3
+\t (00:42:43) last pick:  0.0 100.0
+\i (00:42:45) pick grid -25.1 97.4
+\t (00:42:45) last pick:  0.0 100.0
+\i (00:42:45) prepopup -25.1 97.4
+\i (00:42:46) pop dyn_option_select @:@Delete 
+\i (00:42:46) delete 
+\i (00:42:46) generaledit 
+\i (00:42:47) pick grid -10.5 173.4
+\t (00:42:47) last pick:  0.0 200.0
+\i (00:42:48) move 
+\t (00:42:48) Select element(s) to move.
+\i (00:42:48) pick grid 75.6 62.4
+\t (00:42:48) last pick:  100.0 100.0
+\t (00:42:48) last pick:  100.0 0.0
+\t (00:42:48) Pick new location for the element(s).
+\i (00:42:49) pick grid 23.1 49.2
+\t (00:42:49) last pick:  0.0 0.0
+\i (00:42:50) pick grid 340.0 -13.6
+\t (00:42:50) last pick:  300.0 0.0
+\i (00:42:50) prepopup 340.0 -13.6
+\i (00:42:52) save 
+\i (00:42:53) fillin yes 
+\t (00:42:53) Symbol 'mh_120.psm' created.
+\i (00:42:53) generaledit 
+\i (00:42:58) opencd C:/Users/kirschmackey/Documents/OrCAD/ArduinoUNO/CAD/allegro/ARDUINO_UNO_REV3_KM_routed.brd 
+\t (00:42:58) Opening existing design...
+\i (00:42:58) trapsize 1839
+\i (00:42:58) trapsize 1884
+\i (00:42:58) trapsize 1839
+\i (00:42:58) trapsize 1909
+\t (00:42:58)     Journal end - Sun Jan 19 18:34:53 2020

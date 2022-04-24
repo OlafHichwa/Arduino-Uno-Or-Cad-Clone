@@ -32,9 +32,25 @@
     (ANNOTATE_No_Page_Number_Change "TRUE")
     (ANNOTATE_Property_Combine "{Value}{Source Package}")
     (DOCKED "TRUE")
-    (DOCKING_POSITION "59420"))
-  (Folder "Layout")
-  (Folder "Outputs")
+    (DOCKING_POSITION "59420")
+    ("Allegro Netlist Directory" "allegro")
+    ("Allegro Netlist Output Board File" ".\allegro\arduinouno.brd"))
+  (Folder "Layout"
+    (File ".\allegro\arduinouno.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\arduinouno.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "PSpice Resources"
     (Folder "Model Libraries"
       (Sort User))
@@ -54,6 +70,14 @@
       (FullPartName "ATMEGA16U2-MUR.Normal")
       (LibraryName
          "C:\USERS\OLAF\GIT\ARDUINO-UNO-OR-CAD-CLONE\ORCAD\LIBS\ARDUINO_UNO_REV4.OLB")
+      (DeviceIndex "0"))
+    (TitleBlock0
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LM7805/TO_1
+      (FullPartName "LM7805/TO_1.Normal")
+      (LibraryName
+         "C:\USERS\KIRSCH\DOCUMENTS\ORCAD\ARDUINOUNO\CAD\ARDUINO_UNO.DSN")
       (DeviceIndex "0"))
     (R
       (FullPartName "R.Normal")
@@ -78,7 +102,19 @@
   (LastUsedLibraryBrowseDirectory
      "C:\Users\olaf\Git\Arduino-Uno-Or-Cad-Clone\OrCad\Libs")
   (MPSSessionName "olaf")
-  (Folder "Logs")
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "C:\Users\olaf\Git\Arduino-Uno-Or-Cad-Clone\OrCad\Project\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "C:\Users\olaf\Git\Arduino-Uno-Or-Cad-Clone\OrCad\Project\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "C:\Users\olaf\Git\Arduino-Uno-Or-Cad-Clone\OrCad\Project\allegro\eco.txt")))
   (GlobalState
     (FileView
       (Path "Design Resources")
@@ -87,35 +123,49 @@
       (Path "Design Resources"
          "C:\Users\olaf\Git\Arduino-Uno-Or-Cad-Clone\OrCad\Project\arduinouno.dsn"
          "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\Users\olaf\Git\Arduino-Uno-Or-Cad-Clone\OrCad\Project\arduinouno.dsn"
+         "Design Cache")
       (Path "Design Resources" "Library")
       (Select "Design Resources"
-         "C:\Users\olaf\Git\Arduino-Uno-Or-Cad-Clone\OrCad\Project\arduinouno.dsn"
-         "SCHEMATIC1" "Notes"))
-    (HierarchyView)
+         "C:\Users\olaf\Git\Arduino-Uno-Or-Cad-Clone\OrCad\Project\arduinouno.dsn"))
+    (HierarchyView
+      (Path "SCHEMATIC1"))
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 302 0 1029"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 505 0 1006"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1313 24 1047")
-        (Scroll "-7 -27")
-        (Zoom "130")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1730 24 1047")
+        (Scroll "-191 -9")
+        (Zoom "135")
         (Occurrence "/"))
       (Path
          "C:\USERS\OLAF\GIT\ARDUINO-UNO-OR-CAD-CLONE\ORCAD\PROJECT\ARDUINOUNO.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))
+      (Page "Notes"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 0 0 5 1313 24 1047")
-        (Scroll "-7 -27")
-        (Zoom "130")
+        (Placement "44 0 1 -1 -1 5 24 5 1730 24 1047")
+        (Scroll "-180 0")
+        (Zoom "66")
         (Occurrence "/"))
       (Path
          "C:\USERS\OLAF\GIT\ARDUINO-UNO-OR-CAD-CLONE\ORCAD\PROJECT\ARDUINOUNO.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "Notes"))))
+      (Page "PAGE1 - KM"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1730 24 1047")
+        (Scroll "-172 0")
+        (Zoom "139")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\OLAF\GIT\ARDUINO-UNO-OR-CAD-CLONE\ORCAD\PROJECT\ARDUINOUNO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1 - OH"))))

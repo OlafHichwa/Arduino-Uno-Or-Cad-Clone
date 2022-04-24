@@ -1,0 +1,54 @@
+\t (00:00:00) allegro 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Tue Oct 08 03:30:44 2019
+\t (00:00:00)         Host=KIRSCHMACKEAA35 User=kirsch Pid=4788 CPUs=2
+\t (00:00:00) CmdLine= allegro.exe -s builder.scr.txt
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 29310
+\i (00:00:04) replay builder.scr.txt 
+\i (00:00:04) skill 'load "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/SOT_23/AllegroV17_2/AllegroV17_2/builder.ile" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'changeWorkingDir "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/SOT_23/AllegroV17_2/AllegroV17_2" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/SOT_23/AllegroV17_2/AllegroV17_2/SOT-23.xml" ' 
+\t (00:00:04) Reading Footprint XML
+\t (00:00:04) Creating padstacks
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 1
+\i (00:00:04) trapsize 1
+\i (00:00:04) trapsize 1
+\i (00:00:04) trapsize 1164
+\i (00:00:04) trapsize 116438
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (2 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "SOT-23.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 1
+\i (00:00:04) trapsize 1
+\i (00:00:05) trapsize 1
+\i (00:00:05) trapsize 116438
+\i (00:00:05) trapsize 28724
+\t (00:00:05) Creating TextBlocks
+\t (00:00:05) Creating Shapes on Package layers
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 43.3071)
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/SOT_23/AllegroV17_2/AllegroV17_2/sot-23.psm'.
+\t (00:00:05) Starting Create symbol...
+\t (00:00:05) Symbol Created
+\i (00:00:05) trapsize 1208
+   (00:00:05) Loading cmds.cxt 
+   (00:00:05) Loading skillExt.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 888
+\i (00:00:05) trapsize 906
+\i (00:00:05) trapsize 930
+\i (00:00:05) trapsize 906
+\i (00:00:05) trapsize 1208
+\d (00:00:05) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/zzzSource/SOT_23/AllegroV17_2/AllegroV17_2/SOT-23.dra
+\t (00:00:05) Symbol Saved
+   (00:00:05) t
+\i (00:00:06) exit 
+\t (00:00:06)     Journal end - Tue Oct 08 03:30:50 2019

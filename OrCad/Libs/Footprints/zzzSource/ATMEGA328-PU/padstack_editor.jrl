@@ -1,0 +1,24 @@
+\t (00:00:00) padstack_editor 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Thu Sep 26 06:35:47 2019
+\t (00:00:00)         Host=KIRSCHMACKED2C1 User=kirsch Pid=4888 CPUs=2
+\t (00:00:00) CmdLine= padstack_editor -mpssession kirsch -file C:/Users/kirsch/AppData/Local/Temp/#Taaaaah07820.tmp -pname T_L81_132_264_M264_132 -data C:/Users/kirsch/AppData/Local/Temp/#Taaaaaj07820.tmp
+\t (00:00:00) 
+\d (00:00:04) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:08) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:09) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:18) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777252 0 false 1
+\d (00:00:21) QtSignal GuidedMaskLayersTab PadWidth editingFinished 2.7916
+\d (00:00:29) QtSignal GuidedMaskLayersTab PadHeight editingFinished 1.4708
+\d (00:00:34) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad 0 1
+\d (00:00:34) QtSignal GuidedMaskLayersTab LayersTable customContextMenuRequest 0 Pad
+\d (00:00:35) QtFillin Copy|0
+\d (00:00:35) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 Pad
+\d (00:00:35) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 Pad 1 1
+\d (00:00:35) QtSignal GuidedMaskLayersTab LayersTable customContextMenuRequest 1 Pad
+\d (00:00:36) QtFillin Paste|1
+\d (00:00:38) QtSignal MainWindow Save triggered
+\d (00:00:44) QtSignal MainWindow SaveAs triggered
+\d (00:00:52) QtFillin t_l81_132_264_m264_132.pad
+\d (00:00:53) QtFillin Yes
+\d (00:00:56) QtSignal MainWindow UpdateToDesignExit triggered
+\t (00:00:56)     Journal end - Thu Sep 26 06:36:43 2019

@@ -1,0 +1,348 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : arduinouno.brd                                )
+(    Software Version : 17.4S024                                      )
+(    Date/Time        : Sun Apr 24 13:01:17 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\Users\olaf\Git\Arduino-Uno-Or-Cad-Clone\OrCad\Project\allegro'
+Design Directory:            'C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro'
+Old design name:             'C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/arduinouno.brd'
+New design name:             'C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/arduinouno.brd'
+
+CmdLine: netrev.exe -y 1 -n -i C:\Users\olaf\Git\Arduino-Uno-Or-Cad-Clone\OrCad\Project\allegro C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/arduinouno.brd C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/arduinouno.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/pstchip.dat 
+   Finished reading C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/pstchip.dat (00:00:00.01)
+Starting to read C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/pstxprt.dat 
+   Finished reading C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/pstxnet.dat 
+   Finished reading C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CC0805N' used by RefDes C1 for device 'CAP NP_CC0805N_22PF_C0805C220K5GACTU' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old 
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CC0805N' used by RefDes C10 for device 'CAP NP_CC0805N_1UF_C0805C105K3PACTU' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old 
+
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CC0805N' used by RefDes C12 for device 'CAP NP_CC0805N_2.2UF_C0805C225K4RACTU' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate ol
+
+#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CC0805N' used by RefDes C13 for device 'CAP NP_CC0805N_100NF_C0805C104K3RACTU' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate ol
+
+#5   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'U2-K' used by RefDes C6 for device 'CAP_U2-K_100UF_EDH107M025A9HAA' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols.
+
+#6   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SD0805' used by RefDes D1 for device 'DIODE SCHOTTKY_SD0805_DIODE SCHOTTKY_SD0805S040S0R5' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor t
+
+#7   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMA' used by RefDes D2 for device 'DIODE_SMA_DIODE_' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols.
+
+#8   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LED_0805_ORANGE' used by RefDes D3 for device 'LED_LED_0805_ORANGE_TXLED_5988130107F' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to mig
+
+#9   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LED_0805_ORANGE' used by RefDes D4 for device 'LED_LED_0805_ORANGE_RXLED_5988130107F' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to mig
+
+#10  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LEDC2012X70N' used by RefDes D6 for device 'LED_LEDC2012X70N_PWR LED_5988170107F' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate
+
+#11  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'HEADERV_4POS_2X2' used by RefDes J1 for device 'HEADER 4_1_HEADERV_4POS_2X2_JUMPER' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migra
+
+#12  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CONN8_FH' used by RefDes J10 for device 'HEADER 8_0_CONN8_FH_HEADER 8' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbol
+
+#13  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CONN8_FH' used by RefDes J2 for device 'HEADER 8_CONN8_FH_POWER' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols.
+
+#14  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'HDRV6POS254_2X3' used by RefDes J3 for device 'HEADER 6_0_HDRV6POS254_2X3_ICSP1' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate 
+
+#15  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CUI_PJ-002AH' used by RefDes J4 for device 'CONN JACK PWR_CUI_PJ-002AH_+12V DC' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate o
+
+#16  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CON4-B474X618RZT' used by RefDes J5 for device 'HEADER 4_3_CON4-B474X618RZT_USB_B' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrat
+
+#17  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'DBV5' used by RefDes J6 for device 'HEADER 5_2_DBV5_3.3V LP2985' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols.
+
+#18  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CONN10_FH' used by RefDes J7 for device 'HEADER 10_0_CONN10_FH_HEADER 10' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old sym
+
+#19  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'HDRV6POS254_2X3' used by RefDes J8 for device 'HEADER 6_0_HDRV6POS254_2X3_ICSP' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate o
+
+#20  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CONN6_FH' used by RefDes J9 for device 'HEADER 6_1_CONN6_FH_HEADER 6' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols
+
+#21  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'BEADC2112X105N' used by RefDes L1 for device 'BEAD_BEADC2112X105N_BEAD' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbo
+
+#22  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'IND_2016' used by RefDes L3 for device 'INDUCTOR_IND_2016_2.2UH' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols.
+
+#23  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'MH_120' used by RefDes MH1 for device 'M_HOLE_MH_120_M_HOLE' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols.
+
+#24  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOT-23' used by RefDes Q1 for device 'MOSFET N_1_SOT-23_MOSFET N' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols.
+
+#25  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'STA_RMCF0805' used by RefDes R1 for device 'RESISTOR_STA_RMCF0805_10K' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbol
+
+#26  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'STA_RMCF0805' used by RefDes R11 for device 'RESISTOR_STA_RMCF0805_1MEG_RMCF0805JT1M00' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to m
+
+#27  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'STA_RMCF0805' used by RefDes R14 for device 'RESISTOR_STA_RMCF0805_1K' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbol
+
+#28  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'STA_RMCF0805' used by RefDes R4 for device 'RESISTOR_STA_RMCF0805_22OHM' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symb
+
+#29  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'VARISTOR_0805' used by RefDes RV1 for device 'VARISTOR_VARISTOR_0805_VARISTOR' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate ol
+
+#30  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SW4_1825910-B' used by RefDes SW1 for device 'SW DPST_SW4_1825910-B_SW DPST' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old 
+
+#31  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol '32A' used by RefDes U1 for device 'ATMEGA16U2-MUR_7_32A_ATMEGA16U2-MUR_ATMEGA16U2-MUR' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to mi
+
+#32  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'DCY4' used by RefDes U2 for device 'LM7805/TO_1_DCY4_LM7805/TO_' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols.
+
+#33  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'DIPDIL28' used by RefDes U3 for device 'ATMEGA328P-PN_4_DIPDIL28_ATMEGA328P-PN_ATMEGA328P-PN' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdocto
+
+    Alternatively, the JEDEC_TYPE is not defined for the device in the pstchip.dat.
+
+#34  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'MF05A' used by RefDes U4 for device 'LM321/TO_0_MF05A_LM321/TO' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols.
+
+#35  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol '32M1-A' used by RefDes U5 for device 'ATMEGA16U2-MUR_32M1-A_ATMEGA16U2-MUR' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old s
+
+#36  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'XTAL500X320X130N' used by RefDes Y1 for device 'CRYSTAL_XTAL500X320X130N_16 MHZ' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate 
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_17.4/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.4/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.4/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.4/share/pcb/allegrolib/symbols 
+           C:/Users/olaf/AppData/Roaming/SPB_Data/cdssetup/OrCAD_Capture/17.4.0/downloaded_parts/allegropcb 
+           C:/Users/olaf/iCloudDrive/Desktop/School/PCB/OrCAD PCB Editor Tutorial/OrCAD PCB Editor Tutorial/Completed PCB Editor Design 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.4/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.4/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.4/share/pcb/allegrolib/symbols 
+           C:/Users/olaf/AppData/Roaming/SPB_Data/cdssetup/OrCAD_Capture/17.4.0/downloaded_parts/allegropcb 
+           C:/Users/olaf/iCloudDrive/Desktop/School/PCB/OrCAD PCB Editor Tutorial/OrCAD PCB Editor Tutorial/Completed PCB Editor Design 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Apr 24 13:01:17 2022
+   DESIGN NAME : 'ARDUINOUNO'
+   PACKAGING ON Dec  6 2021 01:15:09
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ 36 warnings detected
+
+cpu time      0:00:14
+elapsed time  0:00:00
+

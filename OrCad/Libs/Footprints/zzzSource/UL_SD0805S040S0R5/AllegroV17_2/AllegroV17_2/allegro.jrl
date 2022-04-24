@@ -1,0 +1,65 @@
+\t (00:00:01) allegro 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Mon Oct 07 01:36:50 2019
+\t (00:00:01)         Host=KIRSCHMACKEAA35 User=kirsch Pid=1232 CPUs=2
+\t (00:00:01) CmdLine= allegro.exe -s builder.scr.txt
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Starting new design...
+\i (00:00:05) trapsize 29310
+\i (00:00:05) replay builder.scr.txt 
+\i (00:00:05) skill 'load "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_SD0805S040S0R5/AllegroV17_2/AllegroV17_2/builder.ile" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'changeWorkingDir "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_SD0805S040S0R5/AllegroV17_2/AllegroV17_2" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_SD0805S040S0R5/AllegroV17_2/AllegroV17_2/SD0805.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 1
+\i (00:00:05) trapsize 1
+\i (00:00:05) trapsize 1
+\i (00:00:05) trapsize 1164
+\i (00:00:05) trapsize 116438
+\t (00:00:05) Performing DRC...
+\t (00:00:05) Multithreaded DRC update (2 threads).
+\t (00:00:05) No DRC errors detected.
+\t (00:00:05) Opening Design "SD0805.dra"
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 1
+\i (00:00:05) trapsize 1
+\i (00:00:06) trapsize 1
+\i (00:00:06) trapsize 116438
+\i (00:00:06) trapsize 25103
+\t (00:00:06) Creating TextBlocks
+\t (00:00:06) Creating Shapes on Package layers
+   (00:00:06) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 39.0)
+   (00:00:06) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 39.0)
+\t (00:00:06) Creating Pins
+\t (00:00:06) Creating Vias
+\t (00:00:06) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_SD0805S040S0R5/AllegroV17_2/AllegroV17_2/sd0805.psm'.
+\t (00:00:06) Starting Create symbol...
+\t (00:00:06) Symbol Created
+\i (00:00:06) trapsize 1069
+   (00:00:06) Loading cmds.cxt 
+   (00:00:06) Loading skillExt.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) trapsize 1069
+\i (00:00:06) trapsize 1107
+\i (00:00:06) trapsize 1069
+\i (00:00:07) trapsize 1069
+\d (00:00:07) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_SD0805S040S0R5/AllegroV17_2/AllegroV17_2/SD0805.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) scriptmode +i +n 
+\i (00:00:07) step pkg map 
+\i (00:00:07) setwindow form.pkgmap3d 
+\i (00:00:07) FORM pkgmap3d stplist SD0805.step 
+\i (00:00:07) FORM pkgmap3d rotation_x 0 
+\i (00:00:07) FORM pkgmap3d save_current 
+\i (00:00:07) FORM pkgmap3d done 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) save 
+\i (00:00:07) fillin yes 
+\t (00:00:07) Symbol 'sd0805.psm' created.
+\i (00:00:07) exit 
+\t (00:00:08)     Journal end - Mon Oct 07 01:36:57 2019

@@ -1,0 +1,161 @@
+\t (00:00:02) allegro 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Oct 07 01:43:40 2019
+\t (00:00:02)         Host=KIRSCHMACKEAA35 User=kirsch Pid=7976 CPUs=2
+\t (00:00:02) CmdLine= allegro.exe -s builder.scr.txt
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 29310
+\i (00:00:05) replay builder.scr.txt 
+\i (00:00:05) skill 'load "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_STTH2R02A/AllegroV17_2/AllegroV17_2/builder.ile" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'changeWorkingDir "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_STTH2R02A/AllegroV17_2/AllegroV17_2" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_STTH2R02A/AllegroV17_2/AllegroV17_2/SMA-L.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:06) trapsize 1
+\i (00:00:06) trapsize 1
+\i (00:00:06) trapsize 1
+\i (00:00:06) trapsize 1164
+\i (00:00:06) trapsize 116438
+\t (00:00:06) Performing DRC...
+\t (00:00:06) Multithreaded DRC update (2 threads).
+\t (00:00:06) No DRC errors detected.
+\t (00:00:06) Opening Design "SMA-L.dra"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 1
+\i (00:00:06) trapsize 1
+\i (00:00:07) trapsize 1
+\i (00:00:07) trapsize 116438
+\i (00:00:07) trapsize 28582
+\t (00:00:07) Creating TextBlocks
+\t (00:00:07) Creating Shapes on Package layers
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 104.0)
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 104.0)
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 104.0)
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 104.0)
+\t (00:00:07) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_STTH2R02A/AllegroV17_2/AllegroV17_2/sma-l.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 1522
+   (00:00:07) Loading cmds.cxt 
+   (00:00:07) Loading skillExt.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 1522
+\i (00:00:07) trapsize 1575
+\i (00:00:07) trapsize 1522
+\i (00:00:07) trapsize 1522
+\d (00:00:07) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_STTH2R02A/AllegroV17_2/AllegroV17_2/SMA-L.dra
+\t (00:00:08) Symbol Saved
+   (00:00:08) t
+\i (00:00:08) scriptmode +i +n 
+\i (00:00:08) step pkg map 
+\i (00:00:08) setwindow form.pkgmap3d 
+\i (00:00:08) FORM pkgmap3d stplist SMA-L.step 
+\i (00:00:08) FORM pkgmap3d rotation_x 0 
+\i (00:00:08) FORM pkgmap3d save_current 
+\i (00:00:08) FORM pkgmap3d done 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) save 
+\i (00:00:08) fillin yes 
+\t (00:00:08) Symbol 'sma-l.psm' created.
+\i (00:00:08) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_STTH2R02A/AllegroV17_2/AllegroV17_2/SMA-M.xml" ' 
+\t (00:00:08) Reading Footprint XML
+\t (00:00:08) Creating padstacks
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 19511
+\i (00:00:08) trapsize 20192
+\i (00:00:09) trapsize 19511
+\i (00:00:09) trapsize 28582
+\i (00:00:09) trapsize 28582
+\t (00:00:09) Opening Design "SMA-M.dra"
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 1
+\i (00:00:09) trapsize 1
+\i (00:00:09) trapsize 1
+\i (00:00:09) trapsize 28582
+\i (00:00:09) trapsize 28678
+\t (00:00:09) Creating TextBlocks
+\t (00:00:09) Creating Shapes on Package layers
+   (00:00:09) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 104.0)
+   (00:00:09) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 104.0)
+   (00:00:09) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 104.0)
+   (00:00:09) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 104.0)
+\t (00:00:09) Creating Pins
+\t (00:00:09) Creating Vias
+\t (00:00:09) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_STTH2R02A/AllegroV17_2/AllegroV17_2/sma-m.psm'.
+\t (00:00:09) Starting Create symbol...
+\t (00:00:09) Symbol Created
+\i (00:00:09) trapsize 1700
+\t (00:00:10) Opening existing design...
+\i (00:00:10) trapsize 1700
+\i (00:00:10) trapsize 1760
+\i (00:00:10) trapsize 1700
+\i (00:00:10) trapsize 1700
+\d (00:00:10) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_STTH2R02A/AllegroV17_2/AllegroV17_2/SMA-M.dra
+\t (00:00:10) Symbol Saved
+   (00:00:10) t
+\i (00:00:10) scriptmode +i +n 
+\i (00:00:10) step pkg map 
+\i (00:00:10) setwindow form.pkgmap3d 
+\i (00:00:10) FORM pkgmap3d stplist SMA-M.step 
+\i (00:00:10) FORM pkgmap3d rotation_x 0 
+\i (00:00:10) FORM pkgmap3d save_current 
+\i (00:00:10) FORM pkgmap3d done 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) save 
+\i (00:00:11) fillin yes 
+\t (00:00:11) Symbol 'sma-m.psm' created.
+\i (00:00:11) skill 'LB_createFootprint "C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_STTH2R02A/AllegroV17_2/AllegroV17_2/SMA.xml" ' 
+\t (00:00:11) Reading Footprint XML
+\t (00:00:11) Creating padstacks
+\t (00:00:11) Starting new design...
+\i (00:00:11) trapsize 19511
+\i (00:00:11) trapsize 20192
+\i (00:00:11) trapsize 19511
+\i (00:00:11) trapsize 28678
+\i (00:00:11) trapsize 28678
+\t (00:00:11) Opening Design "SMA.dra"
+\t (00:00:11) Starting new design...
+\i (00:00:12) trapsize 1
+\i (00:00:12) trapsize 1
+\i (00:00:12) trapsize 1
+\i (00:00:12) trapsize 28678
+\i (00:00:12) trapsize 28630
+\t (00:00:12) Creating TextBlocks
+\t (00:00:12) Creating Shapes on Package layers
+   (00:00:12) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 104.0)
+   (00:00:12) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 104.0)
+   (00:00:12) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 104.0)
+   (00:00:12) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 104.0)
+\t (00:00:12) Creating Pins
+\t (00:00:12) Creating Vias
+\t (00:00:12) Creating package symbol 'C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_STTH2R02A/AllegroV17_2/AllegroV17_2/sma.psm'.
+\t (00:00:12) Starting Create symbol...
+\t (00:00:12) Symbol Created
+\i (00:00:12) trapsize 1599
+\t (00:00:12) Opening existing design...
+\i (00:00:12) trapsize 1599
+\i (00:00:13) trapsize 1655
+\i (00:00:13) trapsize 1599
+\i (00:00:13) trapsize 1599
+\d (00:00:13) Design opened: C:/Users/kirsch/Documents/OrCAD/ArduinoUNO/CAD/Parts/Footprints/UL_STTH2R02A/AllegroV17_2/AllegroV17_2/SMA.dra
+\t (00:00:13) Symbol Saved
+   (00:00:13) t
+\i (00:00:13) scriptmode +i +n 
+\i (00:00:13) step pkg map 
+\i (00:00:13) setwindow form.pkgmap3d 
+\i (00:00:13) FORM pkgmap3d stplist SMA.step 
+\i (00:00:13) FORM pkgmap3d rotation_x 0 
+\i (00:00:13) FORM pkgmap3d save_current 
+\i (00:00:13) FORM pkgmap3d done 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) save 
+\i (00:00:13) fillin yes 
+\t (00:00:14) Symbol 'sma.psm' created.
+\i (00:00:14) exit 
+\t (00:00:14)     Journal end - Mon Oct 07 01:43:52 2019
