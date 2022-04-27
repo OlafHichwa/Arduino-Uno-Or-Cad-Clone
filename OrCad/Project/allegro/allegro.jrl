@@ -1,0 +1,368 @@
+\t (00:00:00) allegro 17.4 S024 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Tue Apr 26 22:21:09 2022
+\t (00:00:00)         Host=OLAFDELLDESKTOP User=olaf Pid=26252 CPUs=24
+\t (00:00:00) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -mpssession olaf -proj C:\Users\olaf\Git\Arduino-Uno-Or-Cad-Clone\OrCad\Project\ArduinoUno.opj C:\Users\olaf\Git\Arduino-Uno-Or-Cad-Clone\OrCad\Project\allegro\arduinouno.brd
+\t (00:00:00) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged arduinouno
+\d (00:00:03) Design opened: C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/arduinouno.brd
+\i (00:00:03) trapsize 163419
+\i (00:00:03) trapsize 167686
+\i (00:00:03) trapsize 188529
+\i (00:00:03) trapsize 191605
+\t (00:00:04) > Sending response DoneOpenBoard
+\i (00:00:04) generaledit 
+\i (00:00:42) prepopup 3342.7841 1260.4934
+\i (00:00:51) cmgr 
+\i (00:00:51) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:00:51) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:00:51) QtSignal "All Layers"
+\i (00:00:51) QtSignal Frozen_Wiring_WorksheetView8 Frozen_Wiring_WorksheetView8Header sectionMoved +
+\i (00:00:51) QtSignal 0 0 1
+\i (00:00:51) QtSignal Frozen_Wiring_WorksheetView8 Frozen_Wiring_WorksheetView8Header sectionMoved +
+\i (00:00:51) QtSignal 1 1 0
+\i (00:00:51) QtSignal Wiring_WorksheetView8 Wiring_WorksheetView8Header sectionMoved 0 0 1
+\i (00:00:51) QtSignal Wiring_WorksheetView8 Wiring_WorksheetView8Header sectionMoved 1 1 0
+\i (00:00:51) QtSignal Frozen_Wiring_WorksheetView8 Frozen_Wiring_WorksheetView8Header sectionMoved +
+\i (00:00:51) QtSignal 0 1 3
+\i (00:00:51) QtSignal Frozen_Wiring_WorksheetView8 Frozen_Wiring_WorksheetView8Header sectionMoved +
+\i (00:00:51) QtSignal 3 3 1
+\i (00:00:51) QtSignal Wiring_WorksheetView8 Wiring_WorksheetView8Header sectionMoved 0 1 3
+\i (00:00:51) QtSignal Wiring_WorksheetView8 Wiring_WorksheetView8Header sectionMoved 3 3 1
+\i (00:00:52) QtSignal CCMViewHost8 tableWidget currentChanged arduinouno
+\i (00:00:52) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:00:52) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:00:52) QtSignal Routing Wiring
+\i (00:00:52) QtSignal Frozen_Wiring_WorksheetView26 Frozen_Wiring_WorksheetView26Header sectionMoved +
+\i (00:00:52) QtSignal 0 0 1
+\i (00:00:52) QtSignal Frozen_Wiring_WorksheetView26 Frozen_Wiring_WorksheetView26Header sectionMoved +
+\i (00:00:52) QtSignal 1 1 0
+\i (00:00:52) QtSignal Wiring_WorksheetView26 Wiring_WorksheetView26Header sectionMoved 0 0 1
+\i (00:00:52) QtSignal Wiring_WorksheetView26 Wiring_WorksheetView26Header sectionMoved 1 1 0
+\i (00:00:52) QtSignal Frozen_Wiring_WorksheetView26 Frozen_Wiring_WorksheetView26Header sectionMoved +
+\i (00:00:52) QtSignal 0 1 3
+\i (00:00:52) QtSignal Frozen_Wiring_WorksheetView26 Frozen_Wiring_WorksheetView26Header sectionMoved +
+\i (00:00:52) QtSignal 3 3 1
+\i (00:00:52) QtSignal Wiring_WorksheetView26 Wiring_WorksheetView26Header sectionMoved 0 1 3
+\i (00:00:52) QtSignal Wiring_WorksheetView26 Wiring_WorksheetView26Header sectionMoved 3 3 1
+\i (00:00:52) QtSignal CCMViewHost26 tableWidget currentChanged arduinouno
+\i (00:00:52) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:00:52) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Routing Wiring
+\i (00:00:52) QtSignal Frozen_All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:52) QtSignal 0 0 1
+\i (00:00:52) QtSignal Frozen_All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:52) QtSignal 1 1 0
+\i (00:00:52) QtSignal All_Layers_WorksheetView58 All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:52) QtSignal 0 0 1
+\i (00:00:52) QtSignal All_Layers_WorksheetView58 All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:52) QtSignal 1 1 0
+\i (00:00:52) QtSignal Frozen_All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:52) QtSignal 0 1 3
+\i (00:00:52) QtSignal Frozen_All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:52) QtSignal 3 3 1
+\i (00:00:52) QtSignal All_Layers_WorksheetView58 All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:52) QtSignal 0 1 3
+\i (00:00:52) QtSignal All_Layers_WorksheetView58 All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:52) QtSignal 3 3 1
+\i (00:00:52) QtSignal CCMViewHost58 tableWidget currentChanged arduinouno
+\i (00:00:52) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:00:52) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:00:52) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:00:52) QtSignal "All Layers"
+\i (00:00:52) generaledit 
+\i (00:01:00) QtSignal m_domainSelector WS_Physical itemClicked "Physical Constraint Set" "All Layers"
+\i (00:01:15) QtSignal MainWindow FiltersDlg closed
+\i (00:01:17) QtFillin OK
+\i (00:01:19) QtSignal CCMViewHost58 All_Layers_WorksheetView58 ContextMenu "(ARDUINOUNO,MAXIMUM_NECK_LENGTH)"
+\i (00:10:25) QtFillin OK
+\i (00:10:30) QtSignal m_domainSelector WS_Physical itemClicked "Physical Constraint Set" "All Layers"
+\i (00:10:31) QtSignal inCell combo CurrentIndexChanged 0
+\i (00:10:33) QtSignal m_groupBoxAvailFilter m_listWidget currentRowChanged 0
+\i (00:10:35) QtSignal m_enumFilterFrame m_pushButtonCancel clicked
+\i (00:10:35) QtSignal m_groupBoxAvailFilter m_listWidget currentRowChanged "-1"
+\i (00:10:41) QtSignal m_groupBoxObjFilter m_treeWidgetObjFilters itemSelectionChanged "Physical CSet" +
+\i (00:10:41) QtSignal "Automation-defined (A)"
+\i (00:10:42) QtSignal m_groupBoxObjFilter m_treeWidgetObjFilters itemClicked "Physical CSet" "Automation-defined (A)"
+\i (00:10:43) QtSignal m_groupBoxObjFilter m_treeWidgetObjFilters itemClicked "Physical CSet" "Automation-defined (A)"
+\i (00:10:43) QtSignal m_groupBoxObjFilter m_treeWidgetObjFilters itemClicked "Physical CSet" "Automation-defined (A)"
+\i (00:10:45) QtSignal m_groupBoxObjFilter m_pushButtonRestoreDefaultObjFilter clicked
+\i (00:10:47) QtSignal m_groupBoxAdvancedFilters m_pushButtonResetAllFilters clicked
+\i (00:10:48) QtSignal FiltersDlg m_pushButtonApply clicked
+\i (00:10:48) QtSignal FiltersDlg m_pushButtonOK clicked
+\i (00:10:58) QtSignal inCell text editingFinished 8
+\i (00:11:00) QtFillin OK
+\i (00:11:06) QtSignal inCell text editingFinished "0.0000"
+\i (00:11:08) QtSignal inCell text editingFinished 8
+\i (00:11:49) QtSignal inCell text editingFinished 5
+\i (00:12:04) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:12:04) QtSignal m_domainSelector WS_Physical itemClicked Net "All Layers"
+\i (00:13:06) QtSignal m_groupBoxAvailFilter m_listWidget currentRowChanged 0
+\i (00:13:07) QtSignal m_enumFilterFrame m_pushButtonCancel clicked
+\i (00:13:07) QtSignal m_groupBoxAvailFilter m_listWidget currentRowChanged "-1"
+\i (00:13:08) QtSignal inCell combo CurrentIndexChanged 0
+\i (00:13:09) QtSignal inCell combo CurrentIndexChanged 0
+\i (00:13:56) QtSignal All_Layers_WorksheetView63 Frozen_All_Layers_WorksheetView63 ContextMenu +
+\i (00:13:56) QtSignal "(ARDUINOUNO,NAME)"
+\i (00:14:00) QtSignal Frozen_All_Layers_WorksheetView63 Frozen_All_Layers_WorksheetView63Header sectionPressed +
+\i (00:14:00) QtSignal 0
+\i (00:14:00) QtSignal Frozen_All_Layers_WorksheetView63 Frozen_All_Layers_WorksheetView63Header sectionClicked +
+\i (00:14:00) QtSignal 0
+\i (00:14:00) QtSignal Frozen_All_Layers_WorksheetView63 Frozen_All_Layers_WorksheetView63Header sectionPressed +
+\i (00:14:00) QtSignal 0
+\i (00:14:00) QtSignal Frozen_All_Layers_WorksheetView63 Frozen_All_Layers_WorksheetView63Header sectionClicked +
+\i (00:14:00) QtSignal 0
+\i (00:14:02) QtSignal Frozen_All_Layers_WorksheetView63 Frozen_All_Layers_WorksheetView63Header sectionPressed +
+\i (00:14:02) QtSignal 0
+\i (00:14:02) QtSignal Frozen_All_Layers_WorksheetView63 Frozen_All_Layers_WorksheetView63Header sectionClicked +
+\i (00:14:02) QtSignal 0
+\i (00:14:13) QtSignal CCMVTabbediewHost62 CCMViewHost63 keyPressEvent 16777249 67108864 false 1
+\i (00:14:37) QtSignal CCMVTabbediewHost62 CCMViewHost63 keyPressEvent 16777249 67108864 false 1
+\i (00:15:40) QtSignal CCMVTabbediewHost62 CCMViewHost63 keyPressEvent 16777249 67108864 false 1
+\i (00:15:47) QtSignal CCMVTabbediewHost62 CCMViewHost63 keyPressEvent 16777249 67108864 false 1
+\i (00:15:53) QtSignal CCMVTabbediewHost62 CCMViewHost63 keyPressEvent 16777249 67108864 false 1
+\i (00:16:11) QtSignal CCMVTabbediewHost62 CCMViewHost63 keyPressEvent 16777249 67108864 false 1
+\i (00:16:34) QtSignal CCMVTabbediewHost62 CCMViewHost63 keyPressEvent 16777249 67108864 false 1
+\i (00:16:37) QtSignal CCMVTabbediewHost62 CCMViewHost63 keyPressEvent 16777249 67108864 false 1
+\i (00:16:46) QtSignal CCMVTabbediewHost62 CCMViewHost63 keyPressEvent 16777249 67108864 false 1
+\i (00:16:55) QtSignal CCMVTabbediewHost62 CCMViewHost63 keyPressEvent 16777249 67108864 false 1
+\i (00:16:59) QtSignal CCMVTabbediewHost62 CCMViewHost63 keyPressEvent 16777249 67108864 false 1
+\i (00:17:01) QtSignal inCell combo CurrentIndexChanged 0
+\i (00:17:06) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:17:06) QtSignal "All Layers"
+\i (00:17:06) QtSignal m_domainSelector WS_Physical itemClicked "Physical Constraint Set" "All Layers"
+\i (00:17:28) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:17:28) QtSignal m_domainSelector WS_Physical itemClicked Net "All Layers"
+\i (00:17:29) QtSignal inCell combo CurrentIndexChanged 0
+\i (00:17:32) QtSignal inCell combo CurrentIndexChanged 0
+\i (00:17:37) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:17:37) QtSignal "All Layers"
+\i (00:17:37) QtSignal m_domainSelector WS_Physical itemClicked "Physical Constraint Set" "All Layers"
+\i (00:18:28) QtSignal All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58 ContextMenu +
+\i (00:18:28) QtSignal "(ARDUINOUNO.0,NAME)"
+\i (00:18:34) QtSignal menuObjects menuCreate Triggered "Physical CSet..."
+\i (00:18:34) QtSignal m_menuBar menuObjects Triggered "Physical CSet..."
+\i (00:18:43) QtSignal CreateNamedObjDlg m_RegionText editingFinished DesignRulesA
+\i (00:18:43) QtSignal CreateNamedObjDlg m_ButtonOK clicked
+\i (00:18:50) QtFillin OK
+\i (00:19:21) QtSignal CreateNamedObjDlg m_ButtonCancel clicked
+\i (00:19:21) QtSignal superMenu RMBMenu Triggered "Physical CSet..."
+\i (00:19:22) QtSignal All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58 ContextMenu +
+\i (00:19:22) QtSignal "(ARDUINOUNO,NAME)"
+\i (00:19:24) QtSignal menuObjects menuCreate Triggered "Physical CSet..."
+\i (00:19:24) QtSignal m_menuBar menuObjects Triggered "Physical CSet..."
+\i (00:19:28) QtSignal CreateNamedObjDlg m_RegionText editingFinished PwrGND
+\i (00:19:28) QtSignal CreateNamedObjDlg m_ButtonOK clicked
+\i (00:19:54) QtFillin OK
+\i (00:21:14) QtSignal CreateNamedObjDlg m_ButtonCancel clicked
+\i (00:21:14) QtSignal superMenu RMBMenu Triggered "Physical CSet..."
+\i (00:21:16) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:21:16) QtSignal m_domainSelector WS_Physical itemClicked Net "All Layers"
+\i (00:21:17) QtSignal inCell combo CurrentIndexChanged 0
+\i (00:21:18) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:21:18) QtSignal "All Layers"
+\i (00:21:18) QtSignal m_domainSelector WS_Physical itemClicked "Physical Constraint Set" "All Layers"
+\i (00:21:23) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:21:23) QtSignal m_domainSelector WS_Physical itemClicked Net "All Layers"
+\i (00:21:24) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:21:24) QtSignal "All Layers"
+\i (00:21:24) QtSignal m_domainSelector WS_Physical itemClicked "Physical Constraint Set" "All Layers"
+\i (00:21:25) QtSignal All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58 ContextMenu +
+\i (00:21:25) QtSignal "(ARDUINOUNO.0,NAME)"
+\i (00:21:29) QtSignal All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58 ContextMenu +
+\i (00:21:29) QtSignal "(ARDUINOUNO,NAME)"
+\i (00:23:04) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:23:04) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:24:32) xname_flush 
+\i (00:24:32) xname_flush 
+\i (00:24:32) xname_flush 
+\i (00:24:32) xname_flush 
+\i (00:25:02) xname_flush 
+\i (00:25:09) xname_flush 
+\i (00:30:18) xNet '!' Reset 
+\i (00:30:18) xNet '!' N19205 
+\i (00:30:18) xNet '!' N21024 
+\i (00:30:18) xrefdes '!' D6 
+\t (00:30:18) Can not select unplaced component D6.
+\t (00:30:18) Can not select unplaced component D6.
+\i (00:30:18) xNet '!' N08810 
+\i (00:30:18) xrefdes '!' C17 
+\t (00:30:18) Can not select unplaced component C17.
+\t (00:30:18) Can not select unplaced component C17.
+\i (00:30:18) xrefdes '!' C14 
+\t (00:30:18) Can not select unplaced component C14.
+\t (00:30:18) Can not select unplaced component C14.
+\i (00:30:18) xNet '!' 5V_Vcc 
+\i (00:30:18) xNet '!' Ad1 
+\i (00:30:18) xNet '!' Pb6 
+\i (00:30:18) xNet '!' Miso1 
+\i (00:30:18) xNet '!' N09481 
+\i (00:30:18) xrefdes '!' Mh2 
+\t (00:30:18) Can not select unplaced component MH2.
+\t (00:30:18) Can not select unplaced component MH2.
+\i (00:30:18) xNet '!' N12906 
+\i (00:30:18) xNet '!' +5V 
+\i (00:30:18) xNet '!' Aref 
+\i (00:30:18) xNet '!' 5V_Avcc 
+\i (00:30:18) xNet '!' Usb_D+ 
+\i (00:30:18) xNet '!' X1_2 
+\i (00:30:18) xNet '!' Vin 
+\i (00:30:18) xrefdes '!' C4 
+\t (00:30:18) Can not select unplaced component C4.
+\t (00:30:18) Can not select unplaced component C4.
+\i (00:30:18) xNet '!' Sck 
+\i (00:30:18) xNet '!' Sck1 
+\i (00:30:18) xNet '!' 5V_Vcc1 
+\i (00:30:18) xrefdes '!' L2 
+\t (00:30:18) Can not select unplaced component L2.
+\t (00:30:18) Can not select unplaced component L2.
+\i (00:30:18) xrefdes '!' Y1 
+\t (00:30:18) Can not select unplaced component Y1.
+\t (00:30:18) Can not select unplaced component Y1.
+\i (00:30:18) xrefdes '!' C12 
+\t (00:30:18) Can not select unplaced component C12.
+\t (00:30:18) Can not select unplaced component C12.
+\i (00:30:18) xrefdes '!' R12 
+\t (00:30:18) Can not select unplaced component R12.
+\t (00:30:18) Can not select unplaced component R12.
+\i (00:30:18) xrefdes '!' Rv1 
+\t (00:30:18) Can not select unplaced component RV1.
+\t (00:30:18) Can not select unplaced component RV1.
+\i (00:30:18) xrefdes '!' R8 
+\t (00:30:18) Can not select unplaced component R8.
+\t (00:30:18) Can not select unplaced component R8.
+\i (00:30:18) xNet '!' +3.3V 
+\i (00:30:18) xNet '!' Reset1 
+\i (00:30:18) xNet '!' N05673 
+\i (00:30:18) xNet '!' N09327 
+\i (00:30:18) xNet '!' N20833 
+\i (00:30:18) xNet '!' Miso 
+\i (00:30:18) xNet '!' Usb_D- 
+\i (00:30:18) xrefdes '!' J4 
+\t (00:30:18) Can not select unplaced component J4.
+\t (00:30:18) Can not select unplaced component J4.
+\i (00:30:18) xrefdes '!' Mh1 
+\t (00:30:18) Can not select unplaced component MH1.
+\t (00:30:18) Can not select unplaced component MH1.
+\i (00:30:18) xNet '!' D0/Rx 
+\i (00:30:18) xNet '!' D6 
+\i (00:30:18) xNet '!' N09409 
+\i (00:30:18) xrefdes '!' D5 
+\t (00:30:18) Can not select unplaced component D5.
+\t (00:30:18) Can not select unplaced component D5.
+\i (00:30:18) xrefdes '!' C16 
+\t (00:30:18) Can not select unplaced component C16.
+\t (00:30:18) Can not select unplaced component C16.
+\i (00:30:18) xrefdes '!' R4 
+\t (00:30:18) Can not select unplaced component R4.
+\t (00:30:18) Can not select unplaced component R4.
+\i (00:30:18) xNet '!' Pb5 
+\i (00:30:18) xrefdes '!' C8 
+\t (00:30:18) Can not select unplaced component C8.
+\t (00:30:18) Can not select unplaced component C8.
+\i (00:30:18) xNet '!' Mosi1 
+\i (00:30:18) xrefdes '!' R14 
+\t (00:30:18) Can not select unplaced component R14.
+\t (00:30:18) Can not select unplaced component R14.
+\i (00:30:18) xrefdes '!' J7 
+\t (00:30:18) Can not select unplaced component J7.
+\t (00:30:18) Can not select unplaced component J7.
+\i (00:30:18) xrefdes '!' Sw1 
+\t (00:30:18) Can not select unplaced component SW1.
+\t (00:30:18) Can not select unplaced component SW1.
+\i (00:30:18) xrefdes '!' D1 
+\t (00:30:18) Can not select unplaced component D1.
+\t (00:30:18) Can not select unplaced component D1.
+\i (00:30:18) xrefdes '!' R7 
+\t (00:30:18) Can not select unplaced component R7.
+\t (00:30:18) Can not select unplaced component R7.
+\i (00:30:18) xrefdes '!' C6 
+\t (00:30:18) Can not select unplaced component C6.
+\t (00:30:18) Can not select unplaced component C6.
+\i (00:30:18) xNet '!' N05679 
+\i (00:30:18) xrefdes '!' J5 
+\t (00:30:18) Can not select unplaced component J5.
+\t (00:30:18) Can not select unplaced component J5.
+\i (00:30:18) xNet '!' N21846 
+\i (00:30:18) xNet '!' N08902 
+\i (00:30:18) xNet '!' Ad4 
+\i (00:30:18) xNet '!' Pb7 
+\i (00:30:18) xNet '!' D1/Tx 
+\i (00:30:18) xNet '!' D4 
+\i (00:30:18) xrefdes '!' Q1 
+\t (00:30:18) Can not select unplaced component Q1.
+\t (00:30:18) Can not select unplaced component Q1.
+\i (00:30:18) xrefdes '!' Mh3 
+\t (00:30:18) Can not select unplaced component MH3.
+\t (00:30:18) Can not select unplaced component MH3.
+\i (00:30:18) xNet '!' Usbvcc 
+\i (00:30:18) xrefdes '!' Mh4 
+\t (00:30:18) Can not select unplaced component MH4.
+\t (00:30:18) Can not select unplaced component MH4.
+\i (00:30:18) xNet '!' N06312 
+\i (00:30:18) xrefdes '!' J10 
+\t (00:30:18) Can not select unplaced component J10.
+\t (00:30:18) Can not select unplaced component J10.
+\i (00:30:18) xrefdes '!' R11 
+\t (00:30:18) Can not select unplaced component R11.
+\t (00:30:18) Can not select unplaced component R11.
+\i (00:30:18) xrefdes '!' C5 
+\t (00:30:18) Can not select unplaced component C5.
+\t (00:30:18) Can not select unplaced component C5.
+\i (00:30:18) xrefdes '!' L5 
+\t (00:30:18) Can not select unplaced component L5.
+\t (00:30:18) Can not select unplaced component L5.
+\i (00:30:18) xrefdes '!' D2 
+\t (00:30:18) Can not select unplaced component D2.
+\t (00:30:18) Can not select unplaced component D2.
+\i (00:30:18) xrefdes '!' R3 
+\t (00:30:18) Can not select unplaced component R3.
+\t (00:30:18) Can not select unplaced component R3.
+\i (00:30:18) xNet '!' N09469 
+\i (00:30:18) xrefdes '!' D3 
+\t (00:30:18) Can not select unplaced component D3.
+\t (00:30:18) Can not select unplaced component D3.
+\i (00:30:18) xNet '!' Ss 
+\i (00:30:18) xrefdes '!' D4 
+\t (00:30:18) Can not select unplaced component D4.
+\t (00:30:18) Can not select unplaced component D4.
+\i (00:30:18) xNet '!' D8 
+\i (00:30:18) xNet '!' Ad3 
+\i (00:30:18) xNet '!' Ad0 
+\i (00:30:18) xNet '!' D2 
+\i (00:30:18) xrefdes '!' J2 
+\t (00:30:18) Can not select unplaced component J2.
+\t (00:30:18) Can not select unplaced component J2.
+\i (00:30:18) xNet '!' N09393 
+\i (00:30:18) xrefdes '!' R10 
+\t (00:30:18) Can not select unplaced component R10.
+\t (00:30:18) Can not select unplaced component R10.
+\i (00:30:18) xrefdes '!' L3 
+\t (00:30:18) Can not select unplaced component L3.
+\t (00:30:18) Can not select unplaced component L3.
+\i (00:30:18) xrefdes '!' U1 
+\t (00:30:18) Can not select unplaced component U1.
+\t (00:30:18) Can not select unplaced component U1.
+\i (00:30:18) xrefdes '!' C9 
+\t (00:30:18) Can not select unplaced component C9.
+\t (00:30:18) Can not select unplaced component C9.
+\i (00:30:18) xNet '!' Pb4 
+\i (00:30:18) xrefdes '!' C18 
+\t (00:30:18) Can not select unplaced component C18.
+\t (00:30:18) Can not select unplaced component C18.
+\i (00:30:18) xrefdes '!' J3 
+\t (00:30:18) Can not select unplaced component J3.
+\t (00:30:18) Can not select unplaced component J3.
+\i (00:30:18) xrefdes '!' U3 
+\t (00:30:18) Can not select unplaced component U3.
+\t (00:30:18) Can not select unplaced component U3.
+\i (00:30:18) xrefdes '!' C15 
+\t (00:30:18) Can not select unplaced component C15.
+\t (00:30:18) Can not select unplaced component C15.
+\i (00:30:18) xrefdes '!' C7 
+\t (00:30:18) Can not select unplaced component C7.
+\t (00:30:18) Can not select unplaced component C7.
+\i (00:30:18) xrefdes '!' R13 
+\t (00:30:18) Can not select unplaced component R13.
+\t (00:30:18) Can not select unplaced component R13.
+\i (00:30:18) xre
