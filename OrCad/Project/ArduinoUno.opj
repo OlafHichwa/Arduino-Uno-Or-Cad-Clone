@@ -1,6 +1,6 @@
 (ExpressProject "ArduinoUno"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S024 (3998392)  [12/6/2021]-[04/24/22]")
+  (SoftwareVersion "17.4-2019 S024 (3998392)  [12/6/2021]-[04/26/22]")
   (ProjectType "Analog or A/D Mixed Mode")
   (Folder "Design Resources"
     (Folder "Library"
@@ -34,7 +34,8 @@
     (DOCKED "TRUE")
     (DOCKING_POSITION "59420")
     ("Allegro Netlist Directory" "allegro")
-    ("Allegro Netlist Output Board File" ".\allegro\arduinouno.brd"))
+    ("Allegro Netlist Output Board File" ".\allegro\arduinouno.brd")
+    (Board_sim_option "VHDL_flow"))
   (Folder "Layout"
     (File ".\allegro\arduinouno.brd"
       (Type "Board File")
@@ -130,43 +131,34 @@
       (Path "Layout")
       (Path "Outputs")
       (Path "Logs")
-      (Select "Layout" ".\allegro\arduinouno.brd"))
+      (Select "Design Resources"
+         "C:\Users\olaf\Git\Arduino-Uno-Or-Cad-Clone\OrCad\Project\arduinouno.dsn"
+         "SCHEMATIC1" "PAGE1 - KM"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 1005"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 290 0 867"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1473 24 1046")
-        (Scroll "-63 -9")
-        (Zoom "135")
+        (Placement "44 0 1 -1 -1 -1 -1 5 999 24 908")
+        (Scroll "0 0")
+        (Zoom "124")
         (Occurrence "/"))
       (Path
          "C:\USERS\OLAF\GIT\ARDUINO-UNO-OR-CAD-CLONE\ORCAD\PROJECT\ARDUINOUNO.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "Notes"))
+      (Page "PAGE1 - OH"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1473 24 1046")
-        (Scroll "-51 0")
-        (Zoom "66")
+        (Placement "44 0 1 -1 -1 5 24 5 999 24 908")
+        (Scroll "1173 1218")
+        (Zoom "188")
         (Occurrence "/"))
       (Path
          "C:\USERS\OLAF\GIT\ARDUINO-UNO-OR-CAD-CLONE\ORCAD\PROJECT\ARDUINOUNO.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1 - KM"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1473 24 1046")
-        (Scroll "-43 0")
-        (Zoom "139")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\OLAF\GIT\ARDUINO-UNO-OR-CAD-CLONE\ORCAD\PROJECT\ARDUINOUNO.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1 - OH"))))
+      (Page "PAGE1 - KM"))))
