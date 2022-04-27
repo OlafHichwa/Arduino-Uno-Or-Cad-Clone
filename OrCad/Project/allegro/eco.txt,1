@@ -1,0 +1,527 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/arduinouno.brd     |
+|                                                    Sun Apr 24 13:01:17 2022  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  5V_AVCC      pins ADDED TO this new net
+                                 C5.1           C17.1          L2.2           
+                                 L5.2           U1.32          U3.20          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  5V_VCC1      pins ADDED TO this new net
+                                 C3.1           L1.2           U1.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  5V_VCC       pins ADDED TO this new net
+                                 C16.1          L4.2           U3.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +3.3V        pins ADDED TO this new net
+                                 C12.1          J2.4           J6.5           
+                                 U4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +5V          pins ADDED TO this new net
+                                 C7.1           C8.1           D1.2           
+                                 D3.2           D4.2           D5.2           
+                                 J2.2           J2.5           J3.2           
+                                 J6.1           J8.2           L1.1           
+                                 L2.1           L4.1           L5.1           
+                                 Q1.3           R1.1           R10.1          
+                                 R14.1          U2.2           U4.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AD0          pins ADDED TO this new net
+                                 J9.1           U3.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AD1          pins ADDED TO this new net
+                                 J9.2           U3.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AD2          pins ADDED TO this new net
+                                 J9.3           U3.25          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AD3          pins ADDED TO this new net
+                                 J9.4           U3.26          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AD4          pins ADDED TO this new net
+                                 J7.9           J9.5           U3.27          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AD5          pins ADDED TO this new net
+                                 J7.10          J9.6           U3.28          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AREF         pins ADDED TO this new net
+                                 C18.2          J7.8           U3.21          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AVCC         pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/arduinouno.brd     |
+|                                                    Sun Apr 24 13:01:17 2022  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U5.32          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D0/RX        pins ADDED TO this new net
+                                 J10.1          R8.1           U3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D1/TX        pins ADDED TO this new net
+                                 J10.2          R9.1           U3.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D2           pins ADDED TO this new net
+                                 J10.3          U3.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D3           pins ADDED TO this new net
+                                 J10.4          U3.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D4           pins ADDED TO this new net
+                                 J10.5          U3.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D5           pins ADDED TO this new net
+                                 J10.6          U3.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D6           pins ADDED TO this new net
+                                 J10.7          U3.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D7           pins ADDED TO this new net
+                                 J10.8          U3.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D8           pins ADDED TO this new net
+                                 J7.1           U3.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D9           pins ADDED TO this new net
+                                 J7.2           U3.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 C1.1           C2.1           C3.2           
+                                 C5.2           C6.2           C7.2           
+                                 C8.2           C9.2           C10.2          
+                                 C11.2          C12.2          C13.2          
+                                 C14.1          C15.1          C16.2          
+                                 C17.2          C18.1          D6.1           
+                                 J2.6           J2.7           J3.6           
+                                 J4.1           J4.3           J5.4           
+                                 J5.5           J5.6           J6.2           
+                                 J7.7           J8.6           R3.2           
+                                 R13.2          RV1.2          RV2.2          
+                                 SW1.3          SW1.4          U1.3           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/arduinouno.brd     |
+|                                                    Sun Apr 24 13:01:17 2022  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U1.28          U2.3           U3.8           
+                                 U3.22          U4.2           U5.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MISO1        pins ADDED TO this new net
+                                 J3.1           U1.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MISO         pins ADDED TO this new net
+                                 J7.5           J8.1           U3.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MOSI1        pins ADDED TO this new net
+                                 J3.4           U1.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MOSI         pins ADDED TO this new net
+                                 J7.4           J8.4           U3.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05673       pins ADDED TO this new net
+                                 R5.2           U1.29          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05679       pins ADDED TO this new net
+                                 R4.2           U1.30          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06312       pins ADDED TO this new net
+                                 C10.1          U1.27          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08810       pins ADDED TO this new net
+                                 C15.2          R11.1          U3.9           
+                                 Y2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08902       pins ADDED TO this new net
+                                 C14.2          R11.2          U3.10          
+                                 Y2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09327       pins ADDED TO this new net
+                                 R6.2           U1.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09393       pins ADDED TO this new net
+                                 R7.2           U1.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09409       pins ADDED TO this new net
+                                 D3.1           R6.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09411       pins ADDED TO this new net
+                                 D4.1           R7.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09469       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/arduinouno.brd     |
+|                                                    Sun Apr 24 13:01:17 2022  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R8.2           U1.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09481       pins ADDED TO this new net
+                                 R9.2           U1.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12906       pins ADDED TO this new net
+                                 C4.1           R3.1           U1.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N15968       pins ADDED TO this new net
+                                 D2.2           J4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19205       pins ADDED TO this new net
+                                 C11.1          J6.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N20833       pins ADDED TO this new net
+                                 Q1.1           U4.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N21024       pins ADDED TO this new net
+                                 R12.2          R13.1          U4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N21846       pins ADDED TO this new net
+                                 D6.2           R14.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N47345       pins ADDED TO this new net
+                                 J5.1           L3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB4          pins ADDED TO this new net
+                                 J1.4           U1.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB5          pins ADDED TO this new net
+                                 J1.2           U1.19          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB6          pins ADDED TO this new net
+                                 J1.3           U1.20          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB7          pins ADDED TO this new net
+                                 J1.1           U1.21          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RESET1       pins ADDED TO this new net
+                                 D1.1           J3.5           R1.2           
+                                 U1.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RESET        pins ADDED TO this new net
+                                 C4.2           C13.1          D5.1           
+                                 J2.3           J8.5           R10.2          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/arduinouno.brd     |
+|                                                    Sun Apr 24 13:01:17 2022  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 SW1.1          SW1.2          U3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SCK1         pins ADDED TO this new net
+                                 J3.3           U1.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SCK          pins ADDED TO this new net
+                                 J7.6           J8.3           U3.19          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SS1          pins ADDED TO this new net
+                                 U1.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SS           pins ADDED TO this new net
+                                 J7.3           U3.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UGND         pins ADDED TO this new net
+                                 U5.28          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USBVCC       pins ADDED TO this new net
+                                 L3.2           Q1.2           U1.31          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USB_D+       pins ADDED TO this new net
+                                 J5.3           R5.1           RV2.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USB_D-       pins ADDED TO this new net
+                                 J5.2           R4.1           RV1.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UVCC         pins ADDED TO this new net
+                                 U5.31          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC          pins ADDED TO this new net
+                                 U5.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VIN          pins ADDED TO this new net
+                                 C6.1           C9.1           D2.1           
+                                 J2.8           R12.1          U2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X1_1         pins ADDED TO this new net
+                                 C1.2           R2.1           U1.1           
+                                 Y1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X1_2         pins ADDED TO this new net
+                                 C2.2           R2.2           U1.2           
+                                 Y1.1           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/arduinouno.brd     |
+|                                                    Sun Apr 24 13:01:17 2022  |
+|------------------------------------------------------------------------------|
+| NET PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|     net  name   |   property   |                    value                    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ USB_D+            DIFFERENTIAL_P DP1
+ USB_D-            DIFFERENTIAL_P DP1
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:.../Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/arduinouno.brd     |
+|                                                    Sun Apr 24 13:01:17 2022  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ ATMEGA16U2-MUR_7_32A_ATMEGA16U2-MUR_ATMEGA16U2-MUR
+ ATMEGA16U2-MUR_32M1-A_ATMEGA16U2-MUR
+ ATMEGA328P-PN_4_DIPDIL28_ATMEGA328P-PN_ATMEGA328P-PN
+ BEAD_BEADC2112X105N_BEAD
+ CAP NP_CC0805N_1UF_C0805C105K3PACTU
+ CAP NP_CC0805N_2.2UF_C0805C225K4RACTU
+ CAP NP_CC0805N_22PF_C0805C220K5GACTU
+ CAP NP_CC0805N_100NF_C0805C104K3RACTU
+ CAP_U2-K_100UF_EDH107M025A9HAA
+ CONN JACK PWR_CUI_PJ-002AH_+12V DC
+ CRYSTAL_XTAL500X320X130N_16 MHZ
+ DIODE SCHOTTKY_SD0805_DIODE SCHOTTKY_SD0805S040S0R5
+ DIODE_SMA_DIODE_
+ HEADER 4_1_HEADERV_4POS_2X2_JUMPER
+ HEADER 4_3_CON4-B474X618RZT_USB_B
+ HEADER 5_2_DBV5_3.3V LP2985
+ HEADER 6_0_HDRV6POS254_2X3_ICSP1
+ HEADER 6_0_HDRV6POS254_2X3_ICSP
+ HEADER 6_1_CONN6_FH_HEADER 6
+ HEADER 8_0_CONN8_FH_HEADER 8
+ HEADER 8_CONN8_FH_POWER
+ HEADER 10_0_CONN10_FH_HEADER 10
+ INDUCTOR_IND_2016_2.2UH
+ LED_LEDC2012X70N_PWR LED_5988170107F
+ LED_LED_0805_ORANGE_RXLED_5988130107F
+ LED_LED_0805_ORANGE_TXLED_5988130107F
+ LM321/TO_0_MF05A_LM321/TO
+ LM7805/TO_1_DCY4_LM7805/TO_
+ MOSFET N_1_SOT-23_MOSFET N
+ M_HOLE_MH_120_M_HOLE
+ RESISTOR_STA_RMCF0805_1K
+ RESISTOR_STA_RMCF0805_1MEG_RMCF0805JT1M00
+ RESISTOR_STA_RMCF0805_10K
+ RESISTOR_STA_RMCF0805_22OHM
+ SW DPST_SW4_1825910-B_SW DPST
+ VARISTOR_VARISTOR_0805_VARISTOR
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:.../Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/arduinouno.brd     |
+|                                                    Sun Apr 24 13:01:17 2022  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_CC0805N_22PF_C0805C220K5GACTU 
+ C2                  CAP NP_CC0805N_22PF_C0805C220K5GACTU 
+ C3                  CAP NP_CC0805N_100NF_C0805C104K3RACTU 
+ C4                  CAP NP_CC0805N_100NF_C0805C104K3RACTU 
+ C5                  CAP NP_CC0805N_100NF_C0805C104K3RACTU 
+ C6                  CAP_U2-K_100UF_EDH107M025A9HAA 
+ C7                  CAP_U2-K_100UF_EDH107M025A9HAA 
+ C8                  CAP NP_CC0805N_100NF_C0805C104K3RACTU 
+ C9                  CAP NP_CC0805N_100NF_C0805C104K3RACTU 
+ C10                 CAP NP_CC0805N_1UF_C0805C105K3PACTU 
+ C11                 CAP NP_CC0805N_1UF_C0805C105K3PACTU 
+ C12                 CAP NP_CC0805N_2.2UF_C0805C225K4RACTU 
+ C13                 CAP NP_CC0805N_100NF_C0805C104K3RACTU 
+ C14                 CAP NP_CC0805N_22PF_C0805C220K5GACTU 
+ C15                 CAP NP_CC0805N_22PF_C0805C220K5GACTU 
+ C16                 CAP NP_CC0805N_100NF_C0805C104K3RACTU 
+ C17                 CAP NP_CC0805N_100NF_C0805C104K3RACTU 
+ C18                 CAP NP_CC0805N_100NF_C0805C104K3RACTU 
+ D1                  DIODE SCHOTTKY_SD0805_DIODE SCHOTTKY_SD0805S040S0R5 
+ D2                  DIODE_SMA_DIODE_      
+ D3                  LED_LED_0805_ORANGE_TXLED_5988130107F 
+ D4                  LED_LED_0805_ORANGE_RXLED_5988130107F 
+ D5                  DIODE SCHOTTKY_SD0805_DIODE SCHOTTKY_SD0805S040S0R5 
+ D6                  LED_LEDC2012X70N_PWR LED_5988170107F 
+ J1                  HEADER 4_1_HEADERV_4POS_2X2_JUMPER 
+ J2                  HEADER 8_CONN8_FH_POWER 
+ J3                  HEADER 6_0_HDRV6POS254_2X3_ICSP1 
+ J4                  CONN JACK PWR_CUI_PJ-002AH_+12V DC 
+ J5                  HEADER 4_3_CON4-B474X618RZT_USB_B 
+ J6                  HEADER 5_2_DBV5_3.3V LP2985 
+ J7                  HEADER 10_0_CONN10_FH_HEADER 10 
+ J8                  HEADER 6_0_HDRV6POS254_2X3_ICSP 
+ J9                  HEADER 6_1_CONN6_FH_HEADER 6 
+ J10                 HEADER 8_0_CONN8_FH_HEADER 8 
+ L1                  BEAD_BEADC2112X105N_BEAD 
+ L2                  BEAD_BEADC2112X105N_BEAD 
+ L3                  INDUCTOR_IND_2016_2.2UH 
+ L4                  BEAD_BEADC2112X105N_BEAD 
+ L5                  BEAD_BEADC2112X105N_BEAD 
+ MH1                 M_HOLE_MH_120_M_HOLE  
+ MH2                 M_HOLE_MH_120_M_HOLE  
+ MH3                 M_HOLE_MH_120_M_HOLE  
+ MH4                 M_HOLE_MH_120_M_HOLE  
+ Q1                  MOSFET N_1_SOT-23_MOSFET N 
+ R1                  RESISTOR_STA_RMCF0805_10K 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  C:.../Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/arduinouno.brd     |
+|                                                    Sun Apr 24 13:01:17 2022  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R2                  RESISTOR_STA_RMCF0805_1MEG_RMCF0805JT1M00 
+ R3                  RESISTOR_STA_RMCF0805_1K 
+ R4                  RESISTOR_STA_RMCF0805_22OHM 
+ R5                  RESISTOR_STA_RMCF0805_22OHM 
+ R6                  RESISTOR_STA_RMCF0805_1K 
+ R7                  RESISTOR_STA_RMCF0805_1K 
+ R8                  RESISTOR_STA_RMCF0805_1K 
+ R9                  RESISTOR_STA_RMCF0805_1K 
+ R10                 RESISTOR_STA_RMCF0805_10K 
+ R11                 RESISTOR_STA_RMCF0805_1MEG_RMCF0805JT1M00 
+ R12                 RESISTOR_STA_RMCF0805_10K 
+ R13                 RESISTOR_STA_RMCF0805_10K 
+ R14                 RESISTOR_STA_RMCF0805_1K 
+ RV1                 VARISTOR_VARISTOR_0805_VARISTOR 
+ RV2                 VARISTOR_VARISTOR_0805_VARISTOR 
+ SW1                 SW DPST_SW4_1825910-B_SW DPST 
+ U1                  ATMEGA16U2-MUR_7_32A_ATMEGA16U2-MUR_ATMEGA16U2-MUR 
+ U2                  LM7805/TO_1_DCY4_LM7805/TO_ 
+ U3                  ATMEGA328P-PN_4_DIPDIL28_ATMEGA328P-PN_ATMEGA328P-PN 
+ U4                  LM321/TO_0_MF05A_LM321/TO 
+ U5                  ATMEGA16U2-MUR_32M1-A_ATMEGA16U2-MUR 
+ Y1                  CRYSTAL_XTAL500X320X130N_16 MHZ 
+ Y2                  CRYSTAL_XTAL500X320X130N_16 MHZ 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  C:.../Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/arduinouno.brd     |
+|                                                    Sun Apr 24 13:01:17 2022  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C14.2                          PRIM_FILE      .\pstchip.dat
+ C15.2                          PRIM_FILE      .\pstchip.dat
+ C16.2                          PRIM_FILE      .\pstchip.dat
+ C17.2                          PRIM_FILE      .\pstchip.dat
+ C18.2                          PRIM_FILE      .\pstchip.dat
+ D1.2                           PRIM_FILE      .\pstchip.dat
+ D2.1                           PRIM_FILE      .\pstchip.dat
+ D3.1                           PRIM_FILE      .\pstchip.dat
+ D4.1                           PRIM_FILE      .\pstchip.dat
+ D5.2                           PRIM_FILE      .\pstchip.dat
+ D6.1                           PRIM_FILE      .\pstchip.dat
+ J1.4                           PRIM_FILE      .\pstchip.dat
+ J2.8                           PRIM_FILE      .\pstchip.dat
+ J3.6                           PRIM_FILE      .\pstchip.dat
+ J4.3                           PRIM_FILE      .\pstchip.dat
+ J5.1                           PRIM_FILE      .\pstchip.dat
+ J6.5                           PRIM_FILE      .\pstchip.dat
+ J7.9                           PRIM_FILE      .\pstchip.dat
+ J8.6                           PRIM_FILE      .\pstchip.dat
+ J9.6                           PRIM_FILE      .\pstchip.dat
+ J10.8                          PRIM_FILE      .\pstchip.dat
+ L1.2                           PRIM_FILE      .\pstchip.dat
+ L2.2                           PRIM_FILE      .\pstchip.dat
+ L3.2                           PRIM_FILE      .\pstchip.dat
+ L4.2                           PRIM_FILE      .\pstchip.dat
+ L5.2                           PRIM_FILE      .\pstchip.dat
+ MH1.1                          PRIM_FILE      .\pstchip.dat
+ MH2.1                          PRIM_FILE      .\pstchip.dat
+ MH3.1                          PRIM_FILE      .\pstchip.dat
+ MH4.1                          PRIM_FILE      .\pstchip.dat
+ Q1.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  C:.../Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/arduinouno.brd     |
+|                                                    Sun Apr 24 13:01:17 2022  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ RV1.2                          PRIM_FILE      .\pstchip.dat
+ RV2.2                          PRIM_FILE      .\pstchip.dat
+ SW1.4                          PRIM_FILE      .\pstchip.dat
+ U1.1                           PRIM_FILE      .\pstchip.dat
+ U2.2                           PRIM_FILE      .\pstchip.dat
+ U3.7                           PRIM_FILE      .\pstchip.dat
+ U4.5                           PRIM_FILE      .\pstchip.dat
+ U5.2                           PRIM_FILE      .\pstchip.dat
+ Y1.2                           PRIM_FILE      .\pstchip.dat
+ Y2.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :     226                                        |
+|       Net property added    :       2                                        |
+|       Comp definitions added:      36                                        |
+|       Components added      :      68                                        |
+|       Slot property added   :      68                                        |
+|                                                                              |
+|   Total ECO changes reported:     400                                        |
+|------------------------------------------------------------------------------|

@@ -1,0 +1,70 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_CDS_FSP_UID!FUNC_NO_SWAP_PIN!FUNC_HARD_LOCATION!FUNC_NO_SWAP_GATE_EXT!FUNC_CDS_FSP_MAPPED_CELL!FUNC_CDS_FSP_FPGA_SYMBOL!FUNC_CDS_FSP_TERM_TYPE!FUNC_CDS_FSP_TERM_NAME!FUNC_ROOM!FUNC_GROUP!FUNC_CDS_FSP_TERM_INDEX!FUNC_CDS_FSP_INSTANCE_ID!FUNC_NO_SWAP_GATE!FUNC_NO_XNET_CONNECTION!FUNC_CDS_FSP_IS_FPGA!
+J!c:/users/olaf/git/arduino-uno-or-cad-clone/orcad/project/allegro/arduinouno.brd!Wed Apr 27 15:02:06 2022!-1334.5285!-515.6278!19980.0916!16484.3722!0.0001!mils!ARDUINOUNO!62.000000 mil!2!UP TO DATE!
+S!@arduinouno.schematic1(sch_1):ins52907@discrete.\cap np.normal\(chips)!CAP NP_CC0805N_22PF_C0805C220K5GACTU!C1!.\chipsView.dat!!!!!!F63!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53455@discrete.\cap np.normal\(chips)!CAP NP_CC0805N_22PF_C0805C220K5GACTU!C14!.\chipsView.dat!!!!!!F62!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins51923@discrete.\cap np.normal\(chips)!CAP NP_CC0805N_22PF_C0805C220K5GACTU!C15!.\chipsView.dat!!!!!!F61!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52363@discrete.\cap np.normal\(chips)!CAP NP_CC0805N_22PF_C0805C220K5GACTU!C2!.\chipsView.dat!!!!!!F60!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52243@discrete.\cap np.normal\(chips)!CAP NP_CC0805N_1UF_C0805C105K3PACTU!C10!.\chipsView.dat!!!!!!F59!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52047@discrete.\cap np.normal\(chips)!CAP NP_CC0805N_1UF_C0805C105K3PACTU!C11!.\chipsView.dat!!!!!!F58!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52223@discrete.\cap np.normal\(chips)!CAP NP_CC0805N_2.2UF_C0805C225K4RACTU!C12!.\chipsView.dat!!!!!!F57!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53171@discrete.\cap np.normal\(chips)!CAP NP_CC0805N_100NF_C0805C104K3RACTU!C13!.\chipsView.dat!!!!!!F56!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52027@discrete.\cap np.normal\(chips)!CAP NP_CC0805N_100NF_C0805C104K3RACTU!C16!.\chipsView.dat!!!!!!F55!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53415@discrete.\cap np.normal\(chips)!CAP NP_CC0805N_100NF_C0805C104K3RACTU!C17!.\chipsView.dat!!!!!!F54!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52439@discrete.\cap np.normal\(chips)!CAP NP_CC0805N_100NF_C0805C104K3RACTU!C18!.\chipsView.dat!!!!!!F53!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53371@discrete.\cap np.normal\(chips)!CAP NP_CC0805N_100NF_C0805C104K3RACTU!C3!.\chipsView.dat!!!!!!F52!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52459@discrete.\cap np.normal\(chips)!CAP NP_CC0805N_100NF_C0805C104K3RACTU!C4!.\chipsView.dat!!!!!!F51!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52591@discrete.\cap np.normal\(chips)!CAP NP_CC0805N_100NF_C0805C104K3RACTU!C5!.\chipsView.dat!!!!!!F50!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52307@discrete.\cap np.normal\(chips)!CAP NP_CC0805N_100NF_C0805C104K3RACTU!C8!.\chipsView.dat!!!!!!F49!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53635@discrete.\cap np.normal\(chips)!CAP NP_CC0805N_100NF_C0805C104K3RACTU!C9!.\chipsView.dat!!!!!!F48!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52987@discrete.\cap.normal\(chips)!CAP_U2-K_100UF_EDH107M025A9HAA!C6!.\chipsView.dat!!!!!!F47!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52163@discrete.\cap.normal\(chips)!CAP_U2-K_100UF_EDH107M025A9HAA!C7!.\chipsView.dat!!!!!!F46!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52867@discrete.\diode schottky.normal\(chips)!DIODE SCHOTTKY_SD0805_DIODE SCHOTTKY_SD0805S040S0R5!D1!.\chipsView.dat!!!!!!F45!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins51987@discrete.\diode schottky.normal\(chips)!DIODE SCHOTTKY_SD0805_DIODE SCHOTTKY_SD0805S040S0R5!D5!.\chipsView.dat!!!!!!F44!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52751@discrete.\diode.normal\(chips)!DIODE_SMA_DIODE_!D2!.\chipsView.dat!!!!!!F43!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53191@discrete.\led.normal\(chips)!LED_LED_0805_ORANGE_TXLED_5988130107F!D3!.\chipsView.dat!!!!!!F42!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53351@discrete.\led.normal\(chips)!LED_LED_0805_ORANGE_RXLED_5988130107F!D4!.\chipsView.dat!!!!!!F41!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53295@discrete.\led.normal\(chips)!LED_LEDC2012X70N_PWR LED_5988170107F!D6!.\chipsView.dat!!!!!!F40!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins51883@arduino_uno.\header 4_1.normal\(chips)!HEADER 4_1_HEADERV_4POS_2X2_JUMPER!J1!.\chipsView.dat!!!!!!F39!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52099@arduino_uno.\header 8_0.normal\(chips)!HEADER 8_0_CONN8_FH_HEADER 8!J10!.\chipsView.dat!!!!!!F38!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins51943@connector.\header 8.normal\(chips)!HEADER 8_CONN8_FH_POWER!J2!.\chipsView.dat!!!!!!F37!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52671@arduino_uno.\header 6_0.normal\(chips)!HEADER 6_0_HDRV6POS254_2X3_ICSP1!J3!.\chipsView.dat!!!!!!F36!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52283@connector.\conn jack pwr.normal\(chips)!CONN JACK PWR_CUI_PJ-002AH_+12V DC!J4!.\chipsView.dat!!!!!!F35!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53259@arduino_uno.\header 4_3.normal\(chips)!HEADER 4_3_CON4-B474X618RZT_USB_B!J5!.\chipsView.dat!!!!!!F34!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53315@arduino_uno.\header 5_2.normal\(chips)!HEADER 5_2_DBV5_3.3V LP2985!J6!.\chipsView.dat!!!!!!F33!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52771@arduino_uno.\header 10_0.normal\(chips)!HEADER 10_0_CONN10_FH_HEADER 10!J7!.\chipsView.dat!!!!!!F32!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52403@arduino_uno.\header 6_0.normal\(chips)!HEADER 6_0_HDRV6POS254_2X3_ICSP!J8!.\chipsView.dat!!!!!!F31!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52515@arduino_uno.\header 6_1.normal\(chips)!HEADER 6_1_CONN6_FH_HEADER 6!J9!.\chipsView.dat!!!!!!F30!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52651@discrete.\bead.normal\(chips)!BEAD_BEADC2112X105N_BEAD!L1!.\chipsView.dat!!!!!!F29!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52143@discrete.\bead.normal\(chips)!BEAD_BEADC2112X105N_BEAD!L2!.\chipsView.dat!!!!!!F28!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52887@discrete.\bead.normal\(chips)!BEAD_BEADC2112X105N_BEAD!L4!.\chipsView.dat!!!!!!F27!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52631@discrete.\bead.normal\(chips)!BEAD_BEADC2112X105N_BEAD!L5!.\chipsView.dat!!!!!!F26!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53475@discrete.\inductor.normal\(chips)!INDUCTOR_IND_2016_2.2UH!L3!.\chipsView.dat!!!!!!F25!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52327@mylibrary.\m_hole.normal\(chips)!M_HOLE_MH_120_M_HOLE!MH1!.\chipsView.dat!!!!!!TF-29!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52479@mylibrary.\m_hole.normal\(chips)!M_HOLE_MH_120_M_HOLE!MH2!.\chipsView.dat!!!!!!TF-28!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52851@mylibrary.\m_hole.normal\(chips)!M_HOLE_MH_120_M_HOLE!MH3!.\chipsView.dat!!!!!!TF-27!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53211@mylibrary.\m_hole.normal\(chips)!M_HOLE_MH_120_M_HOLE!MH4!.\chipsView.dat!!!!!!TF-26!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52727@arduino_uno.\mosfet n_1.normal\(chips)!MOSFET N_1_SOT-23_MOSFET N!Q1!.\chipsView.dat!!!!!!F24!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52495@discrete.\resistor.normal\(chips)!RESISTOR_STA_RMCF0805_10K!R1!.\chipsView.dat!!!!!!F23!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53435@discrete.\resistor.normal\(chips)!RESISTOR_STA_RMCF0805_10K!R10!.\chipsView.dat!!!!!!F22!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52263@discrete.\resistor.normal\(chips)!RESISTOR_STA_RMCF0805_10K!R12!.\chipsView.dat!!!!!!F21!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52203@discrete.\resistor.normal\(chips)!RESISTOR_STA_RMCF0805_10K!R13!.\chipsView.dat!!!!!!F20!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52551@discrete.\resistor.normal\(chips)!RESISTOR_STA_RMCF0805_1MEG_RMCF0805JT1M00!R11!.\chipsView.dat!!!!!!F19!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52007@discrete.\resistor.normal\(chips)!RESISTOR_STA_RMCF0805_1MEG_RMCF0805JT1M00!R2!.\chipsView.dat!!!!!!F18!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52707@discrete.\resistor.normal\(chips)!RESISTOR_STA_RMCF0805_1K!R14!.\chipsView.dat!!!!!!F17!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53151@discrete.\resistor.normal\(chips)!RESISTOR_STA_RMCF0805_1K!R3!.\chipsView.dat!!!!!!F16!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52571@discrete.\resistor.normal\(chips)!RESISTOR_STA_RMCF0805_1K!R6!.\chipsView.dat!!!!!!F15!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52947@discrete.\resistor.normal\(chips)!RESISTOR_STA_RMCF0805_1K!R7!.\chipsView.dat!!!!!!F14!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52383@discrete.\resistor.normal\(chips)!RESISTOR_STA_RMCF0805_1K!R8!.\chipsView.dat!!!!!!F13!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52967@discrete.\resistor.normal\(chips)!RESISTOR_STA_RMCF0805_1K!R9!.\chipsView.dat!!!!!!F12!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52067@discrete.\resistor.normal\(chips)!RESISTOR_STA_RMCF0805_22OHM!R4!.\chipsView.dat!!!!!!F11!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52611@discrete.\resistor.normal\(chips)!RESISTOR_STA_RMCF0805_22OHM!R5!.\chipsView.dat!!!!!!F10!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52343@discrete.\varistor.normal\(chips)!VARISTOR_VARISTOR_0805_VARISTOR!RV1!.\chipsView.dat!!!!!!F9!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52927@discrete.\varistor.normal\(chips)!VARISTOR_VARISTOR_0805_VARISTOR!RV2!.\chipsView.dat!!!!!!F8!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52823@discrete.\sw dpst.normal\(chips)!SW DPST_SW4_1825910-B_SW DPST!SW1!.\chipsView.dat!!!!!!F7!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53495@arduino_uno.\atmega16u2-mur_7.normal\(chips)!ATMEGA16U2-MUR_7_32A_ATMEGA16U2-MUR_ATMEGA16U2-MUR!U1!.\chipsView.dat!!!!!!F6!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53391@arduino_uno.\lm7805/to_1.normal\(chips)!LM7805/TO_1_DCY4_LM7805/TO_!U2!.\chipsView.dat!!!!!!F5!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53027@arduino_uno.\atmega328p-pn_4.normal\(chips)!ATMEGA328P-PN_4_DIPDIL28_ATMEGA328P-PN_ATMEGA328P-PN!U3!.\chipsView.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53227@arduino_uno.\lm321/to_0.normal\(chips)!LM321/TO_0_MF05A_LM321/TO!U4!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins54835@arduino_uno_rev4.\atmega16u2-mur.normal\(chips)!ATMEGA16U2-MUR_32M1-A_ATMEGA16U2-MUR!U5!.\chipsView.dat!!!!!!F2!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins52183@discrete.\crystal.normal\(chips)!CRYSTAL_XTAL500X320X130N_16 MHZ!Y1!.\chipsView.dat!!!!!!F1!!!!!!!!!!!!!!!!!!
+S!@arduinouno.schematic1(sch_1):ins53007@discrete.\crystal.normal\(chips)!CRYSTAL_XTAL500X320X130N_16 MHZ!Y2!.\chipsView.dat!!!!!!F0!!!!!!!!!!!!!!!!!!

@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.4.0 d001Apr-24-2022 at 13:01:17 }
+{ Using PSTWRITER 17.4.0 d001Apr-27-2022 at 15:02:05 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='ARDUINOUNO';
@@ -654,16 +654,6 @@ SECTION_NUMBER 1
  '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS53227@ARDUINO_UNO.LM321/TO_0.NORMAL(CHIPS)':
  C_PATH='@arduinouno.schematic1(sch_1):ins53227@arduino_uno.\lm321/to_0.normal\(chips)',
  P_PATH='@arduinouno.schematic1(sch_1):page1_ins53227@arduino_uno.\lm321/to_0.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- U5 'ATMEGA16U2-MUR_32M1-A_ATMEGA16U2-MUR':;
-
-SECTION_NUMBER 1
- '@ARDUINOUNO.SCHEMATIC1(SCH_1):INS54835@ARDUINO_UNO_REV4.ATMEGA16U2-MUR.NORMAL(CHIPS)':
- C_PATH='@arduinouno.schematic1(sch_1):ins54835@arduino_uno_rev4.\atmega16u2-mur.normal\(chips)',
- P_PATH='@arduinouno.schematic1(sch_1):page1_ins54835@arduino_uno_rev4.\atmega16u2-mur.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

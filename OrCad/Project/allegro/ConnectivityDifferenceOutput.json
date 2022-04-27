@@ -1,0 +1,43 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "U5",
+			"C_PATH" : "@arduinouno.schematic1(sch_1):ins54835@arduino_uno_rev4.\\atmega16u2-mur.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U5"
+		}
+	],
+	"Net" : [
+		{
+			"Name" : "UGND",
+			"C_PATH" : "@arduinouno.schematic1(sch_1):ugnd",
+			"Logical" : null,
+			"Physical" : "UGND"
+		},
+		{
+			"Name" : "AVCC",
+			"C_PATH" : "@arduinouno.schematic1(sch_1):avcc",
+			"Logical" : null,
+			"Physical" : "AVCC"
+		},
+		{
+			"Name" : "UVCC",
+			"C_PATH" : "@arduinouno.schematic1(sch_1):uvcc",
+			"Logical" : null,
+			"Physical" : "UVCC"
+		},
+		{
+			"Name" : "VCC",
+			"C_PATH" : "@arduinouno.schematic1(sch_1):vcc",
+			"Logical" : null,
+			"Physical" : "VCC"
+		}
+	],
+	"Connection" : []
+}

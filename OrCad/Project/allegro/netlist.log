@@ -1,14 +1,14 @@
-{ Using PSTWRITER 17.4.0 d001Apr-24-2022 at 13:01:17 }
+{ Using PSTWRITER 17.4.0 d001Apr-27-2022 at 15:02:05 }
 
 #1 WARNING(ORCAP-36050): No pins are present in FID1. Ignoring this component in netlist.
 #2 WARNING(ORCAP-36050): No pins are present in FID2. Ignoring this component in netlist.
 INFO(ORCAP-36080): Scanning netlist files ...
 
-Loading... C:\Users\olaf\Git\Arduino-Uno-Or-Cad-Clone\OrCad\Project\allegro\pstchip.dat
+Loading... c:\users\olaf\git\arduino-uno-or-cad-clone\orcad\project\allegro\pstchip.dat
 
-Loading... C:\Users\olaf\Git\Arduino-Uno-Or-Cad-Clone\OrCad\Project\allegro\pstchip.dat
+Loading... c:\users\olaf\git\arduino-uno-or-cad-clone\orcad\project\allegro\pstchip.dat
 
-Loading... C:\Users\olaf\Git\Arduino-Uno-Or-Cad-Clone\OrCad\Project\allegro\pstxprt.dat
+Loading... c:\users\olaf\git\arduino-uno-or-cad-clone\orcad\project\allegro\pstxprt.dat
 
-Loading... C:\Users\olaf\Git\Arduino-Uno-Or-Cad-Clone\OrCad\Project\allegro\pstxnet.dat
+Loading... c:\users\olaf\git\arduino-uno-or-cad-clone\orcad\project\allegro\pstxnet.dat
 packaging the design view...

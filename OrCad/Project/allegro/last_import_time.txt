@@ -2,3 +2,7 @@
 2022-04-24T13:01:17 ===> "C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/pstxnet.dat"
 2022-04-24T13:01:17 ===> "C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/pstxprt.dat"
 2022-04-24T13:01:17 ===> "C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/Project/allegro/pstdmlmodels.dat"
+2022-04-27T15:02:12 ===> "./pstchip.dat"
+2022-04-27T15:02:12 ===> "./pstxnet.dat"
+2022-04-27T15:02:12 ===> "./pstxprt.dat"
+2022-04-27T15:02:12 ===> "./pstdmlmodels.dat"
