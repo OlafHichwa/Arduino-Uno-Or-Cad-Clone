@@ -1594,133 +1594,153 @@
 \i (01:21:12) xname_flush 
 \i (01:21:14) xname_flush '!' 
 \i (01:21:14) xname_flush 
-\i (01:21:14) xnam 1 
-\i (00:10:18) setwindow pcb
-\i (00:10:18) zoom out 2291.95 335.94
-\i (00:10:18) trapsize 840
-\i (00:10:18) zoom in 1 
-\i (00:10:18) setwindow pcb
-\i (00:10:18) zoom in 1379.70 371.22
-\i (00:10:18) trapsize 420
-\i (00:10:21) add connect 
-\t (00:10:21) Pick first element.
-\i (00:10:21) pick grid 1624.98 472.02
-\t (00:10:21) last pick:  1625.00 472.00
-\t (00:10:21) last pick:  1625.00 472.00
-\i (00:10:22) pick grid 1601.46 474.54
-\t (00:10:22) last pick:  1601.00 475.00
-\t (00:10:22) No DRC errors detected.
-\t (00:10:22) last pick:  1604.00 472.00
-\i (00:10:23) prepopup 1652.70 482.10
-\i (00:10:24) cancel 
-\i (00:10:24) placementedit 
-\i (00:10:25) add connect 
-\t (00:10:25) Pick first element.
-\i (00:10:27) pick grid 1605.66 470.34
-\t (00:10:27) last pick:  1606.00 470.00
-\t (00:10:27) last pick:  1599.50 469.00
-\t (00:10:27) Target Symbol Pin is defined from TOP to BOTTOM.
-\t (00:10:27) last pick:  1599.50 469.00
-\i (00:10:27) mouse_pos 1744.26 619.02
-\i (00:10:28) mouse_pos 1718.22 601.38
-\i (00:10:28) prepopup 1722.42 445.98
-\i (00:10:30) cancel 
-\i (00:10:30) placementedit 
-\i (00:10:31) prepopup 1720.74 655.98
-\i (00:10:40) rats net 
-\i (00:10:43) prepopup 1323.42 698.82
-\i (00:10:45) cancel 
-\i (00:10:45) placementedit 
-\i (00:10:53) unrats net 
-\i (00:10:56) pick grid 1605.66 471.18
-\t (00:10:56) last pick:  1606.00 471.00
-\i (00:11:00) add connect 
-\t (00:11:00) Pick first element.
-\i (00:11:01) pick grid 1519.98 656.82
-\t (00:11:01) last pick:  1520.00 657.00
-\t (00:11:01) last pick:  1513.00 678.00
-\t (00:11:01) Target Symbol Pin is defined on TOP.
-\t (00:11:01) last pick:  1513.00 678.00
-\i (00:11:03) prepopup 1467.06 566.94
-\i (00:11:04) cancel 
-\i (00:11:04) placementedit 
-\i (00:11:05) setwindow form.mini
-\i (00:11:05) FORM mini class 'DRC ERROR CLASS' 
-\i (00:11:06) FORM mini class ETCH 
-\i (00:11:07) FORM mini subclass TOP 
-\i (00:11:07) setwindow pcb
-\i (00:11:07) updateport CVPane
-\i (00:11:14) pick grid 1527.54 661.86
-\t (00:11:14) last pick:  1528.00 662.00
-\i (00:11:14) move 
-\t (00:11:14) last pick:  1663.00 828.00
-\t (00:11:14) Moving U3 / ATMEGA328P-PN_4_DIPDIL28_ATMEGA / DIPDIL28.
-\t (00:11:14) Pick new location for the element(s).
-\i (00:11:14) prepopup 1594.74 740.82
-\i (00:11:16) cancel 
-\i (00:11:16) placementedit 
-\i (00:11:17) pick grid 1630.86 597.18
-\t (00:11:17) last pick:  1631.00 597.00
-\i (00:11:17) add connect 
-\t (00:11:17) Pick first element.
-\i (00:11:22) undo 
-\i (00:11:22) trapsize 420
-\i (00:11:22) placementedit 
-\i (00:11:24) pick grid 1645.98 527.46
-\t (00:11:24) last pick:  1646.00 527.00
-\i (00:11:25) add connect 
-\t (00:11:25) Pick first element.
-\i (00:11:26) prepopup 1703.94 545.10
-\i (00:11:27) cancel 
-\i (00:11:27) placementedit 
-\i (00:11:28) undo 
-\i (00:11:28) trapsize 420
-\i (00:11:28) placementedit 
-\i (00:11:29) zoom out 1 
-\i (00:11:29) setwindow pcb
-\i (00:11:29) zoom out 1726.62 498.06
-\i (00:11:29) trapsize 840
-\i (00:11:29) zoom out 1 
-\i (00:11:29) setwindow pcb
-\i (00:11:29) zoom out 1726.61 498.06
-\i (00:11:29) trapsize 1680
-\i (00:11:29) zoom out 1 
-\i (00:11:29) setwindow pcb
-\i (00:11:29) zoom out 1726.60 498.06
-\i (00:11:29) trapsize 3360
-\i (00:11:29) save 
-\i (00:11:30) fillin yes 
-\t (00:11:30) > Sending response DoneOpenBoard
-\i (00:11:30) placementedit 
-\i (00:11:31) zoom in 1 
-\i (00:11:31) setwindow pcb
-\i (00:11:31) zoom in 1404.32 551.82
-\i (00:11:31) trapsize 1680
-\i (00:11:35) add connect 
-\t (00:11:35) Pick first element.
-\i (00:11:37) zoom in 1 
-\i (00:11:37) setwindow pcb
-\i (00:11:37) zoom in 695.36 521.58
-\i (00:11:37) trapsize 840
-\i (00:11:37) zoom in 1 
-\i (00:11:37) setwindow pcb
-\i (00:11:37) zoom in 913.76 511.50
-\i (00:11:37) trapsize 420
-\i (00:11:39) setwindow form.mini
-\i (00:11:39) FORM mini active_subclass TOP 
-\t (00:11:39) Pick first element.
-\i (00:11:40) FORM mini alt_subclass BOTTOM 
-\t (00:11:40) Pick first element.
-\i (00:11:43) setwindow pcb
-\i (00:11:43) pick grid 916.28 393.06
-\t (00:11:43) last pick:  916.00 393.00
-\t (00:11:43) last pick:  911.60 389.00
-\t (00:11:43) Target Symbol Pin is defined on TOP.
-\t (00:11:43) last pick:  911.60 389.00
-\i (00:11:43) mouse_pos 915.44 474.54
-\i (00:11:43) pick grid 919.64 490.50
-\t (00:11:43) last pick:  920.00 491.00
-\t (00:11:43) No DRC errors detected.
+\i (01:21:14) xname_flush '!' 
+\i (01:21:14) xname_flush 
+\i (01:21:16) xname_flush 
+\i (01:21:17) xname_flush '!' 
+\i (01:21:55) xname_flush 
+\i (01:22:11) xname_flush '!' 
+\i (01:22:15) xname_flush 
+\i (01:22:15) xname_flush '!' 
+\i (01:22:15) xname_flush 
+\i (01:22:17) xname_flush 
+\i (01:22:18) xname_flush '!' 
+\i (01:22:19) xname_flush 
+\i (01:22:24) xname_flush '!' 
+\i (01:22:24) xname_flush 
+\i (01:22:30) xname_flush '!' 
+\i (01:23:07) xname_flush 
+\i (01:23:12) xname_flush '!' 
+\i (01:23:37) xname_flush 
+\i (01:24:38) xname_flush '!' 
+\i (01:24:38) xname_flush 
+\i (01:24:55) xname_flush '!' 
+\i (01:24:56) xname_flush 
+\i (01:24:56) xname_flush '!' 
+\i (01:24:56) xname_flush 
+\i (01:24:56) xname_flush 
+\i (01:24:57) xname_flush '!' 
+\i (01:24:59) xname_flush 
+\i (01:25:30) xname_flush '!' 
+\i (01:25:30) xname_flush 
+\i (01:25:35) xname_flush '!' 
+\i (01:25:40) xname_flush 
+\i (01:25:53) xname_flush '!' 
+\i (01:25:55) xname_flush '!' 
+\i (01:26:02) xname_flush 
+\i (01:26:18) xname_flush '!' 
+\i (01:30:34) xname_flush 
+\i (01:30:34) xname_flush '!' 
+\i (01:30:34) xname_flush 
+\i (01:30:36) xname_flush 
+\i (01:30:37) xname_flush '!' 
+\i (01:30:51) xname_flush 
+\i (01:30:54) xname_flush '!' 
+\i (01:30:59) xname_flush 
+\i (01:31:10) xname_flush '!' 
+\i (01:31:10) xname_flush 
+\i (01:31:12) xname_flush '!' 
+\i (01:31:17) xname_flush 
+\i (01:31:26) xname_flush '!' 
+\i (01:31:26) xname_flush 
+\i (01:31:31) xname_flush '!' 
+\i (01:31:31) xname_flush 
+\i (01:31:31) xname_flush '!' 
+\i (01:31:31) xname_flush 
+\i (01:31:33) xname_flush 
+\i (01:31:34) xname_flush 
+\i (01:31:35) xname_flush '!' 
+\i (01:31:37) xname_flush 
+\i (01:31:51) xname_flush '!' 
+\i (01:31:51) xname_flush 
+\i (01:31:55) xname_flush '!' 
+\i (01:32:06) xname_flush 
+\i (01:32:19) xname_flush '!' 
+\i (01:32:25) xname_flush 
+\i (01:32:38) xname_flush '!' 
+\i (01:32:38) xname_flush 
+\i (01:34:16) xname_flush '!' 
+\i (01:34:16) xname_flush 
+\i (01:34:18) xname_flush '!' 
+\i (01:34:42) xname_flush 
+\i (01:34:45) xname_flush '!' 
+\i (01:34:45) xname_flush 
+\i (01:34:53) xname_flush '!' 
+\i (01:34:53) xname_flush 
+\i (01:34:59) xname_flush '!' 
+\i (01:34:59) xname_flush 
+\i (01:35:11) xname_flush '!' 
+\i (01:35:36) xname_flush 
+\i (01:36:10) xname_flush '!' 
+\i (01:36:13) xname_flush 
+\i (01:36:13) xname_flush '!' 
+\i (01:36:13) xname_flush 
+\i (01:36:14) xname_flush 
+\i (01:36:16) xname_flush '!' 
+\i (01:36:17) xname_flush 
+\i (01:37:18) xname_flush '!' 
+\i (01:37:48) xname_flush 
+\i (01:38:07) xname_flush '!' 
+\i (01:38:07) xname_flush 
+\i (01:38:59) xname_flush '!' 
+\i (01:38:59) xname_flush 
+\i (01:41:24) xname_flush '!' 
+\i (01:41:24) xname_flush 
+\i (01:41:27) xname_flush '!' 
+\i (01:41:53) xname_flush 
+\i (01:41:53) xname_flush 
+\i (01:41:58) xname_flush '!' 
+\i (01:42:02) xname_flush 
+\i (01:42:04) xname_flush '!' 
+\i (01:42:07) xname_flush 
+\i (01:43:04) xname_flush '!' 
+\i (01:43:04) xname_flush 
+\i (01:43:07) xname_flush '!' 
+\i (01:43:07) xname_flush 
+\i (01:43:31) xname_flush '!' 
+\i (01:43:31) xname_flush 
+\i (01:43:38) xname_flush '!' 
+\i (01:43:38) xname_flush 
+\i (01:43:38) xname_flush '!' 
+\i (01:43:38) xname_flush 
+\i (01:43:40) xname_flush 
+\i (01:43:41) xname_flush '!' 
+\i (01:43:51) xname_flush 
+\i (01:43:55) xname_flush '!' 
+\i (01:44:01) xname_flush 
+\i (01:44:08) xname_flush '!' 
+\i (01:44:08) xname_flush 
+\i (01:44:30) xname_flush '!' 
+\i (01:44:32) xname_flush 
+\i (01:45:19) xname_flush '!' 
+\i (01:48:23) xname_flush 
+\i (01:48:24) xname_flush '!' 
+\i (01:48:26) xname_flush 
+\i (01:48:35) xname_flush '!' 
+\i (01:48:35) xname_flush 
+\i (01:49:38) xname_flush '!' 
+\i (01:50:12) xname_flush 
+\i (01:50:19) xname_flush '!' 
+\i (01:50:22) xname_flush '!' 
+\i (01:51:15) xname_flush 
+\i (01:51:23) xname_flush '!' 
+\i (01:51:27) xname_flush 
+\i (01:51:34) xname_flush '!' 
+\i (01:51:40) xname_flush 
+\i (01:51:50) xname_flush '!' 
+\i (01:52:11) xname_flush 
+\i (01:52:14) xname_flush '!' 
+\i (01:53:09) xname_flush 
+\i (01:53:16) xname_flush '!' 
+\i (01:53:16) xname_flush 
+\i (01:53:18) xname_flush '!' 
+\i (01:53:29) xname_flush 
+\i (01:53:58) xname_flush '!' 
+\i (02:00:27) exit 
+\e (02:00:27) Do you want to save the changes you made to arduinouno.brd?
+\i (02:00:28) fillin no 
+\t (02:00:28)     Journal end - Fri Apr 29 01:15:11 2022
+
 \t (00:11:43) Pick first element.
 \i (00:11:45) pick grid 702.92 370.38
 \t (00:11:45) last pick:  703.00 370.00
