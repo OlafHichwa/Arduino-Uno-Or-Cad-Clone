@@ -5,7 +5,7 @@
 # ===============================================================================
 # 
 # Software licensed for sale by Cadence Design Systems, Inc.
-# Current time = Fri Apr 29 00:56:23 2022
+# Current time = Fri Apr 29 01:52:14 2022
 # 
 # Allegro PCB Router v17-4-0 made 2019/09/12 at 15:39:59
 # Running on: olafdelldesktop, OS Version: WindowsNT 6.2.9200, Architecture: Intel Pentium II, III, or 4
@@ -14,7 +14,7 @@
 # Design Name c:/users/olaf/git/arduino-uno-or-cad-clone/orcad/project/allegro\olaftry2.dsn
 # Batch File Name: pasde.do
 # Did File Name: c:/users/olaf/git/arduino-uno-or-cad-clone/orcad/project/allegro/specctra.did
-# Current time = Fri Apr 29 00:56:23 2022
+# Current time = Fri Apr 29 01:52:14 2022
 # PCB c:/users/olaf/git/arduino-uno-or-cad-clone/orcad/project/allegro
 # Master Unit set up as: MIL 1000
 # PCB Limits xlo=-135.0000 ylo=-105.0000 xhi=2835.0000 yhi=2205.0000
@@ -26,14 +26,19 @@
 #    TOP  -----------  PAD30CIR20D
 # BOTTOM  PAD30CIR20D  -----------
 # 
-# Wires Processed 183, Vias Processed 61
+# <<WARNING:>> Potential non fixed positive shape alignment with the host CAD system exists.
+#              Allegro PCB Router does not perform any operations to remove or identify slivers and isolations.
+#              If the host CAD system performs such an operation, the user may experience unrouted
+#              or DRC alignment issues.
+#              The user must perform final unrouted/DRC validation within the host CAD system.
+# Wires Processed 246, Vias Processed 84
 # Using colormap in design file.
 # Layers Processed: Signal Layers 2
 # Components Placed 67, Images Processed 92, Padstacks Processed 30
-# Nets Processed 62, Net Terminals 282
+# Nets Processed 62, Net Terminals 327
 # PCB Area=5670000.000  EIC=16  Area/EIC=354375.000  SMDs=52
 # Total Pin Count: 236
-# Signal Connections Created 52
+# Signal Connections Created 7
 # 
 # Design Rules --------------------------------------------
 # Via Grid 0.0100 with offset 0.0000
@@ -42,19 +47,341 @@
 # Cpu Time = 0:00:00  Elapsed Time = 0:00:00
 # 
 # Wiring Statistics ----------------- c:/users/olaf/git/arduino-uno-or-cad-clone/orcad/project/allegro\olaftry2.dsn
-# Nets 62 Connections 160 Unroutes 52
+# Nets 62 Connections 182 Unroutes 7
 # Signal Layers 2 Power Layers 0
-# Wire Junctions 19, at vias 12 Total Vias 61
-# Percent Connected   50.63
-# Manhattan Length 100557.6900 Horizontal 51708.9740 Vertical 48848.7160
-# Routed Length 78218.9539 Horizontal 46217.8700 Vertical 40388.3800
-# Ratio Actual / Manhattan   0.7779
-# Unconnected Length 25373.9400 Horizontal 12488.7000 Vertical 12885.2400
-# Total Conflicts: 89 (Cross: 0, Clear: 89, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Wire Junctions 29, at vias 20 Total Vias 84
+# Percent Connected    0.00
+# Manhattan Length 106238.7520 Horizontal 54937.6550 Vertical 51301.0970
+# Routed Length 88084.3910 Horizontal 52865.9800 Vertical 44863.2500
+# Ratio Actual / Manhattan   0.8291
+# Unconnected Length 4247.6550 Horizontal 2375.9750 Vertical 1871.6800
+# Total Conflicts: 3909 (Cross: 0, Clear: 3909, Xtalk: 0, Length: 0, Polygon Clear: 0 )
 # Cpu Time = 0:00:00  Elapsed Time = 0:00:00
 # Loading Do File pasde.do ...
 # Loading Do File c:/users/olaf/git/arduino-uno-or-cad-clone/orcad/project/allegro\olaftry2_rules.do ...
 # Nets USB_D+ and 'USB_D-' have been defined as a balanced pair.
 # Colormap Written to File _notify.std
-# Total Conflicts: 26 (Cross: 0, Clear: 26, Xtalk: 0, Length: 0, Polygon Clear: 0 )
-# Enter command <quit
+# Total Conflicts: 3841 (Cross: 0, Clear: 3841, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Enter command <# Loading Do File C:/Users/olaf/AppData/Local/Temp/#Taaaaav02516.tmp ...
+# All Components Unselected.
+# All Nets Unselected.
+# Net GND Selected.
+set route_diagonal 4
+grid wire 0.010000 (direction x) (offset 0.000000)
+grid wire 0.010000 (direction y) (offset 0.000000)
+grid via 0.010000 (direction x) (offset 0.000000)
+grid via 0.010000 (direction y) (offset 0.000000)
+protect all wires
+# All Wires Protected.
+direction TOP horizontal
+select layer TOP
+unprotect layer_wires TOP
+# Wires on layer TOP were Unprotected.
+direction BOTTOM vertical
+select layer BOTTOM
+unprotect layer_wires BOTTOM
+# Wires on layer BOTTOM were Unprotected.
+cost via 100
+set turbo_stagger off
+limit outside 32.000000
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+unprotect selected
+# All Selected Wires Unprotected.
+fanout 1 (direction In_out) (location Anywhere) (pin_type power) (pin_type signal)
+# Command fanout detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command fanout will ignore pcb layer rule(s), mcm via rule(s)
+# Command fanout detected differential pair(s), which require the RouteFST license feature.
+# All unlicensed rules are being ignored.
+# Command fanout will ignore differential pair(s)
+# Command Fanout detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command Fanout will ignore pcb layer rule(s), mcm via rule(s)
+# Command Fanout detected differential pair(s), which require the RouteFST license feature.
+# All unlicensed rules are being ignored.
+# Command Fanout will ignore differential pair(s)
+# Fanout in any direction.
+# Fanout inside and outside component outline.
+# Fanout..Signal Nets.
+# Fanout..Power Nets.
+# Current time = Fri Apr 29 01:52:22 2022
+# 
+#    VIA       TOP       BOTTOM   
+# 
+#    TOP  -----------  PAD30CIR20D
+# BOTTOM  PAD30CIR20D  -----------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 8.0000, Clearance= 8.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 8.0000, Clearance= 8.0000
+# 
+# Wiring Statistics ----------------- c:/users/olaf/git/arduino-uno-or-cad-clone/orcad/project/allegro\olaftry2.dsn
+# Nets 62 Connections 182 Unroutes 7
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 29, at vias 20 Total Vias 84
+# Percent Connected    0.00
+# Manhattan Length 106238.7520 Horizontal 54937.6550 Vertical 51301.0970
+# Routed Length 88084.3910 Horizontal 52865.9800 Vertical 44863.2500
+# Ratio Actual / Manhattan   0.8291
+# Unconnected Length 4247.6550 Horizontal 2375.9750 Vertical 1871.6800
+# Start Fanout Pass 1 of 1
+# Attempts 2 Successes 0 Failures 2 Vias 84
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# A wire segment in Net GND is tapered to minimum wire width 8
+# A wire segment in Net GND is tapered to minimum wire width 8
+# A wire segment in Net GND is tapered to minimum wire width 8
+# Total Conflicts: 3796 (Cross: 0, Clear: 3796, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 1 of 1
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# Command check detected differential pair(s), which require the RouteFST license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore differential pair(s)
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# 
+# Wiring Statistics ----------------- c:/users/olaf/git/arduino-uno-or-cad-clone/orcad/project/allegro\olaftry2.dsn
+# Nets 62 Connections 182 Unroutes 10
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 29, at vias 20 Total Vias 83
+# Percent Connected    0.00
+# Manhattan Length 106238.7520 Horizontal 54965.4190 Vertical 51273.3330
+# Routed Length 87984.8591 Horizontal 52808.0400 Vertical 44798.2500
+# Ratio Actual / Manhattan   0.8282
+# Unconnected Length 4457.2700 Horizontal 2495.1550 Vertical 1962.1150
+write routes (changed_only) (reset_changed) C:/Users/olaf/AppData/Local/Temp/#Taaaaaw02516.tmp
+# <<WARNING:>> Non positive shape width (0) near the point 2597020/909000.
+# <<WARNING:>> Non positive shape width (0) near the point 885930/2060000.
+# <<WARNING:>> Non positive shape width (0) near the point 2538960/2060000.
+# <<WARNING:>> Non positive shape width (0) near the point 2363020/501480.
+# <<WARNING:>> Non positive shape width (0) near the point 1110530/501980.
+# <<WARNING:>> Non positive shape width (0) near the point 1357520/1159980.
+# <<WARNING:>> Non positive shape width (0) near the point 1188020/1285200.
+# <<WARNING:>> Non positive shape width (0) near the point 448490/1551100.
+# <<WARNING:>> Non positive shape width (0) near the point 930620/417980.
+# <<WARNING:>> Non positive shape width (0) near the point 1516640/562980.
+# <<WARNING:>> Number of warnings on non positive widths exceeded limit (10). No more messages will be printed.
+# Routing Written to File C:/Users/olaf/AppData/Local/Temp/#Taaaaaw02516.tmp
+# Loading Do File C:/Users/olaf/AppData/Local/Temp/#Taaaaax02516.tmp ...
+# All Components Unselected.
+# All Nets Unselected.
+# Component R3 Selected.
+set route_diagonal 4
+grid wire 0.010000 (direction x) (offset 0.000000)
+grid wire 0.010000 (direction y) (offset 0.000000)
+grid via 0.010000 (direction x) (offset 0.000000)
+grid via 0.010000 (direction y) (offset 0.000000)
+protect all wires
+# All Wires Protected.
+direction TOP horizontal
+select layer TOP
+unprotect layer_wires TOP
+# Wires on layer TOP were Unprotected.
+direction BOTTOM vertical
+select layer BOTTOM
+unprotect layer_wires BOTTOM
+# Wires on layer BOTTOM were Unprotected.
+cost via 100
+set turbo_stagger off
+limit outside 32.000000
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+unprotect selected
+# All Selected Wires Unprotected.
+fanout 1 (direction In_out) (location Anywhere) (pin_type power) (pin_type signal)
+# Command fanout detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command fanout will ignore pcb layer rule(s), mcm via rule(s)
+# Command fanout detected differential pair(s), which require the RouteFST license feature.
+# All unlicensed rules are being ignored.
+# Command fanout will ignore differential pair(s)
+# Command Fanout detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command Fanout will ignore pcb layer rule(s), mcm via rule(s)
+# Command Fanout detected differential pair(s), which require the RouteFST license feature.
+# All unlicensed rules are being ignored.
+# Command Fanout will ignore differential pair(s)
+# Fanout in any direction.
+# Fanout inside and outside component outline.
+# Fanout..Signal Nets.
+# Fanout..Power Nets.
+# Current time = Fri Apr 29 01:52:35 2022
+# 
+#    VIA       TOP       BOTTOM   
+# 
+#    TOP  -----------  PAD30CIR20D
+# BOTTOM  PAD30CIR20D  -----------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 8.0000, Clearance= 8.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 8.0000, Clearance= 8.0000
+# 
+# Wiring Statistics ----------------- c:/users/olaf/git/arduino-uno-or-cad-clone/orcad/project/allegro\olaftry2.dsn
+# Nets 62 Connections 182 Unroutes 10
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 29, at vias 20 Total Vias 83
+# Percent Connected    0.00
+# Manhattan Length 106238.7520 Horizontal 54965.4190 Vertical 51273.3330
+# Routed Length 87984.8591 Horizontal 52808.0400 Vertical 44798.2500
+# Ratio Actual / Manhattan   0.8282
+# Unconnected Length 4457.2700 Horizontal 2495.1550 Vertical 1962.1150
+# Start Fanout Pass 1 of 1
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# Command check detected differential pair(s), which require the RouteFST license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore differential pair(s)
+# Attempts 1 Successes 0 Failures 1 Vias 83
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 3796 (Cross: 0, Clear: 3796, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 1
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# Command check detected differential pair(s), which require the RouteFST license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore differential pair(s)
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- c:/users/olaf/git/arduino-uno-or-cad-clone/orcad/project/allegro\olaftry2.dsn
+# Nets 62 Connections 182 Unroutes 10
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 29, at vias 20 Total Vias 83
+# Percent Connected    0.00
+# Manhattan Length 106238.7520 Horizontal 54965.4190 Vertical 51273.3330
+# Routed Length 87984.8591 Horizontal 52808.0400 Vertical 44798.2500
+# Ratio Actual / Manhattan   0.8282
+# Unconnected Length 4457.2700 Horizontal 2495.1550 Vertical 1962.1150
+write routes (changed_only) (reset_changed) C:/Users/olaf/AppData/Local/Temp/#Taaaaay02516.tmp
+# Routing Written to File C:/Users/olaf/AppData/Local/Temp/#Taaaaay02516.tmp
+# Loading Do File C:/Users/olaf/AppData/Local/Temp/#Taaaaaz02516.tmp ...
+# All Components Unselected.
+# All Nets Unselected.
+# Component R3 Selected.
+set route_diagonal 4
+grid wire 0.010000 (direction x) (offset 0.000000)
+grid wire 0.010000 (direction y) (offset 0.000000)
+grid via 0.010000 (direction x) (offset 0.000000)
+grid via 0.010000 (direction y) (offset 0.000000)
+protect all wires
+# All Wires Protected.
+direction TOP horizontal
+select layer TOP
+unprotect layer_wires TOP
+# Wires on layer TOP were Unprotected.
+direction BOTTOM vertical
+select layer BOTTOM
+unprotect layer_wires BOTTOM
+# Wires on layer BOTTOM were Unprotected.
+cost via 100
+set turbo_stagger off
+limit outside 32.000000
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+unprotect selected
+# All Selected Wires Unprotected.
+fanout 1 (direction In_out) (location Anywhere) (pin_type power) (pin_type signal)
+# Command fanout detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command fanout will ignore pcb layer rule(s), mcm via rule(s)
+# Command fanout detected differential pair(s), which require the RouteFST license feature.
+# All unlicensed rules are being ignored.
+# Command fanout will ignore differential pair(s)
+# Command Fanout detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command Fanout will ignore pcb layer rule(s), mcm via rule(s)
+# Command Fanout detected differential pair(s), which require the RouteFST license feature.
+# All unlicensed rules are being ignored.
+# Command Fanout will ignore differential pair(s)
+# Fanout in any direction.
+# Fanout inside and outside component outline.
+# Fanout..Signal Nets.
+# Fanout..Power Nets.
+# Current time = Fri Apr 29 01:52:46 2022
+# 
+#    VIA       TOP       BOTTOM   
+# 
+#    TOP  -----------  PAD30CIR20D
+# BOTTOM  PAD30CIR20D  -----------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 8.0000, Clearance= 8.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 8.0000, Clearance= 8.0000
+# 
+# Wiring Statistics ----------------- c:/users/olaf/git/arduino-uno-or-cad-clone/orcad/project/allegro\olaftry2.dsn
+# Nets 62 Connections 182 Unroutes 10
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 29, at vias 20 Total Vias 83
+# Percent Connected    0.00
+# Manhattan Length 106238.7520 Horizontal 54965.4190 Vertical 51273.3330
+# Routed Length 87984.8591 Horizontal 52808.0400 Vertical 44798.2500
+# Ratio Actual / Manhattan   0.8282
+# Unconnected Length 4457.2700 Horizontal 2495.1550 Vertical 1962.1150
+# Start Fanout Pass 1 of 1
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# Command check detected differential pair(s), which require the RouteFST license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore differential pair(s)
+# Attempts 1 Successes 0 Failures 1 Vias 83
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 3796 (Cross: 0, Clear: 3796, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 1 of 1
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# Command check detected differential pair(s), which require the RouteFST license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore differential pair(s)
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- c:/users/olaf/git/arduino-uno-or-cad-clone/orcad/project/allegro\olaftry2.dsn
+# Nets 62 Connections 182 Unroutes 10
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 29, at vias 20 Total Vias 83
+# Percent Connected    0.00
+# Manhattan Length 106238.7520 Horizontal 54965.4190 Vertical 51273.3330
+# Routed Length 87984.8591 Horizontal 52808.0400 Vertical 44798.2500
+# Ratio Actual / Manhattan   0.8282
+# Unconnected Length 4457.2700 Horizontal 2495.1550 Vertical 1962.1150
+write routes (changed_only) (reset_changed) C:/Users/olaf/AppData/Local/Temp/#Taaaaba02516.tmp
+# Routing Written to File C:/Users/olaf/AppData/Local/Temp/#Taaaaba02516.tmp

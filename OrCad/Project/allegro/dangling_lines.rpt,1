@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : olaftry2.brd                                  )
 (    Software Version : 17.4S024                                      )
-(    Date/Time        : Fri Apr 29 01:41:06 2022                      )
+(    Date/Time        : Fri Apr 29 01:30:08 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -28,7 +28,6 @@ Report methodology:
   N19205               TOP                    14.00     *(911.60 403.00) to  (911.60 389.00)
   GND                  BOTTOM                  7.00      (2331.00 346.00) to *(2338.00 346.00)
   GND                  BOTTOM                  6.00      (1135.00 441.00) to *(1135.00 435.00)
-  GND                  TOP                    82.96      (538.00 1763.96) to *(455.04 1763.96)
   GND                  BOTTOM                  4.00      (2444.00 925.00) to *(2440.00 925.00)
   Not a Net            BOTTOM                 24.04     *(2136.00 1025.00) to *(2119.00 1042.00)
   Not a Net            TOP                    49.46     *(2118.00 1067.00) to *(2136.00 1025.00)
@@ -50,6 +49,6 @@ Report methodology:
   GND                  PAD30CIR20D          (1573.00 281.00) TOP/BOTTOM 
 
 << Summary >>
-  Total dangling lines:       7
+  Total dangling lines:       6
   Total dangling vias:        3
   Total antenna vias:         3

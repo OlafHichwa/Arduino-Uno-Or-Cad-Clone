@@ -1,0 +1,33 @@
+\t (00:00:01) allegro_free_viewer 17.4 S024 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Apr 29 02:06:38 2022
+\t (00:00:01)         Host=OLAFDELLDESKTOP User=olaf Pid=9284 CPUs=24
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro_free_viewer.exe -mpssession olaf -proj c:\users\olaf\git\arduino-uno-or-cad-clone\orcad\project\arduinouno.opj c:\users\olaf\git\arduino-uno-or-cad-clone\orcad\project\allegro\olaftry2.brd
+\t (00:00:01) 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: c:/users/olaf/git/arduino-uno-or-cad-clone/orcad/project/allegro/olaftry2.brd
+\i (00:00:01) trapsize 2441
+\i (00:00:01) updateport SearchPane
+\i (00:00:01) updateport PropPane
+\i (00:00:01) ucpedit 
+\i (00:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:12) exit 
+\e (00:00:12) Do you want to save the changes you made to olaftry2.brd?
+\i (00:00:18) fillin yes 
+\e (00:00:18) File "olaftry2.brd" is being edited by user "olaf" on date "Fri Apr 29 01:50:53 2022" on system "OLAFDELLDESKTOP".  Save design to another name or contact user to remove their lock.
+\i (00:00:20) fillin confirm
+\i (00:00:20) ucpedit 
+\i (00:00:22) exit 
+\e (00:00:22) Do you want to save the changes you made to olaftry2.brd?
+\i (00:00:23) fillin no 
+\i (00:00:23) QtSignal ADTableContainerWidget ADTableTab currentChanged "Nets (61)"
+\i (00:00:23) QtSignal ADTableContainerWidget ADTableTab currentChanged "Pins (236)"
+\i (00:00:23) QtSignal ADTableContainerWidget ADTableTab currentChanged "Traces/Lines/Wires (1185)"
+\i (00:00:23) QtSignal ADTableContainerWidget ADTableTab currentChanged "Vias (80)"
+\i (00:00:23) QtSignal ADTableContainerWidget ADTableTab currentChanged
+\t (00:00:23)     Journal end - Fri Apr 29 02:07:00 2022

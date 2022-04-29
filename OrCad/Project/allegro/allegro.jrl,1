@@ -1,0 +1,12 @@
+\t (00:00:38) allegro 17.4 S024 Windows SPB 64-bit Edition
+\t (00:00:38)     Journal start - Fri Apr 29 01:55:15 2022
+\t (00:00:38)         Host=OLAFDELLDESKTOP User=olaf Pid=9596 CPUs=24
+\t (00:00:38) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -mpssession olaf -proj c:\users\olaf\git\arduino-uno-or-cad-clone\orcad\project\arduinouno.opj c:\users\olaf\git\arduino-uno-or-cad-clone\orcad\project\allegro\arduinouno.brd
+\t (00:00:38) 
+   (00:00:38) Loading axlcore.cxt 
+\e (00:00:38) Retrieval of 'OrCAD_PCB_Editor' license failed: ''. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:00:40) fillin confirm
+\i (00:00:42) fillin OrCAD_PCB_Designer_PSpice
+\e (00:00:42) Retrieval of 'OrCAD_PCB_Editor' license failed: ''. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:00:44) fillin confirm
+\t (00:00:44)     Journal end - Fri Apr 29 01:55:21 2022
