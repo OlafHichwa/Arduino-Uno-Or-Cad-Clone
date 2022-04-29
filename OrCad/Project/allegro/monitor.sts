@@ -1,0 +1,8 @@
+#Allegro PCB Router v17-4-0 made 2019/09/12 at 15:39:59
+#Host 
+#ROUTING STATUS <<< c:/users/olaf/git/arduino-uno-or-cad-clone/orcad/project/allegro\olaftry2.dsn >>>
+Start  Time: Report Time: Fri Apr 29 00:56:23 2022
+
+Nets         =       62   Connections         =      160
+Current Wire =        0   Reroute wires       =      183
+Completion   =   50.63%   Unconnections       =       52

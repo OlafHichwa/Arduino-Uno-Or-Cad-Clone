@@ -33,14 +33,19 @@
     (ANNOTATE_Property_Combine "{Value}{Source Package}")
     (DOCKED "TRUE")
     (DOCKING_POSITION "59420")
-    ("Allegro Netlist Directory" "allegro")
-    ("Allegro Netlist Output Board File" ".\allegro\arduinouno.brd")
+    ("Allegro Netlist Directory" "allegro\allegro")
+    ("Allegro Netlist Output Board File" ".\allegro\olaftry2.brd")
     (Board_sim_option "VHDL_flow"))
   (Folder "Layout"
     (File ".\allegro\arduinouno.brd"
       (Type "Board File")
       (OutputBoard ".\allegro\arduinouno.brd")
       (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\olaftry2.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\olaftry2.brd")
+      (NetListPath ".\allegro\allegro")
       (ActiveBoard "1")))
   (Folder "Outputs"
     (File ".\allegro\pstxnet.dat"
@@ -123,18 +128,18 @@
       (Path "Layout")
       (Path "Outputs")
       (Path "Logs")
-      (Select "Layout" ".\allegro\arduinouno.brd"))
+      (Select "Layout" ".\allegro\olaftry2.brd"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 374 0 1036"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 431 0 1008"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1058 24 1077")
-        (Scroll "0 -2")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1104 24 1049")
+        (Scroll "0 0")
         (Zoom "141")
         (Occurrence "/"))
       (Path
@@ -144,9 +149,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1058 24 1077")
-        (Scroll "80 -92")
-        (Zoom "55")
+        (Placement "44 0 1 -1 -1 5 24 5 1104 24 1049")
+        (Scroll "133 -2")
+        (Zoom "65")
         (Occurrence "/"))
       (Path
          "C:\USERS\OLAF\GIT\ARDUINO-UNO-OR-CAD-CLONE\ORCAD\PROJECT\ARDUINOUNO.DSN")
