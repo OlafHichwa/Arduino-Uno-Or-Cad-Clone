@@ -4,15 +4,15 @@
 (                                                                     )
 (    Drawing          : olaftry2.brd                                  )
 (    Software Version : 17.4S024                                      )
-(    Date/Time        : Thu Apr 28 23:19:13 2022                      )
+(    Date/Time        : Thu Apr 28 23:25:45 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
- Place by text file using: C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/Templates/place_txt.txt
+ Place by text file using: C:/Users/olaf/Git/arduino-uno-or-cad-clone/OrCad/Templates/place_txt.txt
 
- Save as c:/users/olaf/git/arduino-uno-or-cad-clone/orcad/project/allegro/#Taaaaae12424.tmp 
+ Save as c:/users/olaf/git/arduino-uno-or-cad-clone/orcad/project/allegro/#Taaaaae09140.tmp 
 C1                   !     638.00 !     961.00 !       90 !        ! CC0805N                          !                                 
 C14                  !    1345.00 !    1092.00 !        0 !        ! CC0805N                          !                                 
 C15                  !    1506.00 !    1094.00 !        0 !        ! CC0805N                          !                                 
@@ -38,15 +38,19 @@ D3                   !    1512.00 !    1540.00 !        0 !        ! LED_0805_OR
 D4                   !    1508.00 !    1461.00 !        0 !        ! LED_0805_ORANGE                  !                                 
 D6                   !    2466.00 !    1859.00 !        0 !        ! LEDC2012X70N                     !                                 
 J1                   !    1675.00 !    1731.00 !        0 !        ! HEADERV_4POS_2X2                 !                                 
-J10                  !    2500.00 !    2018.00 !        0 !        ! CONN8_FH                         !                                 
-J2                   !    1574.00 !      97.00 !        0 !        ! CONN8_FH                         !                                 
+
+ Refdes J10 is already placed ... skipping
+
+ Refdes J2 is already placed ... skipping
 J3                   !    2225.00 !    1800.00 !      270 !        ! HDRV6POS254_2X3                  !                                 
 J4                   !     333.00 !     377.00 !      180 !        ! CUI_PJ-002AH                     !                                 
 J5                   !     419.00 !    1414.00 !      270 !        ! CON4-B474X618RZT                 !                                 
 J6                   !     949.00 !     345.00 !      270 !        ! DBV5                             !                                 
-J7                   !    1668.00 !    2018.00 !        0 !        ! CONN10_FH                        !                                 
+
+ Refdes J7 is already placed ... skipping
 J8                   !    2527.00 !    1220.00 !      270 !        ! HDRV6POS254_2X3                  !                                 
-J9                   !    1835.00 !      86.00 !      180 !        ! CONN6_FH                         !                                 
+
+ Refdes J9 is already placed ... skipping
 L1                   !    2027.00 !    1302.00 !      180 !        ! BEADC2112X105N                   !                                 
 L2                   !    1350.00 !     525.00 !        0 !        ! BEADC2112X105N                   !                                 
 L4                   !    1649.00 !    1193.00 !        0 !        ! BEADC2112X105N                   !                                 
@@ -64,6 +68,8 @@ R3                   !    1345.00 !    1678.00 !        0 !        ! STA_RMCF080
 R6                   !    1325.00 !    1550.00 !      180 !        ! STA_RMCF0805                     !                                 
 R7                   !    1275.00 !    1450.00 !      180 !        ! STA_RMCF0805                     !                                 
 R8                   !    2532.00 !    1662.00 !      270 !        ! STA_RMCF0805                     !                                 
+
+ Warning: component R9 added with DRC errors
 R9                   !    2106.00 !    1083.00 !      180 !        ! STA_RMCF0805                     !                                 
 R4                   !     569.00 !    1519.00 !        0 !        ! STA_RMCF0805                     !                                 
 R5                   !     571.00 !    1604.00 !        0 !        ! STA_RMCF0805                     !                                 
@@ -72,9 +78,17 @@ RV2                  !     538.00 !    1724.00 !       90 !        ! VARISTOR_08
 SW1                  !    2454.00 !     529.00 !       90 !        ! SW4_1825910-B                    !                                 
 U1                   !     905.00 !    1516.00 !       90 !        ! 32A                              !                                 
 U2                   !     657.00 !     692.00 !        0 !        ! DCY4                             !                                 
+
+ Warning: component U3 added with DRC errors
 U3                   !    2313.00 !     978.00 !      270 !        ! DIPDIL28                         !                                 
 U4                   !    1448.00 !     281.00 !      180 !        ! MF05A                            !                                 
+
+ Warning: component Y1 added with DRC errors
 Y1                   !     800.00 !    1100.00 !      180 !        ! XTAL500X320X130N                 !                                 
 Y2                   !    1358.00 !    1281.00 !      180 !        ! XTAL500X320X130N                 !                                 
 
- Successfully placed 63 components
+ Successfully placed 59 components
+
+ Failed to place 4 components
+
+ 7 Warnings reported

@@ -1,0 +1,10 @@
+
+1.6mm pcb 
+2 layers 
+thru vias only
+8mill min trace / space 
+any solder mask color works 
+any silk color works
+any surface finish works
+1oz copper finish 
+no pannel

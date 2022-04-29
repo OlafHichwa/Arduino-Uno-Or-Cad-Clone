@@ -4,12 +4,12 @@
 (                                                                     )
 (    Drawing          : arduinouno.brd                                )
 (    Software Version : 17.4S024                                      )
-(    Date/Time        : Thu Apr 28 23:07:33 2022                      )
+(    Date/Time        : Thu Apr 28 23:07:46 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
- Create a placement by text file: place_txt.txt
+ Create a placement by text file: C:/Users/olaf/Git/Arduino-Uno-Or-Cad-Clone/OrCad/Templates/place_txt.txt
 
  Successfully processed 63 placed components
